@@ -30,5 +30,7 @@
   "staking_method": "quarter-Kelly (full-Kelly fraction 0.448, quarter = 0.112 of 100 EUR bankroll)",
   "potential_profit_eur": 13.08,
   "potential_return_eur": 24.08,
-  "result": "pending"
+  "result": "win",
+  "profit_eur": 13.08,
+  "bankroll_after_eur": 113.08
 }
