@@ -1,0 +1,34 @@
+{
+  "match": "Ivory Coast vs Norway",
+  "competition": "FIFA World Cup 2026 — Round of 32",
+  "kickoff_utc": "2026-06-30T17:00:00Z",
+  "venue": "AT&T Stadium, Arlington, Texas (neutral)",
+  "model": "v24deploy_wc2 — 0.5*transformer + 0.5*confed-adjusted Elo (neutral, strongest-XI)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "ivory_coast_win": 0.116,
+    "draw": 0.179,
+    "norway_win": 0.705
+  },
+  "model_xg": {
+    "ivory_coast": 0.86,
+    "norway": 1.89,
+    "total": 2.76
+  },
+  "odds_offered": {
+    "ivory_coast_win": 3.5,
+    "draw": 3.4,
+    "norway_win": 2.15
+  },
+  "bet": "Norway win",
+  "odds": 2.15,
+  "implied_prob": 0.465,
+  "model_prob": 0.705,
+  "edge_pp": 24.0,
+  "ev": 0.516,
+  "stake_eur": 11.20,
+  "staking_method": "quarter-Kelly (full-Kelly fraction 0.448, quarter = 0.112 of 100 EUR bankroll)",
+  "potential_profit_eur": 13.08,
+  "potential_return_eur": 24.08,
+  "result": "pending"
+}
