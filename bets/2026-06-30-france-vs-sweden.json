@@ -1,0 +1,35 @@
+{
+  "match": "France vs Sweden",
+  "competition": "FIFA World Cup 2026 — Round of 32",
+  "kickoff_utc": "2026-06-30T21:00:00Z",
+  "venue": "MetLife Stadium, East Rutherford, New Jersey (neutral)",
+  "model": "v24deploy_wc2 — 0.5*transformer + 0.5*confed-adjusted Elo (neutral, strongest-XI)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "france_win": 0.787,
+    "draw": 0.134,
+    "sweden_win": 0.079
+  },
+  "model_xg": {
+    "france": 2.27,
+    "sweden": 0.79,
+    "total": 3.06
+  },
+  "odds_offered": {
+    "france_win": 1.32,
+    "draw": 6.1,
+    "sweden_win": 11
+  },
+  "bet": "France win",
+  "odds": 1.32,
+  "implied_prob": 0.758,
+  "model_prob": 0.787,
+  "edge_pp": 2.9,
+  "ev": 0.039,
+  "stake_eur": 3.43,
+  "staking_method": "quarter-Kelly (full-Kelly fraction 0.121, quarter = 0.030 of 113.08 EUR bankroll)",
+  "potential_profit_eur": 1.10,
+  "potential_return_eur": 4.53,
+  "note": "Marginal edge (+3.9% EV) on an ultra-short favorite; clears +3% threshold but flagged low-confidence by project distrust rules.",
+  "result": "pending"
+}
