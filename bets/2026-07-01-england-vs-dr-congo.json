@@ -1,0 +1,35 @@
+{
+  "match": "England vs DR Congo",
+  "competition": "FIFA World Cup 2026 — Round of 32",
+  "kickoff_utc": "2026-07-01T16:00:00Z",
+  "venue": "Atlanta Stadium, Atlanta, Georgia (neutral)",
+  "model": "v24deploy_wc2 — 0.5*transformer + 0.5*confed-adjusted Elo (neutral, strongest-XI)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "england_win": 0.810,
+    "draw": 0.114,
+    "dr_congo_win": 0.076
+  },
+  "model_xg": {
+    "england": 2.79,
+    "dr_congo": 0.60,
+    "total": 3.40
+  },
+  "odds_offered": {
+    "england_win": 1.3,
+    "draw": 5.3,
+    "dr_congo_win": 14.0
+  },
+  "bet": "England win",
+  "odds": 1.3,
+  "implied_prob": 0.769,
+  "model_prob": 0.810,
+  "edge_pp": 4.1,
+  "ev": 0.053,
+  "stake_eur": 4.99,
+  "staking_method": "quarter-Kelly (full-Kelly fraction 0.177, quarter = 0.044 of 113.08 EUR bankroll)",
+  "potential_profit_eur": 1.50,
+  "potential_return_eur": 6.49,
+  "note": "Thin-margin favorite (odds 1.30, near the 1.20 ultra-short-favorite distrust line); DR Congo win @ 14.0 showed +6.1% EV but is a longshot price and treated as model noise, not bet.",
+  "result": "pending"
+}
