@@ -31,5 +31,7 @@
   "potential_profit_eur": 1.50,
   "potential_return_eur": 6.49,
   "note": "Thin-margin favorite (odds 1.30, near the 1.20 ultra-short-favorite distrust line); DR Congo win @ 14.0 showed +6.1% EV but is a longshot price and treated as model noise, not bet.",
-  "result": "pending"
+  "result": "win",
+  "profit_eur": 1.50,
+  "bankroll_after_eur": 115.68
 }

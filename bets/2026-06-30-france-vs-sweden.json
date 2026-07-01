@@ -31,5 +31,7 @@
   "potential_profit_eur": 1.10,
   "potential_return_eur": 4.53,
   "note": "Marginal edge (+3.9% EV) on an ultra-short favorite; clears +3% threshold but flagged low-confidence by project distrust rules.",
-  "result": "pending"
+  "result": "win",
+  "profit_eur": 1.10,
+  "bankroll_after_eur": 114.18
 }
