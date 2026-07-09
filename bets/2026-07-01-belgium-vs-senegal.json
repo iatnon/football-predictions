@@ -25,11 +25,14 @@
   "implied_prob": 0.476,
   "model_prob": 0.495,
   "edge_pp": 1.9,
-  "ev": 0.040,
+  "ev": 0.04,
   "stake_eur": 5.78,
   "staking_method": "flat 5% of settled bankroll (one-off override; quarter-Kelly would have given EUR1.04 at full-Kelly fraction 0.036 — see note)",
   "potential_profit_eur": 6.36,
   "potential_return_eur": 12.14,
   "note": "One-off sizing exception: staked at flat 5% cap instead of the quarter-Kelly rule used on bets #1-#3, per explicit user override on 2026-07-01. Quarter-Kelly would have sized this at EUR1.04 given the thin edge (+1.9pp / +4.0% EV). This does not change the project's locked staking rule going forward.",
-  "result": "pending"
+  "result": "win",
+  "final_score": "Belgium 3-2 Senegal",
+  "profit_eur": 6.36,
+  "bankroll_after_eur": 122.04
 }
