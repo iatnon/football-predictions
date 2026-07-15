@@ -1,0 +1,36 @@
+{
+  "match": "Norway vs England",
+  "competition": "FIFA World Cup 2026 — Quarterfinal",
+  "kickoff_utc": "2026-07-11T21:00:00Z",
+  "venue": "Miami Stadium, Miami Gardens, Florida (neutral)",
+  "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "lineups": {
+    "norway": "4-3-3: Nyland; Ryerson, Ajer, Heggem, Moller Wolfe; Odegaard, Berge, Berg; Sorloth, Haaland, Schjelderup",
+    "england": "4-2-3-1: Pickford; Konsa, Stones, Guehi, O'Reilly; Anderson, Rice; Madueke, Bellingham, Gordon; Kane"
+  },
+  "probabilities": {
+    "norway_win": 0.226,
+    "draw": 0.235,
+    "england_win": 0.539
+  },
+  "odds_offered": {
+    "norway_win": 4.50,
+    "draw": 4.00,
+    "england_win": 1.85
+  },
+  "bet": "Norway win",
+  "odds": 4.50,
+  "implied_prob": 0.222,
+  "model_prob": 0.226,
+  "edge_pp": 0.35,
+  "ev": 0.016,
+  "stake_eur": 10.00,
+  "staking_method": "OVERRIDE: user-directed flat EUR10, below the project's locked +3% EV threshold and not sized per the standing half-Kelly/8%-cap formula.",
+  "potential_profit_eur": 35.00,
+  "potential_return_eur": 45.00,
+  "note": "Sub-threshold override bet (EV only +1.6%). Book overround 1.28%.",
+  "result": "loss",
+  "final_score": "England 2-1 Norway (aet)",
+  "profit_eur": -10.00
+}

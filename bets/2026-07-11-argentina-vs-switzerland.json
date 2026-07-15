@@ -1,0 +1,43 @@
+{
+  "match": "Argentina vs Switzerland",
+  "competition": "FIFA World Cup 2026 — Quarterfinal",
+  "kickoff_utc": "2026-07-12T01:00:00Z",
+  "venue": "Kansas City Stadium, Kansas City, Missouri (neutral)",
+  "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "lineups": {
+    "argentina": "4-1-2-1-2: Emiliano Martinez; Nahuel Molina, Cristian Romero, Lisandro Martinez, Nicolas Tagliafico; Leandro Paredes; Rodrigo De Paul, Alexis Mac Allister; Enzo Fernandez; Lionel Messi, Julian Alvarez",
+    "switzerland": "4-3-3: Gregor Kobel; Denis Zakaria, Nico Elvedi, Manuel Akanji, Ricardo Rodriguez; Remo Freuler, Granit Xhaka, Djibril Sow; Fabian Rieder, Breel Embolo, Dan Ndoye"
+  },
+  "probabilities": {
+    "argentina_win": 0.720,
+    "draw": 0.164,
+    "switzerland_win": 0.116
+  },
+  "model_xg": {
+    "argentina": 2.26,
+    "switzerland": 0.56,
+    "total": 2.83
+  },
+  "odds_offered": {
+    "argentina_win": 1.7,
+    "draw": 2.55,
+    "switzerland_win": 6.5
+  },
+  "bet": "Argentina win (double bet, two legs)",
+  "legs": [
+    {"odds": 1.70, "stake_eur": 10.00, "ev": 0.2242, "note": "fullKelly=32.00%, halfKelly=16.00% far exceeds the 8% cap, so the cap binds: 0.08 x EUR122.04 = EUR9.76, rounded up to EUR10.00"},
+    {"odds": 1.73, "stake_eur": 10.00, "ev": 0.2456, "note": "Second leg: odds moved 1.70->1.73, user directed another EUR10 at the new price"}
+  ],
+  "implied_prob": 0.588,
+  "model_prob": 0.720,
+  "edge_pp": 13.19,
+  "stake_eur": 20.00,
+  "staking_method": "half-Kelly capped at 8% of settled bankroll (standing rule since 2026-07-07). Cap binds on leg 1 (fullKelly 32%, half 16%, cap 8%); leg 2 was a user-directed double at the moved price.",
+  "potential_profit_eur": 14.30,
+  "potential_return_eur": 34.30,
+  "note": "Only +EV leg: Draw EV -58.24%, Switzerland win EV -24.51%, both excluded. Book overround 13.42%.",
+  "result": "win",
+  "final_score": "Argentina 3-1 Switzerland (aet)",
+  "profit_eur": 14.30
+}

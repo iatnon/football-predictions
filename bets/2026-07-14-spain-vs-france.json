@@ -1,0 +1,37 @@
+{
+  "match": "Spain vs France",
+  "competition": "FIFA World Cup 2026 — Semifinal",
+  "kickoff_utc": "2026-07-14T00:00:00Z",
+  "venue": "AT&T Stadium, Arlington (Dallas), neutral",
+  "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "spain_win": 0.385,
+    "draw": 0.281,
+    "france_win": 0.335
+  },
+  "model_xg": {
+    "spain": 1.41,
+    "france": 1.23,
+    "total": 2.63
+  },
+  "odds_offered": {
+    "spain_win": 3.2,
+    "draw": 3.0,
+    "france_win": 2.65
+  },
+  "bet": "Spain win",
+  "odds": 3.2,
+  "implied_prob": 0.3125,
+  "model_prob": 0.385,
+  "edge_pp": 7.24,
+  "ev": 0.2317,
+  "stake_eur": 9.00,
+  "staking_method": "User-directed stake EUR9.00 (model-suggested prob-scaled Kelly under a EUR200 assumption was EUR8.12; standing half-Kelly/8%-cap rule off the then-current bankroll would have suggested a similar range).",
+  "potential_profit_eur": 19.80,
+  "potential_return_eur": 28.80,
+  "note": "Only +EV leg: Draw EV -15.84%, France win EV -11.34%, both excluded. Book overround 2.32%.",
+  "result": "win",
+  "final_score": "Spain 2-1 France",
+  "profit_eur": 19.80
+}

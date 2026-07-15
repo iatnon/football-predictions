@@ -1,0 +1,41 @@
+{
+  "match": "Spain vs Belgium",
+  "competition": "FIFA World Cup 2026 — Quarterfinal",
+  "kickoff_utc": "2026-07-10T19:00:00Z",
+  "venue": "Los Angeles Stadium, Inglewood, California (neutral)",
+  "model": "v24deploy_wc5 (3-seed, retrained 2026-07-09 on all 96 WC2026 results through the Round of 16) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": false,
+  "lineups": {
+    "spain": "4-2-3-1: Unai Simon; Pedro Porro, Pau Cubarsi, Aymeric Laporte, Marc Cucurella; Rodri, Pedri; Lamine Yamal, Dani Olmo, Alex Baena; Mikel Oyarzabal",
+    "belgium": "4-2-3-1: Thibaut Courtois; Timothy Castagne, Nathan Ngoy, Brandon Mechele, Maxim De Cuyper; Hans Vanaken, Youri Tielemans; Jeremy Doku, Kevin De Bruyne, Leandro Trossard; Charles De Ketelaere"
+  },
+  "probabilities": {
+    "spain_win": 0.571,
+    "draw": 0.227,
+    "belgium_win": 0.202
+  },
+  "model_xg": {
+    "spain": 1.76,
+    "belgium": 0.84,
+    "total": 2.60
+  },
+  "odds_offered": {
+    "spain_win": 1.6,
+    "draw": 4.0,
+    "belgium_win": 5.75
+  },
+  "bet": "Belgium win",
+  "odds": 5.75,
+  "implied_prob": 0.174,
+  "model_prob": 0.202,
+  "edge_pp": 2.81,
+  "ev": 0.1618,
+  "stake_eur": 3.00,
+  "staking_method": "half-Kelly capped at 8% of settled bankroll (standing rule since 2026-07-07, see bankroll.md): full-Kelly fraction 0.034, half-Kelly 0.017 (well under the 0.08 cap). 0.017 x EUR122.04 = EUR2.07, rounded up to EUR3.00",
+  "potential_profit_eur": 14.25,
+  "potential_return_eur": 17.25,
+  "note": "Only +EV leg: Spain win EV -8.58%, Draw EV -9.36%, both excluded. Book overround 4.89%. Odds sit near the longshot-caution boundary (~6.0) but edge treated as genuine per project rule (clean XI data both sides).",
+  "result": "loss",
+  "final_score": "Spain 2-1 Belgium",
+  "profit_eur": -3.00
+}

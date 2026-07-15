@@ -1,0 +1,35 @@
+{
+  "match": "Argentina vs England",
+  "competition": "FIFA World Cup 2026 — Final",
+  "kickoff_utc": null,
+  "venue": "Neutral (WC2026 Final)",
+  "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "argentina_win": 0.416,
+    "draw": 0.280,
+    "england_win": 0.305
+  },
+  "model_xg": {
+    "argentina": 1.22,
+    "england": 1.31,
+    "total": 2.53
+  },
+  "odds_offered": {
+    "argentina_win": 3.1,
+    "draw": 2.95,
+    "england_win": 2.75
+  },
+  "bet": "Argentina win",
+  "odds": 3.1,
+  "implied_prob": 0.323,
+  "model_prob": 0.416,
+  "edge_pp": 9.33,
+  "ev": 0.2892,
+  "stake_eur": 11.00,
+  "staking_method": "half-Kelly capped at 8% of settled bankroll (standing rule since 2026-07-07): full-Kelly fraction 0.138, half-Kelly 0.069 (under the 0.08 cap). 0.069 x EUR149.14 = EUR10.28, rounded up to EUR11.00",
+  "potential_profit_eur": 23.10,
+  "potential_return_eur": 34.10,
+  "note": "Only +EV leg: Draw EV -17.54%, England win EV -16.24%, both excluded. Book overround 2.52%.",
+  "result": "pending"
+}

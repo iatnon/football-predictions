@@ -1,9 +1,9 @@
 {
   "match": "Morocco vs France",
-  "competition": "FIFA World Cup 2026 — Quarterfinal",
+  "competition": "FIFA World Cup 2026 \u00e2\u20ac\u201d Quarterfinal",
   "kickoff_utc": "2026-07-09T20:00:00Z",
   "venue": "Boston Stadium, Foxborough, Massachusetts (neutral)",
-  "model": "v24deploy_wc5 (3-seed, retrained 2026-07-09 on all 96 WC2026 results through the Round of 16) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "model": "v24deploy_wc5 (3-seed, retrained 2026-07-09 on all 96 WC2026 results through the Round of 16) \u00e2\u20ac\u201d 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
   "lineups_confirmed": true,
   "lineups": {
     "morocco": "4-2-3-1: Bounou; Hakimi, Diop, Mazraoui, Salah-Eddine; El Aynaoui, Bouaddi; Talbi, Ounahi, El Khannouss; Brahim Diaz",
@@ -16,7 +16,7 @@
   },
   "model_xg": {
     "morocco": 0.71,
-    "france": 2.10,
+    "france": 2.1,
     "total": 2.81
   },
   "odds_offered": {
@@ -29,11 +29,13 @@
   "implied_prob": 0.625,
   "model_prob": 0.713,
   "edge_pp": 8.8,
-  "ev": 0.140,
-  "stake_eur": 10.00,
+  "ev": 0.14,
+  "stake_eur": 10.0,
   "staking_method": "half-Kelly capped at 8% of settled bankroll (standing rule since 2026-07-07, see bankroll.md): full-Kelly fraction 0.235, half-Kelly 0.117 exceeds the 0.08 cap, so 0.08 x EUR122.04 = EUR9.76, rounded up to EUR10.00",
-  "potential_profit_eur": 6.00,
-  "potential_return_eur": 16.00,
+  "potential_profit_eur": 6.0,
+  "potential_return_eur": 16.0,
   "note": "Only +EV leg: Morocco win EV -12.7%, Draw EV -35.8%, both excluded. Book overround 2.10%.",
-  "result": "pending"
+  "result": "win",
+  "final_score": "France 2-0 Morocco",
+  "profit_eur": 6.0
 }
