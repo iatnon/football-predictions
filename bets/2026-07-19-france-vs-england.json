@@ -1,0 +1,62 @@
+{
+  "match": "France vs England",
+  "competition": "FIFA World Cup 2026 — 3rd place playoff",
+  "kickoff_utc": "2026-07-18T20:00:00Z",
+  "venue": "Neutral (WC2026 3rd place playoff)",
+  "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "confirmed_lineup_note": "France: Maignan, Gusto, Konate, Lacroix, T.Hernandez, Zaire-Emery, Rabiot, Olise, Cherki, Doue, Mbappe. England: Henderson, Quansah, Konsa, Guehi, Spence, Rice, Saka, Eze, Rogers, Rashford, Toney (Kane and Bellingham rested/rotated out).",
+  "probabilities": {
+    "france_win": 0.378,
+    "draw": 0.270,
+    "england_win": 0.351
+  },
+  "model_xg": {
+    "france": 1.24,
+    "england": 1.54,
+    "total": 2.78
+  },
+  "odds_offered_pre_bet": {
+    "france_win": 1.77,
+    "draw": 4.30,
+    "england_win": 4.40
+  },
+  "note_on_odds": "Odds sized against 3.85/3.95 quoted earlier; actual placed odds were 4.30 (draw) and 4.40 (England win) per bet-slip screenshot, prices having drifted further in the model's favor before placement.",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 4.30,
+      "implied_prob": 0.2233,
+      "model_prob": 0.270,
+      "edge_pp": 4.67,
+      "ev": 0.2081,
+      "stake_eur": 2.00,
+      "staking_method": "half-Kelly capped at 8% of settled bankroll: full-Kelly fraction 0.014, half-Kelly 0.007 (well under cap). 0.007 x EUR172.24 = EUR1.19, rounded up to EUR2.00 (sized pre-drift at 3.85; stake unchanged as price improved further)",
+      "potential_profit_eur": 6.60,
+      "potential_return_eur": 8.60
+    },
+    {
+      "leg": "England win",
+      "odds": 4.40,
+      "implied_prob": 0.2273,
+      "model_prob": 0.351,
+      "edge_pp": 12.37,
+      "ev": 0.4442,
+      "stake_eur": 12.00,
+      "staking_method": "half-Kelly capped at 8% of settled bankroll: full-Kelly fraction 0.131, half-Kelly 0.065 (under 0.08 cap). 0.065 x EUR172.24 = EUR11.28, rounded up to EUR12.00 (sized pre-drift at 3.95; stake unchanged as price improved further)",
+      "potential_profit_eur": 40.80,
+      "potential_return_eur": 52.80
+    }
+  ],
+  "double_note": "User-directed double on the same match, same precedent as bet #8 (Argentina-Switzerland) — both legs clear +3% EV independently (Draw +20.8%, England win +44.4%), logged together rather than staking only the higher-edge leg.",
+  "total_stake_eur": 14.00,
+  "coupon_ids": {
+    "draw": "12918481522",
+    "england_win": "12918485355"
+  },
+  "verification": "Bet-slip screenshot confirms both legs placed at stakes matching this log (EUR2.00 draw @ 4.30, EUR12.00 England win @ 4.40), timestamped 2026-07-18 22:23 UTC+2, match live 0-2 England at 25:45 1st half at time of screenshot.",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null
+}

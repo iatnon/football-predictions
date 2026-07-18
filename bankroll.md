@@ -13,12 +13,14 @@ Starting bankroll: **€100.00**
 | 7 | 2026-07-11 | Norway vs England (WC2026 QF) | Norway win | 4.50 | €10.00 | ❌ loss (aet, 2-1) | -€10.00 | €115.04 |
 | 8 | 2026-07-11 | Argentina vs Switzerland (WC2026 QF) | Argentina win (2 legs: 1.70 + 1.73) | 1.70 / 1.73 | €20.00 | ✅ win (aet, 3-1) | +€14.30 | €129.34 |
 | 9 | 2026-07-14 | Spain vs France (WC2026 SF) | Spain win | 3.20 | €9.00 | ✅ win (2-1) | +€19.80 | €149.14 |
-| 10 | 2026-07-15 | Argentina vs England (WC2026 Final) | Argentina win | 3.10 | €11.00 | *pending* | — | €138.14 staked / €149.14 settled |
+| 10 | 2026-07-15 | Argentina vs England (WC2026 Semifinal) | Argentina win | 3.10 | €11.00 | ✅ win | +€23.10 | €172.24 |
+| 11 | 2026-07-19 | France vs England (WC2026 3rd place playoff) | Draw + England win (double) | 4.30 / 4.40 | €2.00 + €12.00 = €14.00 | ⏳ pending | — | — |
 
-**Current exposure:** €11.00 open on bet #10.
-**Settled bankroll:** **€149.14** (9 of 10 bets resolved).
+**Settled bankroll:** **€172.24** (10 of 11 bets resolved, 1 pending).
 
-Record: 10 bets, 7 wins, 2 losses, 1 pending.
+Record: 11 bets, 8 wins, 2 losses, 1 pending.
+
+*(Correction: bet #10 was originally logged as "WC2026 Final" — it was actually the semifinal. Argentina won and advanced to face Spain (who beat France, bet #9) in the Final.)*
 
 ## Staking method (with dated rule changes)
 
@@ -37,3 +39,4 @@ Bet #5 sizing: full-Kelly 23.5%, half-Kelly 11.7% → 8% cap binds → 0.08 × �
 Bet #6 sizing: full-Kelly 3.4%, half-Kelly 1.7% (well under cap) → 0.017 × €122.04 = €2.07 → **€3.00**.
 Bet #8 sizing: full-Kelly 32.0%, half-Kelly 16.0% → 8% cap binds → 0.08 × €122.04 = €9.76 → **€10.00** (leg 1); leg 2 was a €10 user-directed double at the moved price (1.73).
 Bet #10 sizing: full-Kelly 13.8%, half-Kelly 6.9% (under cap) → 0.069 × €149.14 = €10.28 → **€11.00**.
+Bet #11 sizing (double, user-directed like bet #8): Draw leg full-Kelly 1.4%, half-Kelly 0.7% → 0.007 × €172.24 = €1.19 → **€2.00**. England win leg full-Kelly 13.1%, half-Kelly 6.5% (under cap) → 0.065 × €172.24 = €11.28 → **€12.00**. Both sized pre-placement at 3.85/3.95; actual placed odds drifted to 4.30/4.40 per bet-slip screenshot, stakes unchanged.

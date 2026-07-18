@@ -1,6 +1,6 @@
 {
   "match": "Argentina vs England",
-  "competition": "FIFA World Cup 2026 — Final",
+  "competition": "FIFA World Cup 2026 — Semifinal",
   "kickoff_utc": null,
   "venue": "Neutral (WC2026 Final)",
   "model": "v24deploy_wc5 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
@@ -31,5 +31,8 @@
   "potential_profit_eur": 23.10,
   "potential_return_eur": 34.10,
   "note": "Only +EV leg: Draw EV -17.54%, England win EV -16.24%, both excluded. Book overround 2.52%.",
-  "result": "pending"
+  "result": "win",
+  "final_score": "Argentina win (aet/pen or FT — score not recorded)",
+  "profit_eur": 23.10,
+  "bankroll_after_eur": 172.24
 }
