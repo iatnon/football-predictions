@@ -17,24 +17,26 @@
     "total": 2.40
   },
   "odds": {
-    "argentina_win": 3.70,
+    "argentina_win": 3.80,
     "draw": 3.05,
     "spain_win": 2.33
   },
+  "note_on_odds": "Sized against the 3.70 quote; price drifted to 3.80 before placement (further in the model's favor). Placed at 3.80, stake unchanged — same precedent as bet #11.",
   "bets": [
     {
       "leg": "Argentina win",
-      "odds": 3.70,
-      "implied_prob": 0.2703,
+      "odds": 3.80,
+      "implied_prob": 0.2632,
       "model_prob": 0.370,
-      "edge_pp": 9.99,
-      "ev": 0.3695,
+      "edge_pp": 10.68,
+      "ev": 0.4060,
       "stake_eur": 15.00,
-      "staking_method": "half-Kelly capped at 8% of settled bankroll, rounded up to whole euro: full-Kelly fraction 0.1367, half-Kelly 0.0683 (under 0.08 cap). 0.0683 x EUR211.04 = EUR14.42 -> EUR15.00",
-      "potential_profit_eur": 40.50,
-      "potential_return_eur": 55.50
+      "staking_method": "half-Kelly capped at 8% of settled bankroll, rounded up to whole euro: full-Kelly fraction 0.1367, half-Kelly 0.0683 (under 0.08 cap). 0.0683 x EUR211.04 = EUR14.42 -> EUR15.00. Sized pre-drift at 3.70; placed at 3.80, stake unchanged.",
+      "potential_profit_eur": 42.00,
+      "potential_return_eur": 57.00
     }
   ],
+  "placed": true,
   "excluded_legs_note": "Draw EV -10.5% and Spain win EV -21.6% — both negative, no bet. Only the Argentina leg clears the +3% EV threshold.",
   "total_stake_eur": 15.00,
   "logged_pre_kickoff": "2026-07-19T18:05:00Z (kickoff 19:00Z)",
