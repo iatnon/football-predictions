@@ -1,0 +1,45 @@
+{
+  "match": "Argentina vs Spain",
+  "competition": "FIFA World Cup 2026 — Final",
+  "kickoff_utc": "2026-07-19T19:00:00Z",
+  "venue": "New York New Jersey Stadium, East Rutherford (neutral)",
+  "model": "v24deploy_wc6 (3-seed) — 0.5*transformer + 0.5*confed-adjusted draw-aware Elo (neutral, confirmed-XI)",
+  "lineups_confirmed": true,
+  "confirmed_lineup_note": "Argentina: E.Martinez; Montiel, Romero, L.Martinez, Tagliafico; De Paul, E.Fernandez, Mac Allister, N.Gonzalez; Messi, J.Alvarez. Spain: U.Simon; Porro, Cubarsi, Laporte, Cucurella; Rodri, F.Ruiz; Yamal, Olmo, Baena; Oyarzabal.",
+  "probabilities": {
+    "argentina_win": 0.370,
+    "draw": 0.293,
+    "spain_win": 0.337
+  },
+  "model_xg": {
+    "argentina": 1.19,
+    "spain": 1.21,
+    "total": 2.40
+  },
+  "odds": {
+    "argentina_win": 3.70,
+    "draw": 3.05,
+    "spain_win": 2.33
+  },
+  "bets": [
+    {
+      "leg": "Argentina win",
+      "odds": 3.70,
+      "implied_prob": 0.2703,
+      "model_prob": 0.370,
+      "edge_pp": 9.99,
+      "ev": 0.3695,
+      "stake_eur": 15.00,
+      "staking_method": "half-Kelly capped at 8% of settled bankroll, rounded up to whole euro: full-Kelly fraction 0.1367, half-Kelly 0.0683 (under 0.08 cap). 0.0683 x EUR211.04 = EUR14.42 -> EUR15.00",
+      "potential_profit_eur": 40.50,
+      "potential_return_eur": 55.50
+    }
+  ],
+  "excluded_legs_note": "Draw EV -10.5% and Spain win EV -21.6% — both negative, no bet. Only the Argentina leg clears the +3% EV threshold.",
+  "total_stake_eur": 15.00,
+  "logged_pre_kickoff": "2026-07-19T18:05:00Z (kickoff 19:00Z)",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null
+}
