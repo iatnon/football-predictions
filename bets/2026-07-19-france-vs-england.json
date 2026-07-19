@@ -55,8 +55,8 @@
     "england_win": "12918485355"
   },
   "verification": "Bet-slip screenshot confirms both legs placed at stakes matching this log (EUR2.00 draw @ 4.30, EUR12.00 England win @ 4.40), timestamped 2026-07-18 22:23 UTC+2, match live 0-2 England at 25:45 1st half at time of screenshot.",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null
+  "result": "settled — England win leg WON (+EUR40.80), Draw leg LOST (-EUR2.00), net +EUR38.80",
+  "final_score": "France 4-6 England (90 minutes — no extra time, so the draw leg loses and the England-win leg wins on the 90-minute market)",
+  "profit_eur": 38.80,
+  "bankroll_after_eur": 211.04
 }
