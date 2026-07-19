@@ -15,11 +15,11 @@ Starting bankroll: **€100.00**
 | 9 | 2026-07-14 | Spain vs France (WC2026 SF) | Spain win | 3.20 | €9.00 | ✅ win (2-1) | +€19.80 | €149.14 |
 | 10 | 2026-07-15 | Argentina vs England (WC2026 Semifinal) | Argentina win | 3.10 | €11.00 | ✅ win | +€23.10 | €172.24 |
 | 11 | 2026-07-19 | France vs England (WC2026 3rd place playoff) | Draw + England win (double) | 4.30 / 4.40 | €2.00 + €12.00 = €14.00 | ✅ England leg won (4-6), ❌ draw leg lost | +€38.80 | €211.04 |
-| 12 | 2026-07-19 | Argentina vs Spain (WC2026 Final) | Argentina win | 3.80 | €15.00 | ⏳ pending | — | — |
+| 12 | 2026-07-19 | Argentina vs Spain (WC2026 Final) | Argentina win | 3.80 | €15.00 | ❌ loss (aet, 0-1) | -€15.00 | €196.04 |
 
-**Settled bankroll:** **€211.04** (all 11 bets resolved).
+**Settled bankroll:** **€196.04** (all 12 bets resolved — tournament over).
 
-Record: 11 bets, 9 wins (bet #11 counted as a win — split double, net +€38.80), 2 losses.
+Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.80), 3 losses. Final: **€100.00 → €196.04 (+96.0%)** over 20 days.
 
 *(Correction: bet #10 was originally logged as "WC2026 Final" — it was actually the semifinal. Argentina won and advanced to face Spain (who beat France, bet #9) in the Final.)*
 

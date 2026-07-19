@@ -40,8 +40,8 @@
   "excluded_legs_note": "Draw EV -10.5% and Spain win EV -21.6% — both negative, no bet. Only the Argentina leg clears the +3% EV threshold.",
   "total_stake_eur": 15.00,
   "logged_pre_kickoff": "2026-07-19T18:05:00Z (kickoff 19:00Z)",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null
+  "result": "settled — Argentina win leg LOST (-EUR15.00)",
+  "final_score": "Argentina 0-1 Spain (aet; 0-0 after 90 minutes, Ferran Torres 106' — the 90-minute market settles as a draw, so the Argentina-win leg loses either way)",
+  "profit_eur": -15.00,
+  "bankroll_after_eur": 196.04
 }
