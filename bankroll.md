@@ -2,6 +2,8 @@
 
 Starting bankroll: **€100.00**
 
+## WC2026 (closed 2026-07-20: 12 bets, 9-3, €100.00 → €196.04, +96.0%)
+
 | # | Date (UTC) | Match | Bet | Odds | Stake | Result | P/L | Bankroll after |
 |---|---|---|---|---|---|---|---|---|
 | 1 | 2026-06-30 | Ivory Coast vs Norway (WC2026 R32) | Norway win | 2.15 | €11.20 | ✅ win | +€13.08 | €113.08 |
@@ -23,6 +25,11 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 
 *(Correction: bet #10 was originally logged as "WC2026 Final" — it was actually the semifinal. Argentina won and advanced to face Spain (who beat France, bet #9) in the Final.)*
 
+## Club season 2026-27 (opened 2026-07-20, starting bankroll €196.04)
+
+| # | Date (UTC) | Match | Bet | Odds | Stake | Result | P/L | Bankroll after |
+|---|---|---|---|---|---|---|---|---|
+
 ## Staking method (with dated rule changes)
 
 Current rule (since 2026-07-07): **half-Kelly, capped at 8% of settled bankroll, rounded up to the nearest whole euro**:
@@ -42,3 +49,4 @@ Bet #8 sizing: full-Kelly 32.0%, half-Kelly 16.0% → 8% cap binds → 0.08 × �
 Bet #10 sizing: full-Kelly 13.8%, half-Kelly 6.9% (under cap) → 0.069 × €149.14 = €10.28 → **€11.00**.
 Bet #11 sizing (double, user-directed like bet #8): Draw leg full-Kelly 1.4%, half-Kelly 0.7% → 0.007 × €172.24 = €1.19 → **€2.00**. England win leg full-Kelly 13.1%, half-Kelly 6.5% (under cap) → 0.065 × €172.24 = €11.28 → **€12.00**. Both sized pre-placement at 3.85/3.95; actual placed odds drifted to 4.30/4.40 per bet-slip screenshot, stakes unchanged.
 Bet #12 sizing: model 37.0% on Argentina @ 3.70 (EV +37.0%) — full-Kelly 13.7%, half-Kelly 6.8% (under 8% cap) → 0.0683 × €211.04 = €14.42 → **€15.00**. Only +EV leg (Draw −10.5%, Spain win −21.6%). Placed at **3.80** (price drifted from the 3.70 quote before placement; stake unchanged, bet #11 precedent — EV at placed odds +40.6%).
+- **2026-07-20: WC2026 closed, club season 2026-27 opened.** Staking rule **UNCHANGED** — half-Kelly, capped at 8% of settled bankroll, rounded up to the nearest whole euro — carried forward into the club season with the €196.04 settled WC bankroll as the new starting bankroll (bet numbering continues at #13). Two operational switches, not rule changes: (1) bets now placed on **Unibet (unibet.nl)**, which currently offers the user the best prices, replacing Bet365 as the book of record; (2) predictions now come from the **club model** — the v20clean 3-seed ensemble (`artifacts/v20/v20clean_s{0,1,2}.pt`, leak-audited, +4.53% CE-lift vs Elo) — replacing the WC-specific transformer+confed-adjusted-Elo blend recipe, since WC2026 is over and the model target is now weekly domestic/continental club fixtures.
