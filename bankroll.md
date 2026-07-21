@@ -29,7 +29,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 
 | # | Date (UTC) | Match | Bet | Odds | Stake | Result | P/L | Bankroll after |
 |---|---|---|---|---|---|---|---|---|
-
+| 13 | 2026-07-21 | Klaksvíkar Ítróttarfelag vs FK Kauno Žalgiris (UEFA-Champions League Qualification) | Home win | 2.20 | EUR16.00 | pending | pending | pending |
 ## Staking method (with dated rule changes)
 
 Current rule (since 2026-07-07): **half-Kelly, capped at 8% of settled bankroll, rounded up to the nearest whole euro**:
