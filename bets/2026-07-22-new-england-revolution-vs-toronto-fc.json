@@ -1,0 +1,66 @@
+{
+ "match": "New England Revolution vs Toronto FC",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-22T23:30:00Z",
+ "model": "v20clean 3-seed club ensemble (lineup-aware) + v21goal blend w=0.65",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "New England Revolution: Matt Turner, Mamadou Fofana, Ethan Kohler, Peyton Miller, William Sands, Carles Gil, Matt Polster, Brooklyn Raines, Dor Turgeman, Alhassan Yusuf, Griffin Yow. Toronto FC: Luka Gavran, Walker Zimmerman, Jackson Gilman, Richard Chukwu, Richie Laryea, Jonathan Osorio, Alonso Coello, Dániel Sallói, Jules-Anthony Vilsaint, Deandre Kerr, Emilio Aristizábal.",
+ "probabilities": {
+  "home_win": 0.3228002548217774,
+  "draw": 0.31294500380754475,
+  "away_win": 0.364254741370678
+ },
+ "odds": {
+  "home_win": 2.04,
+  "draw": 3.55,
+  "away_win": 3.4
+ },
+ "bookmaker": "unibet_nl",
+ "reference_odds_pinnacle": {
+  "bookmaker": "pinnacle",
+  "home_odds": 2.15,
+  "draw_odds": 3.68,
+  "away_odds": 3.36,
+  "last_update": "2026-07-22T22:30:16Z"
+ },
+ "bets": [
+  {
+   "leg": "Draw",
+   "odds": 3.55,
+   "implied_prob": 0.2817,
+   "model_prob": 0.3129,
+   "edge_pp": 3.13,
+   "ev": 0.111,
+   "stake_eur": 5.0,
+   "staking_method": "p=0.3129 odds=3.55 -> fullKelly=0.0435, halfKelly=0.0218 (under 0.08 cap) -> 0.0218 x EUR196.04 = EUR4.27 -> EUR5.00",
+   "potential_profit_eur": 12.75,
+   "potential_return_eur": 17.75,
+   "result": "win",
+   "payout_eur": 17.75
+  },
+  {
+   "leg": "Away win",
+   "odds": 3.4,
+   "implied_prob": 0.2941,
+   "model_prob": 0.3643,
+   "edge_pp": 7.01,
+   "ev": 0.2385,
+   "stake_eur": 10.0,
+   "staking_method": "p=0.3643 odds=3.40 -> fullKelly=0.0994, halfKelly=0.0497 (under 0.08 cap) -> 0.0497 x EUR196.04 = EUR9.74 -> EUR10.00",
+   "potential_profit_eur": 24.0,
+   "potential_return_eur": 34.0,
+   "result": "loss",
+   "payout_eur": 0.0
+  }
+ ],
+ "placed": true,
+ "staleness_gate_note": "Placed through the >30-day staleness gate (MLS restart after the 60-day World-Cup break; dataset current through 2026-07-17, teams idle since May 23-24). Explicit user-directed override; gate policy unchanged.",
+ "provenance_note": "Prediction generated pre-kickoff (22:46-22:50Z 2026-07-22, confirmed XIs, session artifacts) but committed to this repo POST-RESULT at user instruction. No pre-kickoff git proof - excluded from the verifiable pre-kickoff pick record. Placed at Unibet pre-kickoff per user.",
+ "total_stake_eur": 15.0,
+ "logged_post_result": "2026-07-23T07:57:16.178619+00:00",
+ "result": "settled (split - one leg won, one lost)",
+ "final_score": "0-0",
+ "profit_eur": 2.75,
+ "bankroll_after_eur": 209.43,
+ "potential_return_eur": 51.75
+}

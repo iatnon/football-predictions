@@ -1,0 +1,66 @@
+{
+ "match": "Inter Miami CF vs Chicago Fire",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-22T23:30:00Z",
+ "model": "v20clean 3-seed club ensemble (lineup-aware) + v21goal blend w=0.65",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Inter Miami CF: Rocco Ríos Novo, Ian Fray, Sergio Reguilón, Micael, Facundo Mura, Telasco Segovia, Yannick Bright, David Ruiz, Mateo Silvetti, Luis Suárez, Germán Berterame. Chicago Fire: Chris Brady, Jack Elliott, Joel Waterman, Jonathan Dean, Andrew Gutman, Maren Haile-Selassie, Jonathan Bamba, Anton Saletros, D'Avilla Dje Tah, Philip Zinckernagel, Robert Lewandowski.",
+ "probabilities": {
+  "home_win": 0.5091695435176313,
+  "draw": 0.28992005100440765,
+  "away_win": 0.20091040547796107
+ },
+ "odds": {
+  "home_win": 2.28,
+  "draw": 4.0,
+  "away_win": 2.7
+ },
+ "bookmaker": "unibet_nl",
+ "reference_odds_pinnacle": {
+  "bookmaker": "pinnacle",
+  "home_odds": 2.44,
+  "draw_odds": 4.08,
+  "away_odds": 2.64,
+  "last_update": "2026-07-22T22:30:16Z"
+ },
+ "bets": [
+  {
+   "leg": "Home win",
+   "odds": 2.28,
+   "implied_prob": 0.4386,
+   "model_prob": 0.5092,
+   "edge_pp": 7.06,
+   "ev": 0.1609,
+   "stake_eur": 13.0,
+   "staking_method": "p=0.5092 odds=2.28 -> fullKelly=0.1257, halfKelly=0.0629 (under 0.08 cap) -> 0.0629 x EUR196.04 = EUR12.32 -> EUR13.00",
+   "potential_profit_eur": 16.64,
+   "potential_return_eur": 29.64,
+   "result": "win",
+   "payout_eur": 29.64
+  },
+  {
+   "leg": "Draw",
+   "odds": 4.0,
+   "implied_prob": 0.25,
+   "model_prob": 0.2899,
+   "edge_pp": 3.99,
+   "ev": 0.1597,
+   "stake_eur": 6.0,
+   "staking_method": "p=0.2899 odds=4.00 -> fullKelly=0.0532, halfKelly=0.0266 (under 0.08 cap) -> 0.0266 x EUR196.04 = EUR5.22 -> EUR6.00",
+   "potential_profit_eur": 18.0,
+   "potential_return_eur": 24.0,
+   "result": "loss",
+   "payout_eur": 0.0
+  }
+ ],
+ "placed": true,
+ "staleness_gate_note": "Placed through the >30-day staleness gate (MLS restart after the 60-day World-Cup break; dataset current through 2026-07-17, teams idle since May 23-24). Explicit user-directed override; gate policy unchanged.",
+ "provenance_note": "Prediction generated pre-kickoff (22:46-22:50Z 2026-07-22, confirmed XIs, session artifacts) but committed to this repo POST-RESULT at user instruction. No pre-kickoff git proof - excluded from the verifiable pre-kickoff pick record. Placed at Unibet pre-kickoff per user.",
+ "total_stake_eur": 19.0,
+ "logged_post_result": "2026-07-23T07:57:16.178619+00:00",
+ "result": "settled (split - one leg won, one lost)",
+ "final_score": "3-2",
+ "profit_eur": 10.64,
+ "bankroll_after_eur": 206.68,
+ "potential_return_eur": 53.64
+}
