@@ -1,0 +1,53 @@
+{
+ "match": "FK Qarabağ vs CSKA Sofia",
+ "competition": "UEFA-Europa League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T16:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401896233) minutes before kickoff; prediction run on confirmed lineups. 18/22 player embeddings matched.",
+ "probabilities": {
+  "home_win": 0.486,
+  "draw": 0.239,
+  "away_win": 0.276
+ },
+ "odds": {
+  "home_win": 1.43,
+  "draw": 4.4,
+  "away_win": 6.5
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Away win (CSKA Sofia)",
+   "odds": 6.5,
+   "implied_prob": 0.1538,
+   "model_prob": 0.276,
+   "edge_pp": 12.2,
+   "ev": 0.794,
+   "stake_eur": 5.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR14 (cap-bound); user-directed downsize to EUR5 after a gut-check flag: a +12pp edge against a heavily favored, sharply-priced market (Qarabag 1.43 = 70% implied) is treated as a probable model blind spot (thin cross-league Elo for CSKA Sofia / Qarabag), not trusted value -- sized as a speculative poke, not a full-Kelly position.",
+   "potential_profit_eur": 27.50,
+   "potential_return_eur": 32.50
+  },
+  {
+   "leg": "Draw",
+   "odds": 4.4,
+   "implied_prob": 0.2273,
+   "model_prob": 0.239,
+   "edge_pp": 1.2,
+   "ev": 0.052,
+   "stake_eur": 2.0,
+   "staking_method": "Marginal edge (+1.2pp, +5.2% EV) -- below normal formula sizing, user-directed flat EUR2 speculative stake.",
+   "potential_profit_eur": 6.80,
+   "potential_return_eur": 8.80
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home win (Qarabag) explicitly excluded: model 48.6% vs 69.9% implied at 1.43 = -21.3pp edge, -30.5% EV -- a clear no-bet.",
+ "total_stake_eur": 7.0,
+ "data_note": "18/22 player embeddings matched -- best-covered match of today's slate. Large away-side edge against a heavy home favorite flagged as a probable blind-spot pattern (same class noted after the Klaksvik loss, [[uefa-quals-coverage-2026-07-23]]); stakes downsized well below formula on that basis.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 16:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
