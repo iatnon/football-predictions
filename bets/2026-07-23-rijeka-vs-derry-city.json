@@ -28,15 +28,26 @@
    "staking_method": "Half-Kelly/8%-cap formula gave EUR14; downsized to roughly 1/3 formula size (EUR4) given Rijeka's own confirmed XI matched only 5/11 embeddings and the market's 87% implied favorite price is a large gap versus our 48.5% -- edge only partially trusted.",
    "potential_profit_eur": 24.0,
    "potential_return_eur": 28.0
+  },
+  {
+   "leg": "Away win (Derry City)",
+   "odds": 15.0,
+   "implied_prob": 0.0667,
+   "model_prob": 0.256,
+   "edge_pp": 19.0,
+   "ev": 2.846,
+   "stake_eur": 5.0,
+   "staking_method": "Same downsized tier as the draw leg (Rijeka's own data only 5/11 matched) -- taken at EUR5, close to the earlier EUR5 recommendation for this leg.",
+   "potential_profit_eur": 70.0,
+   "potential_return_eur": 75.0
   }
  ],
  "placed": true,
- "excluded_legs_note": "Home win (Rijeka, -38.4pp edge, -44.2% EV) excluded as a clear no-bet. Away win (Derry City, +19.0pp edge, +284.6% EV) was also flagged as a candidate at the same downsized tier (recommended EUR5) but the user chose only the draw leg for this bet -- result recorded here is a LOSS on the draw leg specifically, not a verdict on the away leg (not placed).",
- "total_stake_eur": 4.0,
- "data_note": "14/22 embeddings, asymmetric 5/11 (Rijeka) vs 9/11 (Derry City) -- downsized well below full formula on that basis.",
- "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:45Z kickoff; this commit logged after kickoff and after the result was known (match had already been settled as a loss by the time of this log entry).",
- "result": "loss",
- "profit_eur": -4.0,
- "bankroll_after_eur": null,
- "settlement_note": "Draw leg lost -- settled at time of logging per user report."
+ "excluded_legs_note": "Home win (Rijeka, -38.4pp edge, -44.2% EV) excluded as a clear no-bet.",
+ "total_stake_eur": 9.0,
+ "data_note": "14/22 embeddings, asymmetric 5/11 (Rijeka) vs 9/11 (Derry City) -- both legs downsized well below full formula on that basis.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet ahead of the 18:45Z kickoff; this commit logged before kickoff, before any result information -- match has not yet been played.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
 }
