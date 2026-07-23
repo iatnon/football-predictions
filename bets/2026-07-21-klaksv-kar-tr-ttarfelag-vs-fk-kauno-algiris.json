@@ -29,15 +29,15 @@
    "potential_return_eur": 35.2
   }
  ],
- "placed": false,
+ "placed": true,
  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
  "total_stake_eur": 16.0,
  "logged_pre_kickoff": "2026-07-21T17:44:27.092013+00:00",
- "result": "void - never placed (match ended 0-0; the Home win pick would have LOST)",
+ "result": "loss",
  "final_score": "0-0",
- "profit_eur": 0.0,
- "bankroll_after_eur": 196.04,
+ "profit_eur": -16.0,
+ "bankroll_after_eur": 180.04,
  "potential_return_eur": 35.2,
- "settled_at": "2026-07-23T07:57:16.178619+00:00",
- "settlement_note": "Logged pre-kickoff 2026-07-21T17:44Z but the bet was never placed at the book (user confirmation 2026-07-23). Void: no bankroll impact. Pick outcome recorded for honesty - home win @ 2.20 would have lost (0-0)."
+ "settled_at": "2026-07-23T08:30:04.193783+00:00",
+ "settlement_note": "Correction 2026-07-23: initially settled as void-never-placed (commit 1cd4b65) based on a miscommunication; the bet WAS placed at Unibet. Settled as a loss: home win @ 2.20, match ended 0-0, -EUR16.00."
 }

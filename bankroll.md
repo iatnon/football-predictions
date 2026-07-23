@@ -29,13 +29,13 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 
 | # | Date (UTC) | Match | Bet | Odds | Stake | Result | P/L | Bankroll after |
 |---|---|---|---|---|---|---|---|---|
-| 13 | 2026-07-21 | Klaksvíkar Ítróttarfelag vs FK Kauno Žalgiris (UEFA-Champions League Qualification) | Home win | 2.20 | €16.00 | ⚠ void — never placed (0-0; pick would have lost) | €0.00 | €196.04 |
-| 14 | 2026-07-22 | Inter Miami CF vs Chicago Fire (MLS) | Home win + Draw (2 legs) | 2.28 / 4.00 | €13.00 + €6.00 = €19.00 | ✅ home leg won (3-2), ❌ draw leg lost | +€10.64 | €206.68 |
-| 15 | 2026-07-22 | New England Revolution vs Toronto FC (MLS) | Away win + Draw (2 legs) | 3.40 / 3.55 | €10.00 + €5.00 = €15.00 | ✅ draw leg won (0-0), ❌ away leg lost | +€2.75 | €209.43 |
+| 13 | 2026-07-21 | Klaksvíkar Ítróttarfelag vs FK Kauno Žalgiris (UEFA-Champions League Qualification) | Home win | 2.20 | €16.00 | ❌ loss (0-0) | -€16.00 | €180.04 |
+| 14 | 2026-07-22 | Inter Miami CF vs Chicago Fire (MLS) | Home win + Draw (2 legs) | 2.28 / 4.00 | €13.00 + €6.00 = €19.00 | ✅ home leg won (3-2), ❌ draw leg lost | +€10.64 | €190.68 |
+| 15 | 2026-07-22 | New England Revolution vs Toronto FC (MLS) | Away win + Draw (2 legs) | 3.40 / 3.55 | €10.00 + €5.00 = €15.00 | ✅ draw leg won (0-0), ❌ away leg lost | +€2.75 | €193.43 |
 
-**Settled club-season bankroll: €209.43** (started €196.04; #13 void, #14–#15 net +€13.39).
+**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39).
 
-*Bet #13 was logged pre-kickoff but never placed at the book — settled as void with the pick outcome shown for honesty (home win @ 2.20 would have lost, 0-0). No bankroll impact.*
+*(Correction 2026-07-23: #13 was briefly settled as "void — never placed" in commit 1cd4b65 due to a miscommunication; the bet WAS placed. Corrected to a loss in the following commit — pre-kickoff log 306d5aa stands as its proof.)*
 
 *Bets #14–#15 integrity disclosure: predictions were generated pre-kickoff (22:46–22:50Z, confirmed XIs, session artifacts) and the bets were placed at Unibet pre-kickoff, but the repo commit happened POST-RESULT — there is no pre-kickoff git proof, so these two are **excluded from the verifiable pre-kickoff pick record**. The bankroll movement is real. Both matches were under the >30-day staleness gate (MLS restart after the 60-day World-Cup break; our dataset was current through Jul 17 — the staleness was the teams' layoff, not missing data); placement was an explicit user-directed gate override, not a rule change.*
 
