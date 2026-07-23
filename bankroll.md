@@ -41,8 +41,10 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 22 | 2026-07-23 | St. Gallen vs Benfica (UEL Qual Q2) | Home win + Draw (2 legs) | 7.00 / 5.30 | €12.00 + €3.00 = €15.00 | ⏳ pending | — | — |
 | 23 | 2026-07-23 | Vojvodina vs Ajax Amsterdam (UECL Qual Q2) | Home win | 6.10 | €8.00 | ⏳ pending | — | — |
 | 24 | 2026-07-23 | Paksi SE vs Panathinaikos (UECL Qual Q2) | Home win + Draw (2 legs) | 4.90 / 4.50 | €7.00 + €5.00 = €12.00 | ⏳ pending | — | — |
+| 25 | 2026-07-23 | Rijeka vs Derry City (UECL Qual Q2) | Draw | 7.00 | €4.00 | ❌ loss | -€4.00 | €200.23 |
+| 26 | 2026-07-23 | Hajduk Split vs Pafos (UEL Qual Q2) | Away win | 3.30 | €10.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €204.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00). €67.00 in play on #20–#24 (pending).
+**Settled club-season bankroll: €200.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #25 −€4.00). €77.00 in play on #20–#24 + #26 (pending).
 
 *Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 
@@ -53,6 +55,12 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 *Bet #20 sizing note: formula (half-Kelly, 8% cap) computed EUR16 (cap-bound, +22.2pp edge, +61.1% EV) and was taken at full formula size — unlike #18/#19, both sides carried strong lineup-embedding coverage (Dynamo Kyiv 11/11, PAOK 9/11 — 20/22 total), so the edge was judged data-supported rather than a thin-data blind spot. Draw and away-win legs both clearly excluded as no-bets. Same post-kickoff-logging provenance caveat as #16-19.*
 
 *Bets #21-#24 (20:00 CET UEL/UECL slate) sizing notes: #21 (Beşiktaş-Midtjylland away, 16/22 embeddings 9/11+7/11) and #22 (St. Gallen-Benfica home+draw, 15/22 embeddings 8/11+7/11) both taken at ~full formula size — strong lineup coverage both sides, edges judged data-supported. #23 (Vojvodina-Ajax home, 14/22 but LOPSIDED 4/11 home vs 10/11 away) and #24 (Paksi-Panathinaikos home+draw, 13/22 but LOPSIDED 3/11 home vs 10/11 away) both HALVED from full formula size — same thin-favored-side pattern as #18/#19, edges only partially trusted. Twente-Ferencvaros (10/11+9/11 embeddings, best-covered match of the slate) had no positive-EV leg at the quoted odds and was not bet. Same post-kickoff-logging provenance caveat as #16-20.*
+
+**Odds-scraping note (2026-07-23, from #20 onward some legs' prices were cross-checked or sourced via a new self-built free scraper):** `scripts/club_pipeline/kambi_odds.py`, built this session, pulls live 1X2 prices directly from Unibet's Kambi backend (`eu-offering-api.kambicdn.com`) with no auth and no the-odds-api credit cost — used because the-odds-api had no active UEFA-qualification sport key all matchday. Best-effort/approximate (Unibet can change the API without notice, team-name matching is fuzzy) — see [[kambi-unibet-scraper]] memory for the discovery notes and known limitations.
+
+*Bet #25 (Rijeka-Derry City draw, 14/22 embeddings LOPSIDED 5/11 home vs 9/11 away) sized at roughly 1/3 of full formula (EUR4 vs formula's ~EUR14) — same thin-favored-side discount pattern, applied more aggressively since the market's 87% implied home favorite vs our 48.5% was an unusually large gap. Away leg (Derry City, +19.0pp edge) was flagged as a same-tier candidate but not placed by user choice. Lost.*
+
+*Bet #26 (Hajduk Split-Pafos away win, 14/22 embeddings ASYMMETRIC 5/11 home vs 9/11 away) — pre-bet recommendation was EUR3-4 given the data asymmetry; user placed EUR10 instead, overriding the downsize recommendation (explicit user choice, not a rule change).*
 
 *(Correction 2026-07-23: #13 was briefly settled as "void — never placed" in commit 1cd4b65 due to a miscommunication; the bet WAS placed. Corrected to a loss in the following commit — pre-kickoff log 306d5aa stands as its proof.)*
 

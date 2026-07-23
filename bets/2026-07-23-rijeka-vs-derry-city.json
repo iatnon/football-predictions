@@ -1,0 +1,42 @@
+{
+ "match": "Rijeka vs Derry City",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T18:45:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401896226). 14/22 player embeddings matched, ASYMMETRIC: Rijeka (home) 5/11, Derry City (away) 9/11.",
+ "probabilities": {
+  "home_win": 0.485,
+  "draw": 0.258,
+  "away_win": 0.256
+ },
+ "odds": {
+  "home_win": 1.15,
+  "draw": 7.0,
+  "away_win": 15.0
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Draw",
+   "odds": 7.0,
+   "implied_prob": 0.1429,
+   "model_prob": 0.258,
+   "edge_pp": 11.5,
+   "ev": 0.807,
+   "stake_eur": 4.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR14; downsized to roughly 1/3 formula size (EUR4) given Rijeka's own confirmed XI matched only 5/11 embeddings and the market's 87% implied favorite price is a large gap versus our 48.5% -- edge only partially trusted.",
+   "potential_profit_eur": 24.0,
+   "potential_return_eur": 28.0
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home win (Rijeka, -38.4pp edge, -44.2% EV) excluded as a clear no-bet. Away win (Derry City, +19.0pp edge, +284.6% EV) was also flagged as a candidate at the same downsized tier (recommended EUR5) but the user chose only the draw leg for this bet -- result recorded here is a LOSS on the draw leg specifically, not a verdict on the away leg (not placed).",
+ "total_stake_eur": 4.0,
+ "data_note": "14/22 embeddings, asymmetric 5/11 (Rijeka) vs 9/11 (Derry City) -- downsized well below full formula on that basis.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:45Z kickoff; this commit logged after kickoff and after the result was known (match had already been settled as a loss by the time of this log entry).",
+ "result": "loss",
+ "profit_eur": -4.0,
+ "bankroll_after_eur": null,
+ "settlement_note": "Draw leg lost -- settled at time of logging per user report."
+}

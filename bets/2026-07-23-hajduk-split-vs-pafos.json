@@ -1,0 +1,41 @@
+{
+ "match": "Hajduk Split vs Pafos",
+ "competition": "UEFA-Europa League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T19:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401896235). 14/22 player embeddings matched, ASYMMETRIC: Hajduk Split (home) 5/11, Pafos (away) 9/11.",
+ "probabilities": {
+  "home_win": 0.335,
+  "draw": 0.276,
+  "away_win": 0.389
+ },
+ "odds": {
+  "home_win": 2.1,
+  "draw": 3.3,
+  "away_win": 3.3
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Away win (Pafos)",
+   "odds": 3.3,
+   "implied_prob": 0.3030,
+   "model_prob": 0.389,
+   "edge_pp": 8.6,
+   "ev": 0.284,
+   "stake_eur": 10.0,
+   "staking_method": "Half-Kelly/8%-cap formula would give roughly EUR9-10 for this edge/odds combo. Recommendation ahead of the bet was EUR3-4 given the home-side data gap (Hajduk 5/11 vs Pafos 9/11 embeddings) -- user opted for EUR10, closer to full formula size, overriding the downsize recommendation.",
+   "potential_profit_eur": 23.0,
+   "potential_return_eur": 33.0
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home win (-14.1pp edge, -29.6% EV) and Draw (-2.7pp edge, -9.1% EV) both excluded as no-bets.",
+ "total_stake_eur": 10.0,
+ "data_note": "14/22 embeddings, asymmetric 5/11 (Hajduk) vs 9/11 (Pafos) -- pre-bet recommendation was to downsize to EUR3-4 on this basis; user chose EUR10 instead.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 19:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
