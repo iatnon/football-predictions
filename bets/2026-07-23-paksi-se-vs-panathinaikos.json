@@ -1,0 +1,53 @@
+{
+ "match": "Paksi SE vs Panathinaikos",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T18:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401878134). 13/22 player embeddings matched, LOPSIDED: Paksi (home) only 3/11 matched, Panathinaikos (away) 10/11 matched.",
+ "probabilities": {
+  "home_win": 0.308,
+  "draw": 0.291,
+  "away_win": 0.401
+ },
+ "odds": {
+  "home_win": 4.9,
+  "draw": 4.5,
+  "away_win": 1.54
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (Paksi)",
+   "odds": 4.9,
+   "implied_prob": 0.2041,
+   "model_prob": 0.308,
+   "edge_pp": 10.4,
+   "ev": 0.509,
+   "stake_eur": 7.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR13 (+10.4pp edge, +50.9% EV); HALVED to EUR7 by explicit user decision -- Paksi's own confirmed XI matched only 3/11 embeddings (vs Panathinaikos 10/11), same lopsided-thin-data shape as Vojvodina/Qarabag/Paide.",
+   "potential_profit_eur": 27.30,
+   "potential_return_eur": 34.30
+  },
+  {
+   "leg": "Draw",
+   "odds": 4.5,
+   "implied_prob": 0.2222,
+   "model_prob": 0.291,
+   "edge_pp": 6.9,
+   "ev": 0.309,
+   "stake_eur": 5.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR9 (+6.9pp edge, +30.9% EV); HALVED to EUR5, same thin-home-data discount as the home-win leg.",
+   "potential_profit_eur": 17.5,
+   "potential_return_eur": 22.5
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Away win (Panathinaikos, -24.8pp edge, -38.2% EV) excluded as a clear no-bet.",
+ "total_stake_eur": 12.0,
+ "data_note": "13/22 total embeddings, lopsided 3/11 (Paksi) vs 10/11 (Panathinaikos) -- both home-side legs downsized to half formula size on data-trust grounds, same treatment as bet #21 (Vojvodina).",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

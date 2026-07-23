@@ -1,0 +1,41 @@
+{
+ "match": "Vojvodina vs Ajax Amsterdam",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T18:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401896225). 14/22 player embeddings matched, LOPSIDED: Vojvodina (home) only 4/11 matched, Ajax (away) 10/11 matched.",
+ "probabilities": {
+  "home_win": 0.380,
+  "draw": 0.238,
+  "away_win": 0.382
+ },
+ "odds": {
+  "home_win": 6.1,
+  "draw": 4.0,
+  "away_win": 1.52
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (Vojvodina)",
+   "odds": 6.1,
+   "implied_prob": 0.1639,
+   "model_prob": 0.380,
+   "edge_pp": 21.6,
+   "ev": 1.318,
+   "stake_eur": 8.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR16 (cap-bound, +21.6pp edge, +132% EV); HALVED to EUR8 by explicit user decision -- Vojvodina's own confirmed XI matched only 4/11 embeddings (vs Ajax 10/11), the same lopsided-thin-data shape that produced fake edges on Qarabag/Paide earlier today. Edge judged only partially trustworthy.",
+   "potential_profit_eur": 40.8,
+   "potential_return_eur": 48.8
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw (-1.2pp edge, -4.8% EV) and Away win (Ajax, -27.6pp edge, -41.9% EV) both excluded as no-bets.",
+ "total_stake_eur": 8.0,
+ "data_note": "14/22 total embeddings, lopsided 4/11 (Vojvodina) vs 10/11 (Ajax) -- home-side edge downsized to half formula size on data-trust grounds, same treatment as bets #18-19.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

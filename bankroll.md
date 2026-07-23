@@ -37,8 +37,12 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 18 | 2026-07-23 | FK Qarabağ vs CSKA Sofia (UEL Qual Q2) | Away win + Draw (2 legs) | 6.50 / 4.40 | €5.00 + €2.00 = €7.00 | ⏳ pending | — | — |
 | 19 | 2026-07-23 | Paide Linnameeskond vs Zira FK (UECL Qual Q2) | Home win | 7.00 | €3.00 | ⏳ pending | — | — |
 | 20 | 2026-07-23 | Dynamo Kyiv vs PAOK Salonika (UEL Qual Q2) | Home win | 2.75 | €16.00 | ⏳ pending | — | — |
+| 21 | 2026-07-23 | Beşiktaş vs FC Midtjylland (UEL Qual Q2) | Away win | 3.15 | €13.00 | ⏳ pending | — | — |
+| 22 | 2026-07-23 | St. Gallen vs Benfica (UEL Qual Q2) | Home win + Draw (2 legs) | 7.00 / 5.30 | €12.00 + €3.00 = €15.00 | ⏳ pending | — | — |
+| 23 | 2026-07-23 | Vojvodina vs Ajax Amsterdam (UECL Qual Q2) | Home win | 6.10 | €8.00 | ⏳ pending | — | — |
+| 24 | 2026-07-23 | Paksi SE vs Panathinaikos (UECL Qual Q2) | Home win + Draw (2 legs) | 4.90 / 4.50 | €7.00 + €5.00 = €12.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39). €35.00 in play on #16–#20.
+**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39). €83.00 in play on #16–#24.
 
 *Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 
@@ -47,6 +51,8 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 *Bet #19 sizing note: formula computed EUR16 (cap-bound, +34.4pp edge, +241% EV); downsized hard to a EUR3 speculative stake — Zira (away) had only 3/11 lineup players matched to any embedding, so the extreme edge is judged to ride on an almost-blind read of the away side, not trusted value. Draw leg (+8.5pp edge) and away-win leg (-50.8pp edge) both excluded, the latter as a clear no-bet. Same thin-data pattern as #18, worse ratio (9/22 total, lopsided 6/11 vs 3/11). Same post-kickoff-logging provenance caveat as #16-18.*
 
 *Bet #20 sizing note: formula (half-Kelly, 8% cap) computed EUR16 (cap-bound, +22.2pp edge, +61.1% EV) and was taken at full formula size — unlike #18/#19, both sides carried strong lineup-embedding coverage (Dynamo Kyiv 11/11, PAOK 9/11 — 20/22 total), so the edge was judged data-supported rather than a thin-data blind spot. Draw and away-win legs both clearly excluded as no-bets. Same post-kickoff-logging provenance caveat as #16-19.*
+
+*Bets #21-#24 (20:00 CET UEL/UECL slate) sizing notes: #21 (Beşiktaş-Midtjylland away, 16/22 embeddings 9/11+7/11) and #22 (St. Gallen-Benfica home+draw, 15/22 embeddings 8/11+7/11) both taken at ~full formula size — strong lineup coverage both sides, edges judged data-supported. #23 (Vojvodina-Ajax home, 14/22 but LOPSIDED 4/11 home vs 10/11 away) and #24 (Paksi-Panathinaikos home+draw, 13/22 but LOPSIDED 3/11 home vs 10/11 away) both HALVED from full formula size — same thin-favored-side pattern as #18/#19, edges only partially trusted. Twente-Ferencvaros (10/11+9/11 embeddings, best-covered match of the slate) had no positive-EV leg at the quoted odds and was not bet. Same post-kickoff-logging provenance caveat as #16-20.*
 
 *(Correction 2026-07-23: #13 was briefly settled as "void — never placed" in commit 1cd4b65 due to a miscommunication; the bet WAS placed. Corrected to a loss in the following commit — pre-kickoff log 306d5aa stands as its proof.)*
 

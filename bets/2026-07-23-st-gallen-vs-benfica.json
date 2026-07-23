@@ -1,0 +1,53 @@
+{
+ "match": "St. Gallen vs Benfica",
+ "competition": "UEFA-Europa League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T18:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401878088). 15/22 player embeddings matched, well-covered both sides: St. Gallen (home) 8/11, Benfica (away) 7/11.",
+ "probabilities": {
+  "home_win": 0.248,
+  "draw": 0.208,
+  "away_win": 0.543
+ },
+ "odds": {
+  "home_win": 7.0,
+  "draw": 5.3,
+  "away_win": 1.34
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (St. Gallen)",
+   "odds": 7.0,
+   "implied_prob": 0.1429,
+   "model_prob": 0.248,
+   "edge_pp": 10.5,
+   "ev": 0.736,
+   "stake_eur": 12.0,
+   "staking_method": "Half-Kelly/8%-cap formula: fullKelly 23.7%, halfKelly 11.9% -> cap binds -> 0.08 x EUR193.43 = EUR15.47 -> EUR16; taken at EUR12, slightly below full formula, given strong lineup-embedding coverage both sides.",
+   "potential_profit_eur": 72.0,
+   "potential_return_eur": 84.0
+  },
+  {
+   "leg": "Draw",
+   "odds": 5.3,
+   "implied_prob": 0.1887,
+   "model_prob": 0.208,
+   "edge_pp": 1.9,
+   "ev": 0.102,
+   "stake_eur": 3.0,
+   "staking_method": "Half-Kelly/8%-cap formula: fullKelly 4.6%, halfKelly 2.3% (under cap) -> 0.023 x EUR193.43 = EUR4.45, rounded down to a EUR3 secondary leg alongside the home-win leg (marginal edge, not a data-trust discount -- taken near formula size).",
+   "potential_profit_eur": 12.9,
+   "potential_return_eur": 15.9
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Away win (Benfica, -20.3pp edge, -27.2% EV) excluded as a clear no-bet.",
+ "total_stake_eur": 15.0,
+ "data_note": "15/22 player embeddings matched (8/11 home, 7/11 away) -- good coverage, edges treated as trustworthy on both legs.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
