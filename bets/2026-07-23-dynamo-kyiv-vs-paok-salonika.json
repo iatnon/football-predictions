@@ -1,0 +1,41 @@
+{
+ "match": "Dynamo Kyiv vs PAOK Salonika",
+ "competition": "UEFA-Europa League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T17:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401896234) minutes before kickoff; prediction run on confirmed lineups. 20/22 player embeddings matched, well-covered both sides: Dynamo Kyiv (home) 11/11, PAOK (away) 9/11.",
+ "probabilities": {
+  "home_win": 0.586,
+  "draw": 0.225,
+  "away_win": 0.189
+ },
+ "odds": {
+  "home_win": 2.75,
+  "draw": 3.2,
+  "away_win": 2.48
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (Dynamo Kyiv)",
+   "odds": 2.75,
+   "implied_prob": 0.3636,
+   "model_prob": 0.586,
+   "edge_pp": 22.2,
+   "ev": 0.611,
+   "stake_eur": 16.0,
+   "staking_method": "Half-Kelly/8%-cap formula: fullKelly 35.0%, halfKelly 17.5% -> cap binds -> 0.08 x EUR193.43 = EUR15.47 -> EUR16.00. Taken at close to full formula size (unlike Qarabag/Paide) because both sides carry strong lineup-embedding coverage (11/11 home, 9/11 away) -- the large edge is judged data-supported rather than a thin-data blind spot.",
+   "potential_profit_eur": 28.0,
+   "potential_return_eur": 44.0
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw (-8.8pp edge, -28.0% EV) and Away win (-21.4pp edge, -53.1% EV) both clearly excluded as no-bets.",
+ "total_stake_eur": 16.0,
+ "data_note": "20/22 player embeddings matched (home 11/11, away 9/11) -- among the best-covered matches of the day; edge treated as more trustworthy than the Qarabag/Paide thin-data pattern for that reason.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 17:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
