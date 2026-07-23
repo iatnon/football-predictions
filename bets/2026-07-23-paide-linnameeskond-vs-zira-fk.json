@@ -1,0 +1,41 @@
+{
+ "match": "Paide Linnameeskond vs Zira FK",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T16:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401893761) minutes before kickoff; prediction run on confirmed lineups. 9/22 player embeddings matched, LOPSIDED across sides: Paide (home) 6/11 matched, Zira (away) only 3/11 matched.",
+ "probabilities": {
+  "home_win": 0.4866,
+  "draw": 0.3075,
+  "away_win": 0.2059
+ },
+ "odds": {
+  "home_win": 7.0,
+  "draw": 4.5,
+  "away_win": 1.4
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (Paide)",
+   "odds": 7.0,
+   "implied_prob": 0.1429,
+   "model_prob": 0.4866,
+   "edge_pp": 34.4,
+   "ev": 2.406,
+   "stake_eur": 3.0,
+   "staking_method": "Half-Kelly/8%-cap formula gave EUR16 (cap-bound); heavily downsized to a EUR3 speculative stake by explicit user decision. A +34.4pp edge against a market pricing the away side at 71% implied is an extreme divergence, and Zira (away) has only 3/11 lineup players matched to any embedding -- the edge is judged to ride mostly on an almost-blind read of Zira's actual strength, not trusted value, same failure class flagged after the Klaksvik loss and the Qarabag bet #18 sizing.",
+   "potential_profit_eur": 18.0,
+   "potential_return_eur": 21.0
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw (+8.5pp edge, +38.4% EV) excluded by user decision -- same Zira-unknown data problem, judged not worth a second leg here. Away win (Zira, -50.8pp edge) explicitly excluded as a clear no-bet.",
+ "total_stake_eur": 3.0,
+ "data_note": "9/22 total embeddings matched, lopsided 6/11 (Paide) vs 3/11 (Zira) -- flagged as the thinnest-data bet logged so far; large model edges here should be read with extra skepticism.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 16:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

@@ -35,12 +35,15 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 16 | 2026-07-23 | Alashkert FC vs CFR Cluj (UECL Qual Q2) | Home win | 3.25 | €5.00 | ⏳ pending | — | — |
 | 17 | 2026-07-23 | FK Liepāja vs Austria Wien (UECL Qual Q2) | Draw | 4.35 | €4.00 | ⏳ pending | — | — |
 | 18 | 2026-07-23 | FK Qarabağ vs CSKA Sofia (UEL Qual Q2) | Away win + Draw (2 legs) | 6.50 / 4.40 | €5.00 + €2.00 = €7.00 | ⏳ pending | — | — |
+| 19 | 2026-07-23 | Paide Linnameeskond vs Zira FK (UECL Qual Q2) | Home win | 7.00 | €3.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39). €16.00 in play on #16–#18.
+**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39). €19.00 in play on #16–#19.
 
 *Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 
 *Bet #18 sizing note: formula (half-Kelly, 8% cap) computed EUR14 on the away leg; downsized to EUR5 by explicit user gut-check — a +12.2pp model edge against a heavily favored, sharply-priced market (Qarabağ 1.43 = 69.9% implied) reads as a probable model blind spot (thin cross-league Elo), not trusted value, so sized as a speculative poke rather than full formula stake. Draw leg (+1.2pp edge) sized flat EUR2, below normal formula threshold. Home win (Qarabağ, -21.3pp edge) explicitly excluded as a clear no-bet. Same provenance caveat as #16-17 (logged post-kickoff).*
+
+*Bet #19 sizing note: formula computed EUR16 (cap-bound, +34.4pp edge, +241% EV); downsized hard to a EUR3 speculative stake — Zira (away) had only 3/11 lineup players matched to any embedding, so the extreme edge is judged to ride on an almost-blind read of the away side, not trusted value. Draw leg (+8.5pp edge) and away-win leg (-50.8pp edge) both excluded, the latter as a clear no-bet. Same thin-data pattern as #18, worse ratio (9/22 total, lopsided 6/11 vs 3/11). Same post-kickoff-logging provenance caveat as #16-18.*
 
 *(Correction 2026-07-23: #13 was briefly settled as "void — never placed" in commit 1cd4b65 due to a miscommunication; the bet WAS placed. Corrected to a loss in the following commit — pre-kickoff log 306d5aa stands as its proof.)*
 
