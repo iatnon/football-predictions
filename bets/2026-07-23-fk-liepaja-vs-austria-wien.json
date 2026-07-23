@@ -1,0 +1,38 @@
+{
+ "match": "FK Liepāja vs Austria Wien",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T15:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401891933) minutes before kickoff; prediction run on confirmed lineups.",
+ "probabilities": {
+  "home_win": 0.359,
+  "draw": 0.282,
+  "away_win": 0.359
+ },
+ "odds": {
+  "draw": 4.35
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Draw",
+   "odds": 4.35,
+   "implied_prob": 0.2299,
+   "model_prob": 0.282,
+   "edge_pp": 5.21,
+   "ev": 0.227,
+   "stake_eur": 4.0,
+   "staking_method": "Recommended EUR4 at the 4.00 threshold quote before the actual price was known; placed at 4.35 with stake unchanged (user-directed). Formula at 4.35 would give halfKelly 3.38% x EUR193.43 = EUR6.54 -> EUR7; stake stays EUR4 as recommended.",
+   "potential_profit_eur": 13.40,
+   "potential_return_eur": 17.40
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home and away wins skipped by explicit data-defect call: Austria Wien's player data in our set is 2022-vintage (most of their confirmed XI unmatched, 15/22 across the match), so the model likely underrates them — Liepāja-win 'value' judged a blind spot, not edge. Draw leg is the least exposed to that bias.",
+ "total_stake_eur": 4.0,
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around kickoff; this commit logged minutes AFTER kickoff (~15:0xZ), before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

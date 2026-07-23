@@ -1,0 +1,39 @@
+{
+ "match": "Alashkert FC vs CFR Cluj",
+ "competition": "UEFA-Conference League Qualification (Q2, first leg)",
+ "kickoff_utc": "2026-07-23T15:00:00Z",
+ "model": "v20clean 3-seed club ensemble + v21goal blend w=0.65 (lineup-aware)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 401893764) minutes before kickoff; prediction run on confirmed lineups.",
+ "probabilities": {
+  "home_win": 0.400,
+  "draw": 0.303,
+  "away_win": 0.297
+ },
+ "odds": {
+  "home_win": 3.25
+ },
+ "bookmaker": "unibet_nl",
+ "bets": [
+  {
+   "leg": "Home win (Alashkert)",
+   "odds": 3.25,
+   "implied_prob": 0.3077,
+   "model_prob": 0.400,
+   "edge_pp": 9.23,
+   "ev": 0.300,
+   "stake_eur": 5.0,
+   "staking_method": "Recommended EUR5 at the 2.75 threshold quote before the actual price was known; placed at 3.25 with stake unchanged (user-directed). Formula at 3.25 would give halfKelly 6.67% x EUR193.43 = EUR12.90 (under 8% cap) -> EUR13; stake stays EUR5 as recommended.",
+   "potential_profit_eur": 11.25,
+   "potential_return_eur": 16.25
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw and CFR win below +3pp edge at available prices.",
+ "total_stake_eur": 5.0,
+ "data_note": "Match predictable only after 2026-07-23 coverage work (team alias CFR Cluj-Napoca->CFR Cluj + roster-league fallback; CFR roster from their 2023 UECL campaign, 10/22 lineup embeddings unmatched). Flagged once per policy: edge partly rides on cross-league Elo for a thin-data pairing.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around kickoff; this commit logged minutes AFTER kickoff (~15:0xZ), before any result information. Not a pre-kickoff-proof pick per the strict standard.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

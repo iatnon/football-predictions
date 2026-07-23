@@ -32,8 +32,12 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 13 | 2026-07-21 | Klaksvíkar Ítróttarfelag vs FK Kauno Žalgiris (UEFA-Champions League Qualification) | Home win | 2.20 | €16.00 | ❌ loss (0-0) | -€16.00 | €180.04 |
 | 14 | 2026-07-22 | Inter Miami CF vs Chicago Fire (MLS) | Home win + Draw (2 legs) | 2.28 / 4.00 | €13.00 + €6.00 = €19.00 | ✅ home leg won (3-2), ❌ draw leg lost | +€10.64 | €190.68 |
 | 15 | 2026-07-22 | New England Revolution vs Toronto FC (MLS) | Away win + Draw (2 legs) | 3.40 / 3.55 | €10.00 + €5.00 = €15.00 | ✅ draw leg won (0-0), ❌ away leg lost | +€2.75 | €193.43 |
+| 16 | 2026-07-23 | Alashkert FC vs CFR Cluj (UECL Qual Q2) | Home win | 3.25 | €5.00 | ⏳ pending | — | — |
+| 17 | 2026-07-23 | FK Liepāja vs Austria Wien (UECL Qual Q2) | Draw | 4.35 | €4.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39).
+**Settled club-season bankroll: €193.43** (started €196.04; #13 −€16.00, #14–#15 net +€13.39). €9.00 in play on #16–#17.
+
+*Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 
 *(Correction 2026-07-23: #13 was briefly settled as "void — never placed" in commit 1cd4b65 due to a miscommunication; the bet WAS placed. Corrected to a loss in the following commit — pre-kickoff log 306d5aa stands as its proof.)*
 
