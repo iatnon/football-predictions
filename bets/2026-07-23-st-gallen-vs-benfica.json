@@ -47,7 +47,14 @@
  "total_stake_eur": 15.0,
  "data_note": "15/22 player embeddings matched (8/11 home, 7/11 away) -- good coverage, edges treated as trustworthy on both legs.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "win",
+ "final_score": "St. Gallen 2-1 Benfica",
+ "leg_results": {
+  "Home win (St. Gallen)": {"result": "win", "profit_eur": 72.0},
+  "Draw": {"result": "loss", "profit_eur": -3.0}
+ },
+ "profit_eur": 69.0,
+ "bankroll_after_eur": 225.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Home win leg WON -- St. Gallen beat Benfica 2-1 at home (EUR12 @ 7.00 = EUR84 return, EUR72 profit). Draw leg lost (EUR3 stake). Net +EUR69.00. Settled via ESPN scoreboard (event 401878088, STATUS_FULL_TIME)."
 }

@@ -35,7 +35,10 @@
  "total_stake_eur": 16.0,
  "data_note": "20/22 player embeddings matched (home 11/11, away 9/11) -- among the best-covered matches of the day; edge treated as more trustworthy than the Qarabag/Paide thin-data pattern for that reason.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 17:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "Dynamo Kyiv 2-3 PAOK",
+ "profit_eur": -16.0,
+ "bankroll_after_eur": 188.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Home win (Dynamo Kyiv) leg lost -- PAOK won 3-2 away. Settled via ESPN scoreboard (event 401896234, STATUS_FULL_TIME)."
 }

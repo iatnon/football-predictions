@@ -47,7 +47,10 @@
  "total_stake_eur": 9.0,
  "data_note": "14/22 embeddings, asymmetric 5/11 (Rijeka) vs 9/11 (Derry City) -- both legs downsized well below full formula on that basis.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet ahead of the 18:45Z kickoff; this commit logged before kickoff, before any result information -- match has not yet been played.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "Rijeka 1-0 Derry City",
+ "profit_eur": -9.0,
+ "bankroll_after_eur": 156.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Both legs lost -- Rijeka won 1-0 at home (draw leg and away-win leg both settle as losses). Settled via ESPN scoreboard (event 401896226, STATUS_FULL_TIME)."
 }

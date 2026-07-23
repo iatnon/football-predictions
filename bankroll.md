@@ -36,15 +36,15 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 17 | 2026-07-23 | FK Liepāja vs Austria Wien (UECL Qual Q2) | Draw | 4.35 | €4.00 | ❌ loss (0-2) | -€4.00 | €184.43 |
 | 18 | 2026-07-23 | FK Qarabağ vs CSKA Sofia (UEL Qual Q2) | Away win + Draw (2 legs) | 6.50 / 4.40 | €5.00 + €2.00 = €7.00 | ✅ draw leg won (0-0), ❌ away leg lost | +€1.80 | €186.23 |
 | 19 | 2026-07-23 | Paide Linnameeskond vs Zira FK (UECL Qual Q2) | Home win | 7.00 | €3.00 | ✅ win (1-0) | +€18.00 | €204.23 |
-| 20 | 2026-07-23 | Dynamo Kyiv vs PAOK Salonika (UEL Qual Q2) | Home win | 2.75 | €16.00 | ⏳ pending | — | — |
-| 21 | 2026-07-23 | Beşiktaş vs FC Midtjylland (UEL Qual Q2) | Away win | 3.15 | €13.00 | ⏳ pending | — | — |
-| 22 | 2026-07-23 | St. Gallen vs Benfica (UEL Qual Q2) | Home win + Draw (2 legs) | 7.00 / 5.30 | €12.00 + €3.00 = €15.00 | ⏳ pending | — | — |
-| 23 | 2026-07-23 | Vojvodina vs Ajax Amsterdam (UECL Qual Q2) | Home win | 6.10 | €8.00 | ⏳ pending | — | — |
-| 24 | 2026-07-23 | Paksi SE vs Panathinaikos (UECL Qual Q2) | Home win + Draw (2 legs) | 4.90 / 4.50 | €7.00 + €5.00 = €12.00 | ⏳ pending | — | — |
-| 25 | 2026-07-23 | Rijeka vs Derry City (UECL Qual Q2) | Draw + Away win (2 legs) | 7.00 / 15.00 | €4.00 + €5.00 = €9.00 | ⏳ pending | — | — |
-| 26 | 2026-07-23 | Hajduk Split vs Pafos (UEL Qual Q2) | Away win | 3.30 | €10.00 | ⏳ pending | — | — |
+| 20 | 2026-07-23 | Dynamo Kyiv vs PAOK Salonika (UEL Qual Q2) | Home win | 2.75 | €16.00 | ❌ loss (2-3) | -€16.00 | €188.23 |
+| 21 | 2026-07-23 | Beşiktaş vs FC Midtjylland (UEL Qual Q2) | Away win | 3.15 | €13.00 | ❌ loss (1-0) | -€13.00 | €175.23 |
+| 22 | 2026-07-23 | St. Gallen vs Benfica (UEL Qual Q2) | Home win + Draw (2 legs) | 7.00 / 5.30 | €12.00 + €3.00 = €15.00 | ✅ home win leg won (2-1), ❌ draw leg lost | +€69.00 | €244.23 |
+| 23 | 2026-07-23 | Vojvodina vs Ajax Amsterdam (UECL Qual Q2) | Home win | 6.10 | €8.00 | ❌ loss (1-4) | -€8.00 | €236.23 |
+| 24 | 2026-07-23 | Paksi SE vs Panathinaikos (UECL Qual Q2) | Home win + Draw (2 legs) | 4.90 / 4.50 | €7.00 + €5.00 = €12.00 | ❌ loss both legs (1-2) | -€12.00 | €224.23 |
+| 25 | 2026-07-23 | Rijeka vs Derry City (UECL Qual Q2) | Draw + Away win (2 legs) | 7.00 / 15.00 | €4.00 + €5.00 = €9.00 | ❌ loss both legs (1-0) | -€9.00 | €215.23 |
+| 26 | 2026-07-23 | Hajduk Split vs Pafos (UEL Qual Q2) | Away win | 3.30 | €10.00 | ❌ loss (2-0) | -€10.00 | €205.23 |
 
-**Settled club-season bankroll: €204.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00). €81.00 in play on #20–#26 (pending).
+**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are now settled.
 
 *Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 

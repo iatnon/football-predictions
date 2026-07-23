@@ -35,7 +35,10 @@
  "total_stake_eur": 10.0,
  "data_note": "14/22 embeddings, asymmetric 5/11 (Hajduk) vs 9/11 (Pafos) -- pre-bet recommendation was to downsize to EUR3-4 on this basis; user chose EUR10 instead.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 19:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "Hajduk Split 2-0 Pafos",
+ "profit_eur": -10.0,
+ "bankroll_after_eur": 165.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Away win (Pafos) leg lost -- Hajduk Split won 2-0 at home. Settled via ESPN scoreboard (event 401896235, STATUS_FULL_TIME)."
 }

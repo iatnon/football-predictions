@@ -47,7 +47,10 @@
  "total_stake_eur": 12.0,
  "data_note": "13/22 total embeddings, lopsided 3/11 (Paksi) vs 10/11 (Panathinaikos) -- both home-side legs downsized to half formula size on data-trust grounds, same treatment as bet #21 (Vojvodina).",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "Paksi SE 1-2 Panathinaikos",
+ "profit_eur": -12.0,
+ "bankroll_after_eur": 205.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Both legs lost -- Panathinaikos won 2-1 away (home-win and draw legs both settle as losses). Settled via ESPN scoreboard (event 401878134, STATUS_FULL_TIME)."
 }

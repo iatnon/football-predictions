@@ -35,7 +35,10 @@
  "total_stake_eur": 8.0,
  "data_note": "14/22 total embeddings, lopsided 4/11 (Vojvodina) vs 10/11 (Ajax) -- home-side edge downsized to half formula size on data-trust grounds, same treatment as bets #18-19.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed at Unibet around the 18:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "Vojvodina 1-4 Ajax Amsterdam",
+ "profit_eur": -8.0,
+ "bankroll_after_eur": 217.23,
+ "settled_at": "2026-07-23",
+ "settlement_note": "Home win (Vojvodina) leg lost -- Ajax won 4-1 away. Settled via ESPN scoreboard (event 401896225, STATUS_FULL_TIME)."
 }
