@@ -32,7 +32,10 @@
  "excluded_legs_note": "Home and away wins skipped by explicit data-defect call: Austria Wien's player data in our set is 2022-vintage (most of their confirmed XI unmatched, 15/22 across the match), so the model likely underrates them — Liepāja-win 'value' judged a blind spot, not edge. Draw leg is the least exposed to that bias.",
  "total_stake_eur": 4.0,
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around kickoff; this commit logged minutes AFTER kickoff (~15:0xZ), before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "0-2",
+ "profit_eur": -4.0,
+ "bankroll_after_eur": 184.43,
+ "settled_at": "2026-07-23T20:30:00+00:00",
+ "settlement_note": "Full Time 0-2 (ESPN event 401891933) -- Austria Wien won, draw bet lost. Confirms the pre-match caveat that stale Austria Wien data likely underrated them."
 }

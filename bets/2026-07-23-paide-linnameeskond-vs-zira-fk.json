@@ -35,7 +35,10 @@
  "total_stake_eur": 3.0,
  "data_note": "9/22 total embeddings matched, lopsided 6/11 (Paide) vs 3/11 (Zira) -- flagged as the thinnest-data bet logged so far; large model edges here should be read with extra skepticism.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 16:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "win",
+ "final_score": "1-0",
+ "profit_eur": 18.0,
+ "bankroll_after_eur": 204.23,
+ "settled_at": "2026-07-23T20:30:00+00:00",
+ "settlement_note": "Full Time 1-0 (ESPN event 401893761) -- Paide won. EUR3.00 @ 7.00 = EUR21.00 return, +EUR18.00 profit. The extreme edge on this thin-data (3/11 away embeddings) bet paid off, but the pre-match caveat about trusting it stands regardless of this single outcome."
 }

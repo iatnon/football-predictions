@@ -33,7 +33,10 @@
  "total_stake_eur": 5.0,
  "data_note": "Match predictable only after 2026-07-23 coverage work (team alias CFR Cluj-Napoca->CFR Cluj + roster-league fallback; CFR roster from their 2023 UECL campaign, 10/22 lineup embeddings unmatched). Flagged once per policy: edge partly rides on cross-league Elo for a thin-data pairing.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around kickoff; this commit logged minutes AFTER kickoff (~15:0xZ), before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "final_score": "1-1",
+ "profit_eur": -5.0,
+ "bankroll_after_eur": 188.43,
+ "settled_at": "2026-07-23T20:30:00+00:00",
+ "settlement_note": "Full Time 1-1 (ESPN event 401893764) -- draw, home win bet lost."
 }

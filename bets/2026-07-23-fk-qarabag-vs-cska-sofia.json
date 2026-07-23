@@ -47,7 +47,10 @@
  "total_stake_eur": 7.0,
  "data_note": "18/22 player embeddings matched -- best-covered match of today's slate. Large away-side edge against a heavy home favorite flagged as a probable blind-spot pattern (same class noted after the Klaksvik loss, [[uefa-quals-coverage-2026-07-23]]); stakes downsized well below formula on that basis.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs (session artifacts); bet placed at Unibet around the 16:00Z kickoff; this commit logged minutes after kickoff, before any result information. Not a pre-kickoff-proof pick per the strict standard.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "split",
+ "final_score": "0-0",
+ "profit_eur": 1.80,
+ "bankroll_after_eur": 186.23,
+ "settled_at": "2026-07-23T20:30:00+00:00",
+ "settlement_note": "Full Time 0-0 (ESPN event 401896233) -- draw. Draw leg won: EUR2.00 @ 4.40 = EUR8.80 return, +EUR6.80 profit. Away leg (CSKA Sofia) lost: -EUR5.00. Net +EUR1.80."
 }
