@@ -1,0 +1,42 @@
+{
+ "match": "Philadelphia Union vs Seattle Sounders FC",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-25T23:30:00Z",
+ "model": "v24pgctx_ema_alldata (2-seed ensemble, s0+s1, V24MatchModel, pgctx + EMA weight averaging, ALL-DATA retrain -- no held-out validation/test split, epoch 8 checkpoints, trained 2026-07-25/26)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 761686). 20/22 player embeddings matched: Philadelphia Union (home) 10/11, Seattle Sounders FC (away) 10/11.",
+ "probabilities": {
+  "home_win": 0.2494,
+  "draw": 0.2676,
+  "away_win": 0.4830
+ },
+ "odds": {
+  "home_win": 1.84,
+  "draw": 3.95,
+  "away_win": 3.80
+ },
+ "bookmaker": "unibet_nl (kambi)",
+ "bets": [
+  {
+   "leg": "Away win (Seattle Sounders)",
+   "odds": 3.80,
+   "implied_prob": 0.2632,
+   "model_prob": 0.4830,
+   "edge_pp": 22.0,
+   "ev": 0.835,
+   "stake_eur": 16.00,
+   "staking_method": "8% CAP (not full/half Kelly): fullKelly 29.84% -> EUR61.23, halfKelly 14.92% -> EUR30.62, both far above the locked 8%-cap ceiling -> 0.08 x EUR205.23 = EUR16.42 -> rounds down to EUR16.00. Same treatment as Cincinnati/Nashville tonight given the very large edge from an unvalidated same-day checkpoint.",
+   "potential_profit_eur": 44.80,
+   "potential_return_eur": 60.80
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home win (-29.4pp edge, -54.1% EV) excluded as a clear no-bet. Draw (+1.4pp edge, +5.7% EV) marginal, excluded in favor of the much stronger Away leg per the highest-edge-per-match convention.",
+ "total_stake_eur": 16.00,
+ "data_note": "20/22 player embeddings matched (10/11 home, 10/11 away) -- good coverage both sides.",
+ "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own. A +22.0pp/+83.5% EV edge is very large and should be treated with real suspicion (more consistent with model noise/miscalibration on this specific untested checkpoint than a genuine market mispricing this size) -- capped at 8% of bankroll rather than the much larger full/half-Kelly formula outputs.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 23:30Z kickoff.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

@@ -1,0 +1,42 @@
+{
+ "match": "New England Revolution vs Atlanta United FC",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-25T23:30:00Z",
+ "model": "v24pgctx_ema_alldata (2-seed ensemble, s0+s1, V24MatchModel, pgctx + EMA weight averaging, ALL-DATA retrain -- no held-out validation/test split, epoch 8 checkpoints, trained 2026-07-25/26)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 761682). 17/22 player embeddings matched, LOPSIDED: New England Revolution (home) 10/11, Atlanta United FC (away) only 7/11.",
+ "probabilities": {
+  "home_win": 0.4899,
+  "draw": 0.2727,
+  "away_win": 0.2374
+ },
+ "odds": {
+  "home_win": 2.10,
+  "draw": 3.55,
+  "away_win": 3.30
+ },
+ "bookmaker": "unibet_nl (kambi)",
+ "bets": [
+  {
+   "leg": "Home win (New England Revolution)",
+   "odds": 2.10,
+   "implied_prob": 0.4762,
+   "model_prob": 0.4899,
+   "edge_pp": 1.4,
+   "ev": 0.029,
+   "stake_eur": 6.00,
+   "staking_method": "Full Kelly (standing rule for tonight's session): fullKelly 2.62% x EUR205.23 = EUR5.37 -> rounds to EUR6.00.",
+   "potential_profit_eur": 6.60,
+   "potential_return_eur": 12.60
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw (-0.9pp edge, -3.2% EV) and Away win (Atlanta, -6.6pp edge, -21.7% EV) both excluded as no-bets.",
+ "total_stake_eur": 6.00,
+ "data_note": "17/22 player embeddings matched, LOPSIDED 10/11 (New England) vs only 7/11 (Atlanta) -- weakest data coverage of the four MLS matches logged tonight. Edge is thin (+1.4pp) and on the better-covered home side, so treated as marginally trustworthy rather than downsized further, but flagged as the least reliable of tonight's bets.",
+ "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own -- trust rests on the same-night held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863).",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 23:30Z kickoff.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}

@@ -45,12 +45,18 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 26 | 2026-07-23 | Hajduk Split vs Pafos (UEL Qual Q2) | Away win | 3.30 | €10.00 | ❌ loss (2-0) | -€10.00 | €205.23 |
 | 27 | 2026-07-25 | New York Red Bulls vs Charlotte FC (MLS) | Home win | 2.20 | €6.00 | ⏳ pending | — | — |
 | 28 | 2026-07-25 | Columbus Crew vs FC Cincinnati (MLS) | Away win | 3.05 | €16.00 | ⏳ pending | — | — |
+| 29 | 2026-07-25 | New York City FC vs Chicago Fire FC (MLS) | Home win | 2.55 | €6.00 | ⏳ pending | — | — |
+| 30 | 2026-07-25 | Orlando City SC vs Nashville SC (MLS) | Away win | 2.28 | €16.00 | ⏳ pending | — | — |
+| 31 | 2026-07-25 | Philadelphia Union vs Seattle Sounders FC (MLS) | Away win | 3.80 | €16.00 | ⏳ pending | — | — |
+| 32 | 2026-07-25 | New England Revolution vs Atlanta United FC (MLS) | Home win | 2.10 | €6.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are settled. €22.00 in play on #27-#28 (pending).
+**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are settled. €66.00 in play on #27-#32 (pending).
 
 *Bet #27 sizing note: FULL Kelly (not the locked half-Kelly/8%-cap standing rule) per explicit user instruction ("We are doing fully kelly"). fullKelly 2.81% x EUR205.23 = EUR5.77 -> EUR6.00. Model is a brand-new same-day all-data checkpoint (v24pgctx_ema_alldata_s0, trained 2026-07-25, no held-out val/test of its own) -- trust rests on the SAME-NIGHT held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863), not a direct backtest of this exact checkpoint. Edge thin (+3.4% EV), right at standard threshold. 22/22 embeddings matched both sides.*
 
 *Bet #28 sizing note: user asked to lower the edge threshold from 3% to 1% for this call; initial odds given for Cincinnati (2.10) were a typo, corrected to 3.05 -- edge recomputed from +1.3pp/+2.7%EV to +16.1pp/+49.2%EV, a large jump. FLAGGED to user as unusually large for a real market mispricing given this is a same-day unvalidated all-data checkpoint (more consistent with model noise/miscalibration than free money) -- user chose the 8% CAP (EUR16.42 -> EUR16.00) rather than full Kelly (EUR49.27) or half Kelly (EUR24.64) given the caveat. 2-seed ensemble (s0+s1 only; s2 was still mid-training at prediction time, excluded).*
+
+*Bets #29-#32 (01:30 CET / 23:30Z MLS slate, same 2-seed all-data ensemble): #29 (NYCFC-Chicago, 21/22 embeddings) and #32 (New England-Atlanta, 17/22 LOPSIDED 10/11 vs 7/11 -- weakest data of the four) both taken at full Kelly since their edges were thin enough that the formula bound naturally (EUR6 each). #30 (Orlando-Nashville, 22/22 embeddings, +30.5% EV) and #31 (Philadelphia-Seattle, 20/22 embeddings, +83.5% EV) both capped at 8% (EUR16 each) rather than full/half Kelly given the same large-edge-from-unvalidated-checkpoint caution as bet #28 -- #31's edge in particular (+22.0pp) is the largest seen tonight and should be read with real skepticism, not treated as free money.
 
 *Bets #16–#17 provenance: predictions generated pre-kickoff from ESPN-confirmed XIs; bets placed at Unibet around the 15:00Z kickoff; committed minutes after kickoff, before any result information. Not counted as pre-kickoff-proof picks under the strict standard. Stakes are the pre-price threshold recommendations (€5/€4), kept unchanged after the placed prices (3.25/4.35) came in above the recommendation thresholds (2.75/4.00).*
 
