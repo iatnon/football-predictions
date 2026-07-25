@@ -1,0 +1,42 @@
+{
+ "match": "New York Red Bulls vs Charlotte FC",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-25T22:30:00Z",
+ "model": "v24pgctx_ema_alldata_s0 (V24MatchModel, pgctx + EMA weight averaging, ALL-DATA retrain -- no held-out validation/test split, fixed 9-epoch budget, epoch 8 checkpoint, trained 2026-07-25)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 761685). 22/22 player embeddings matched, both sides fully covered: New York Red Bulls (home) 11/11, Charlotte FC (away) 11/11.",
+ "probabilities": {
+  "home_win": 0.4699,
+  "draw": 0.2653,
+  "away_win": 0.2649
+ },
+ "odds": {
+  "home_win": 2.20,
+  "draw": 3.55,
+  "away_win": 3.05
+ },
+ "bookmaker": "user_supplied",
+ "bets": [
+  {
+   "leg": "Home win (New York Red Bulls)",
+   "odds": 2.20,
+   "implied_prob": 0.4545,
+   "model_prob": 0.4699,
+   "edge_pp": 1.5,
+   "ev": 0.034,
+   "stake_eur": 6.00,
+   "staking_method": "FULL Kelly (explicit user instruction, deviates from the locked half-Kelly/8%-cap standing rule): fullKelly 2.81% -> 0.0281 x EUR205.23 = EUR5.77 -> rounds up to EUR6.00.",
+   "potential_profit_eur": 7.20,
+   "potential_return_eur": 13.20
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Draw (-1.6pp edge, -5.8% EV) and Away win (Charlotte, -6.3pp edge, -19.2% EV) both excluded as no-bets.",
+ "total_stake_eur": 6.00,
+ "data_note": "22/22 player embeddings matched (11/11 home, 11/11 away) -- full coverage both sides, edge treated as trustworthy on data grounds.",
+ "model_caveat": "This is a brand-new same-day checkpoint (v24pgctx_ema_alldata_s0) trained specifically on ALL data with no held-out season -- it has no independent backtest of its own. Trust in this prediction rests on tonight's separate held-out validation of the same architecture (v24pgctx_ema, 3-seed ensemble, best val_ce 0.9871-0.9895, beating the honest v20clean baseline 0.9863), not a direct test of this exact all-data checkpoint. Edge is also thin (+3.4% EV), right at the standard threshold.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 22:30Z kickoff.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
