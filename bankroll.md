@@ -49,8 +49,9 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 30 | 2026-07-25 | Orlando City SC vs Nashville SC (MLS) | Away win | 2.28 | €16.00 | ⏳ pending | — | — |
 | 31 | 2026-07-25 | Philadelphia Union vs Seattle Sounders FC (MLS) | Away win | 3.80 | €16.00 | ⏳ pending | — | — |
 | 32 | 2026-07-25 | New England Revolution vs Atlanta United FC (MLS) | Home win | 2.10 | €6.00 | ⏳ pending | — | — |
+| 33 | 2026-07-25 | CF Montréal vs Inter Miami CF (MLS) | Away win | 2.12 | €16.00 | ⏳ pending | — | — |
 
-**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are settled. €66.00 in play on #27-#32 (pending).
+**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are settled. €82.00 in play on #27-#33 (pending). D.C. United vs Toronto FC (11/11 embeddings both sides, kickoff 23:30Z) checked -- all 3 legs negative EV, no bet.
 
 *Bet #27 sizing note: FULL Kelly (not the locked half-Kelly/8%-cap standing rule) per explicit user instruction ("We are doing fully kelly"). fullKelly 2.81% x EUR205.23 = EUR5.77 -> EUR6.00. Model is a brand-new same-day all-data checkpoint (v24pgctx_ema_alldata_s0, trained 2026-07-25, no held-out val/test of its own) -- trust rests on the SAME-NIGHT held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863), not a direct backtest of this exact checkpoint. Edge thin (+3.4% EV), right at standard threshold. 22/22 embeddings matched both sides.*
 
