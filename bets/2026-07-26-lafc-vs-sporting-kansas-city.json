@@ -12,43 +12,45 @@
  },
  "odds": {
   "home_win": 1.21,
-  "draw": 6.50,
-  "away_win": 11.50
+  "draw": 6.5,
+  "away_win": 11.5
  },
  "bookmaker": "unibet_nl (kambi)",
  "bets": [
   {
    "leg": "Away win (Sporting Kansas City)",
-   "odds": 11.50,
-   "implied_prob": 0.0870,
+   "odds": 11.5,
+   "implied_prob": 0.087,
    "model_prob": 0.1485,
    "edge_pp": 6.2,
    "ev": 0.708,
-   "stake_eur": 3.00,
+   "stake_eur": 3.0,
    "staking_method": "QUARTER Kelly (explicit caution, not full/half): fullKelly 6.74% -> EUR13.83, quarterKelly 1.69% x EUR205.23 = EUR3.46 -> rounds to EUR3.00. Downsized hard because the edge comes from an extreme-favorite market (LAFC 82.6% implied) -- a known risk pattern where large edges against heavy favorites are often model blind spots rather than real value, compounded by 1 unmatched away-side player embedding.",
-   "potential_profit_eur": 31.50,
-   "potential_return_eur": 34.50
+   "potential_profit_eur": 31.5,
+   "potential_return_eur": 34.5
   },
   {
    "leg": "Draw",
-   "odds": 6.50,
+   "odds": 6.5,
    "implied_prob": 0.1538,
    "model_prob": 0.1979,
    "edge_pp": 4.4,
    "ev": 0.286,
-   "stake_eur": 3.00,
+   "stake_eur": 3.0,
    "staking_method": "QUARTER Kelly (same caution as the away leg): fullKelly 5.21% -> EUR10.69, quarterKelly 1.30% x EUR205.23 = EUR2.67 -> rounds to EUR3.00.",
-   "potential_profit_eur": 16.50,
-   "potential_return_eur": 19.50
+   "potential_profit_eur": 16.5,
+   "potential_return_eur": 19.5
   }
  ],
  "placed": true,
  "excluded_legs_note": "Home win (LAFC, -17.3pp edge, -20.9% EV) excluded as a clear no-bet.",
- "total_stake_eur": 6.00,
+ "total_stake_eur": 6.0,
  "data_note": "21/22 player embeddings matched (11/11 home, 10/11 away).",
  "model_caveat": "FLAGGED BEFORE PLACEMENT: extreme-favorite market (implied 82.6% for LAFC) is exactly the 'minnow default-Elo pathology' risk pattern noted elsewhere in this project's history -- large model edges against heavy favorites in thin-data or lopsided matchups are often blind spots, not real value. User explicitly asked to be cautious with this bet; both legs sized at quarter-Kelly rather than the standing full-Kelly rule used elsewhere tonight. Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 02:30Z kickoff.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "profit_eur": -6.0,
+ "bankroll_after_eur": 163.37,
+ "final_score": "4-0 (LAFC 4-0 Sporting Kansas City)",
+ "settlement_note": "Final score 4-0 (LAFC 4-0 Sporting Kansas City). Away win (Sporting Kansas City) @ 11.5: lost (-3.00); Draw @ 6.5: lost (-3.00)"
 }

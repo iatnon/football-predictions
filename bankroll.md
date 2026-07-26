@@ -43,20 +43,22 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 24 | 2026-07-23 | Paksi SE vs Panathinaikos (UECL Qual Q2) | Home win + Draw (2 legs) | 4.90 / 4.50 | €7.00 + €5.00 = €12.00 | ❌ loss both legs (1-2) | -€12.00 | €224.23 |
 | 25 | 2026-07-23 | Rijeka vs Derry City (UECL Qual Q2) | Draw + Away win (2 legs) | 7.00 / 15.00 | €4.00 + €5.00 = €9.00 | ❌ loss both legs (1-0) | -€9.00 | €215.23 |
 | 26 | 2026-07-23 | Hajduk Split vs Pafos (UEL Qual Q2) | Away win | 3.30 | €10.00 | ❌ loss (2-0) | -€10.00 | €205.23 |
-| 27 | 2026-07-25 | New York Red Bulls vs Charlotte FC (MLS) | Home win | 2.20 | €6.00 | ⏳ pending | — | — |
-| 28 | 2026-07-25 | Columbus Crew vs FC Cincinnati (MLS) | Away win | 3.05 | €16.00 | ⏳ pending | — | — |
-| 29 | 2026-07-25 | New York City FC vs Chicago Fire FC (MLS) | Home win | 2.55 | €6.00 | ⏳ pending | — | — |
-| 30 | 2026-07-25 | Orlando City SC vs Nashville SC (MLS) | Away win | 2.28 | €16.00 | ⏳ pending | — | — |
-| 31 | 2026-07-25 | Philadelphia Union vs Seattle Sounders FC (MLS) | Away win | 3.80 | €16.00 | ⏳ pending | — | — |
-| 32 | 2026-07-25 | New England Revolution vs Atlanta United FC (MLS) | Home win | 2.10 | €6.00 | ⏳ pending | — | — |
-| 33 | 2026-07-25 | CF Montréal vs Inter Miami CF (MLS) | Away win | 2.12 | €16.00 | ⏳ pending | — | — |
-| 34 | 2026-07-26 | Houston Dynamo FC vs Austin FC (MLS) | Away win | 4.70 | €9.00 | ⏳ pending | — | — |
-| 35 | 2026-07-26 | St. Louis CITY SC vs Colorado Rapids (MLS) | Home win | 2.02 | €16.00 | ⏳ pending | — | — |
-| 36 | 2026-07-26 | San Diego FC vs FC Dallas (MLS) | Away win | 2.88 | €16.00 | ⏳ pending | — | — |
-| 37 | 2026-07-26 | Portland Timbers vs Real Salt Lake (MLS) | Draw | 3.90 | €7.00 | ⏳ pending | — | — |
-| 38 | 2026-07-26 | LAFC vs Sporting Kansas City (MLS) | Away win + Draw (2 legs) | 11.50 / 6.50 | €3.00 + €3.00 = €6.00 | ⏳ pending | — | — |
+| 27 | 2026-07-25 | New York Red Bulls vs Charlotte FC (MLS) | Home win | 2.20 | €6.00 | ❌ loss (0-2) | -€6.00 | €199.23 |
+| 28 | 2026-07-25 | Columbus Crew vs FC Cincinnati (MLS) | Away win | 3.05 | €16.00 | ❌ loss (2-1) | -€16.00 | €183.23 |
+| 29 | 2026-07-25 | New York City FC vs Chicago Fire FC (MLS) | Home win | 2.55 | €6.00 | ✅ win (3-1) | +€9.30 | €192.53 |
+| 30 | 2026-07-25 | Orlando City SC vs Nashville SC (MLS) | Away win | 2.28 | €16.00 | ❌ loss (1-0) | -€16.00 | €176.53 |
+| 31 | 2026-07-25 | Philadelphia Union vs Seattle Sounders FC (MLS) | Away win | 3.80 | €16.00 | ❌ loss (1-0) | -€16.00 | €160.53 |
+| 32 | 2026-07-25 | New England Revolution vs Atlanta United FC (MLS) | Home win | 2.10 | €6.00 | ✅ win (4-1) | +€6.60 | €167.13 |
+| 33 | 2026-07-25 | CF Montréal vs Inter Miami CF (MLS) | Away win | 2.12 | €16.00 | ✅ win (0-1) | +€17.92 | €185.05 |
+| 34 | 2026-07-26 | Houston Dynamo FC vs Austin FC (MLS) | Away win | 4.70 | €9.00 | ❌ loss (3-0) | -€9.00 | €176.05 |
+| 35 | 2026-07-26 | St. Louis CITY SC vs Colorado Rapids (MLS) | Home win | 2.02 | €16.00 | ✅ win (1-0) | +€16.32 | €192.37 |
+| 36 | 2026-07-26 | San Diego FC vs FC Dallas (MLS) | Away win | 2.88 | €16.00 | ❌ loss (1-0) | -€16.00 | €176.37 |
+| 37 | 2026-07-26 | Portland Timbers vs Real Salt Lake (MLS) | Draw | 3.90 | €7.00 | ❌ loss (2-1) | -€7.00 | €169.37 |
+| 38 | 2026-07-26 | LAFC vs Sporting Kansas City (MLS) | Away win + Draw (2 legs) | 11.50 / 6.50 | €3.00 + €3.00 = €6.00 | ❌ loss both legs (4-0) | -€6.00 | €163.37 |
 
-**Settled club-season bankroll: €205.23** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00). All bets from the 2026-07-23 UEFA qualifiers matchday are settled. €140.00 in play on #27-#38 (pending). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
+**Settled club-season bankroll: €163.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
+
+**MLS slate #27-#38 settled 2026-07-26: 4 wins / 13 legs, €136.00 staked, net -€41.86.** This was a losing night overall -- the four large-edge 8%-cap bets flagged at placement as "unusually large for a same-day unvalidated checkpoint" (#28 Cincinnati, #30 Nashville, #31 Seattle, #36 Dallas) all lost, exactly the risk pattern called out before kickoff. The two full-Kelly wins (#29, #32) and one 8%-cap win (#35) were not enough to offset them. #33 (Inter Miami away, full Kelly-bound at the cap) was the single best result. #38's caution downsize (quarter-Kelly on both LAFC legs) limited the loss to €6 versus what half/full Kelly would have cost on the same wrong call.
 
 *Bet #27 sizing note: FULL Kelly (not the locked half-Kelly/8%-cap standing rule) per explicit user instruction ("We are doing fully kelly"). fullKelly 2.81% x EUR205.23 = EUR5.77 -> EUR6.00. Model is a brand-new same-day all-data checkpoint (v24pgctx_ema_alldata_s0, trained 2026-07-25, no held-out val/test of its own) -- trust rests on the SAME-NIGHT held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863), not a direct backtest of this exact checkpoint. Edge thin (+3.4% EV), right at standard threshold. 22/22 embeddings matched both sides.*
 

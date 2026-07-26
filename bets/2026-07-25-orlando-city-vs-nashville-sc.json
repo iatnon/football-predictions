@@ -24,7 +24,7 @@
    "model_prob": 0.5725,
    "edge_pp": 13.4,
    "ev": 0.305,
-   "stake_eur": 16.00,
+   "stake_eur": 16.0,
    "staking_method": "8% CAP (not full/half Kelly): fullKelly 23.85% -> EUR48.95, halfKelly 11.93% -> EUR24.48, both far above the locked 8%-cap ceiling -> 0.08 x EUR205.23 = EUR16.42 -> rounds down to EUR16.00, same treatment as the Cincinnati bet given the large edge from an unvalidated same-day checkpoint.",
    "potential_profit_eur": 20.48,
    "potential_return_eur": 36.48
@@ -32,11 +32,13 @@
  ],
  "placed": true,
  "excluded_legs_note": "Home win (-14.3pp edge, -40.7% EV) and Draw (-5.5pp edge, -20.0% EV) both excluded as clear no-bets.",
- "total_stake_eur": 16.00,
+ "total_stake_eur": 16.0,
  "data_note": "22/22 player embeddings matched (11/11 home, 11/11 away) -- full coverage both sides, edge treated as data-supported.",
  "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own. A +13.4pp/+30.5% EV edge is large for a real MLS market mispricing -- sized at the 8% cap rather than full/half Kelly given this caution, consistent with how the Cincinnati bet was handled tonight.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 23:30Z kickoff.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "profit_eur": -16.0,
+ "bankroll_after_eur": 176.53,
+ "final_score": "1-0 (Orlando City SC 1-0 Nashville SC)",
+ "settlement_note": "Final score 1-0 (Orlando City SC 1-0 Nashville SC). Away win (Nashville SC) @ 2.28: lost (-16.00)"
 }

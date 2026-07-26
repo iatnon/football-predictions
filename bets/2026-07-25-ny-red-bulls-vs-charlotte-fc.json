@@ -11,7 +11,7 @@
   "away_win": 0.2649
  },
  "odds": {
-  "home_win": 2.20,
+  "home_win": 2.2,
   "draw": 3.55,
   "away_win": 3.05
  },
@@ -19,24 +19,26 @@
  "bets": [
   {
    "leg": "Home win (New York Red Bulls)",
-   "odds": 2.20,
+   "odds": 2.2,
    "implied_prob": 0.4545,
    "model_prob": 0.4699,
    "edge_pp": 1.5,
    "ev": 0.034,
-   "stake_eur": 6.00,
+   "stake_eur": 6.0,
    "staking_method": "FULL Kelly (explicit user instruction, deviates from the locked half-Kelly/8%-cap standing rule): fullKelly 2.81% -> 0.0281 x EUR205.23 = EUR5.77 -> rounds up to EUR6.00.",
-   "potential_profit_eur": 7.20,
-   "potential_return_eur": 13.20
+   "potential_profit_eur": 7.2,
+   "potential_return_eur": 13.2
   }
  ],
  "placed": true,
  "excluded_legs_note": "Draw (-1.6pp edge, -5.8% EV) and Away win (Charlotte, -6.3pp edge, -19.2% EV) both excluded as no-bets.",
- "total_stake_eur": 6.00,
+ "total_stake_eur": 6.0,
  "data_note": "22/22 player embeddings matched (11/11 home, 11/11 away) -- full coverage both sides, edge treated as trustworthy on data grounds.",
  "model_caveat": "This is a brand-new same-day checkpoint (v24pgctx_ema_alldata_s0) trained specifically on ALL data with no held-out season -- it has no independent backtest of its own. Trust in this prediction rests on tonight's separate held-out validation of the same architecture (v24pgctx_ema, 3-seed ensemble, best val_ce 0.9871-0.9895, beating the honest v20clean baseline 0.9863), not a direct test of this exact all-data checkpoint. Edge is also thin (+3.4% EV), right at the standard threshold.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 22:30Z kickoff.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "loss",
+ "profit_eur": -6.0,
+ "bankroll_after_eur": 199.23,
+ "final_score": "0-2 (Red Bull NY 0-2 Charlotte FC)",
+ "settlement_note": "Final score 0-2 (Red Bull NY 0-2 Charlotte FC). Home win (New York Red Bulls) @ 2.2: lost (-6.00)"
 }

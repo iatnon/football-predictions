@@ -8,11 +8,11 @@
  "probabilities": {
   "home_win": 0.4107,
   "draw": 0.2403,
-  "away_win": 0.3490
+  "away_win": 0.349
  },
  "odds": {
   "home_win": 2.55,
-  "draw": 3.60,
+  "draw": 3.6,
   "away_win": 2.55
  },
  "bookmaker": "unibet_nl (kambi)",
@@ -24,19 +24,21 @@
    "model_prob": 0.4107,
    "edge_pp": 1.9,
    "ev": 0.047,
-   "stake_eur": 6.00,
+   "stake_eur": 6.0,
    "staking_method": "Full Kelly (standing rule for tonight's session): fullKelly 3.05% x EUR205.23 = EUR6.26 -> rounds to EUR6.00.",
-   "potential_profit_eur": 9.30,
-   "potential_return_eur": 15.30
+   "potential_profit_eur": 9.3,
+   "potential_return_eur": 15.3
   }
  ],
  "placed": true,
  "excluded_legs_note": "Draw (-3.7pp edge, -13.5% EV) and Away win (Chicago Fire, -4.3pp edge, -11.0% EV) both excluded as no-bets.",
- "total_stake_eur": 6.00,
+ "total_stake_eur": 6.0,
  "data_note": "21/22 player embeddings matched (11/11 home, 10/11 away) -- good coverage both sides.",
  "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own -- trust rests on the same-night held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863).",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 23:30Z kickoff.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "win",
+ "profit_eur": 9.3,
+ "bankroll_after_eur": 192.53,
+ "final_score": "3-1 (New York City FC 3-1 Chicago Fire FC)",
+ "settlement_note": "Final score 3-1 (New York City FC 3-1 Chicago Fire FC). Home win (New York City FC) @ 2.55: WON (+9.30)"
 }

@@ -7,12 +7,12 @@
  "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 761688). 22/22 player embeddings matched, full coverage both sides.",
  "probabilities": {
   "home_win": 0.5611,
-  "draw": 0.2370,
+  "draw": 0.237,
   "away_win": 0.2019
  },
  "odds": {
   "home_win": 2.02,
-  "draw": 3.70,
+  "draw": 3.7,
   "away_win": 3.35
  },
  "bookmaker": "unibet_nl (kambi)",
@@ -20,11 +20,11 @@
   {
    "leg": "Home win (St. Louis City)",
    "odds": 2.02,
-   "implied_prob": 0.4950,
+   "implied_prob": 0.495,
    "model_prob": 0.5611,
    "edge_pp": 6.6,
    "ev": 0.133,
-   "stake_eur": 16.00,
+   "stake_eur": 16.0,
    "staking_method": "8% CAP: fullKelly 13.08% -> EUR26.85, halfKelly 6.54% -> EUR13.42; 8% cap of bankroll = 0.08 x EUR205.23 = EUR16.42 -> rounds down to EUR16.00.",
    "potential_profit_eur": 16.32,
    "potential_return_eur": 32.32
@@ -32,11 +32,13 @@
  ],
  "placed": true,
  "excluded_legs_note": "Draw (-3.3pp edge, -12.3% EV) and Away win (Colorado, -9.7pp edge, -32.4% EV) both excluded as no-bets.",
- "total_stake_eur": 16.00,
+ "total_stake_eur": 16.0,
  "data_note": "22/22 player embeddings matched (11/11 home, 11/11 away) -- full coverage both sides, no data caveats.",
  "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own -- trust rests on the same-night held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863). Edge size (+13.3% EV) is moderate, not extreme.",
  "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 00:30Z kickoff.",
- "result": null,
- "profit_eur": null,
- "bankroll_after_eur": null
+ "result": "win",
+ "profit_eur": 16.32,
+ "bankroll_after_eur": 192.37,
+ "final_score": "1-0 (St. Louis CITY SC 1-0 Colorado Rapids)",
+ "settlement_note": "Final score 1-0 (St. Louis CITY SC 1-0 Colorado Rapids). Home win (St. Louis City) @ 2.02: WON (+16.32)"
 }
