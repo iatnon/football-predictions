@@ -1,0 +1,42 @@
+{
+ "match": "San Diego FC vs FC Dallas",
+ "competition": "USA-Major League Soccer",
+ "kickoff_utc": "2026-07-26T01:30:00Z",
+ "model": "v24pgctx_ema_alldata (2-seed ensemble, s0+s1, V24MatchModel, pgctx + EMA weight averaging, ALL-DATA retrain -- no held-out validation/test split, epoch 8 checkpoints, trained 2026-07-25/26)",
+ "lineups_confirmed": true,
+ "confirmed_lineup_note": "Both XIs 11/11 from ESPN summary (event 761691). 22/22 player embeddings matched, full coverage both sides.",
+ "probabilities": {
+  "home_win": 0.2949,
+  "draw": 0.2740,
+  "away_win": 0.4311
+ },
+ "odds": {
+  "home_win": 2.20,
+  "draw": 3.80,
+  "away_win": 2.88
+ },
+ "bookmaker": "unibet_nl (kambi)",
+ "bets": [
+  {
+   "leg": "Away win (FC Dallas)",
+   "odds": 2.88,
+   "implied_prob": 0.3472,
+   "model_prob": 0.4311,
+   "edge_pp": 8.4,
+   "ev": 0.242,
+   "stake_eur": 16.00,
+   "staking_method": "8% CAP: fullKelly 12.85% -> EUR26.37, halfKelly 6.42% -> EUR13.19; 8% cap of bankroll = 0.08 x EUR205.23 = EUR16.42 -> rounds down to EUR16.00.",
+   "potential_profit_eur": 30.08,
+   "potential_return_eur": 46.08
+  }
+ ],
+ "placed": true,
+ "excluded_legs_note": "Home win (-16.0pp edge, -35.1% EV) excluded as a clear no-bet. Draw (+1.1pp edge, +4.1% EV) marginal, excluded in favor of the stronger Away leg.",
+ "total_stake_eur": 16.00,
+ "data_note": "22/22 player embeddings matched (11/11 home, 11/11 away) -- full coverage both sides, no data caveats.",
+ "model_caveat": "Same-day all-data checkpoint (v24pgctx_ema_alldata), no independent backtest of its own -- trust rests on the same-night held-out validation of the same architecture family (v24pgctx_ema 3-seed ensemble, best val_ce 0.9871-0.9895 vs honest v20clean baseline 0.9863). Edge size (+24.2% EV) moderate-large but reasonable, not in the extreme range.",
+ "provenance_note": "Prediction generated pre-kickoff from confirmed XIs; bet placed ahead of the 01:30Z kickoff.",
+ "result": null,
+ "profit_eur": null,
+ "bankroll_after_eur": null
+}
