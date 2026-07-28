@@ -1,0 +1,41 @@
+{
+  "match": "Dinamo Zagreb vs FC Thun",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-07-28T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.647,
+    "draw": 0.192,
+    "away": 0.1611
+  },
+  "odds": {
+    "home": 1.35,
+    "draw": 4.7,
+    "away": 8.0
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 8.0,
+      "implied_prob": 0.125,
+      "model_prob": 0.1611,
+      "edge_pp": 3.61,
+      "ev": 0.289,
+      "stake_eur": 4.0,
+      "staking_method": "half_kelly_8pct_cap",
+      "potential_profit_eur": 28.0,
+      "potential_return_eur": 32.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-07-28T18:39:30.462225+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 32.0
+}
