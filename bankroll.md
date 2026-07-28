@@ -55,6 +55,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 36 | 2026-07-26 | San Diego FC vs FC Dallas (MLS) | Away win | 2.88 | €16.00 | ❌ loss (1-0) | -€16.00 | €176.37 |
 | 37 | 2026-07-26 | Portland Timbers vs Real Salt Lake (MLS) | Draw | 3.90 | €7.00 | ❌ loss (2-1) | -€7.00 | €169.37 |
 | 38 | 2026-07-26 | LAFC vs Sporting Kansas City (MLS) | Away win + Draw (2 legs) | 11.50 / 6.50 | €3.00 + €3.00 = €6.00 | ❌ loss both legs (4-0) | -€6.00 | €163.37 |
+| 39 | 2026-07-28 | KuPS vs Sabah FK (UEFA-Champions League Qualification) | home_win | 2.63 | EUR14.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €163.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
 

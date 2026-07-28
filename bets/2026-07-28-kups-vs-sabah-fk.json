@@ -1,0 +1,41 @@
+{
+  "match": "KuPS vs Sabah FK",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-07-28T15:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.6283,
+    "draw": 0.2126,
+    "away": 0.1591
+  },
+  "odds": {
+    "home": 2.63,
+    "draw": 3.3,
+    "away": 2.5
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "home_win",
+      "odds": 2.63,
+      "implied_prob": 0.3802,
+      "model_prob": 0.6283,
+      "edge_pp": 24.81,
+      "ev": 0.652,
+      "stake_eur": 14.0,
+      "staking_method": "half_kelly_8pct_cap",
+      "potential_profit_eur": 22.82,
+      "potential_return_eur": 36.82
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-07-28T15:02:20.231707+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 36.82
+}
