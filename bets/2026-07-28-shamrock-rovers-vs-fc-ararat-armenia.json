@@ -1,0 +1,41 @@
+{
+  "match": "Shamrock Rovers vs FC Ararat-Armenia",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-07-28T19:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.6286,
+    "draw": 0.1985,
+    "away": 0.1729
+  },
+  "odds": {
+    "home": 1.72,
+    "draw": 3.7,
+    "away": 4.35
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "home_win",
+      "odds": 1.72,
+      "implied_prob": 0.5814,
+      "model_prob": 0.6286,
+      "edge_pp": 4.72,
+      "ev": 0.081,
+      "stake_eur": 10.0,
+      "staking_method": "half_kelly_8pct_cap",
+      "potential_profit_eur": 7.2,
+      "potential_return_eur": 17.2
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 10.0,
+  "logged_pre_kickoff": "2026-07-28T18:35:44.907455+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 17.2
+}
