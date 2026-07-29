@@ -1,0 +1,43 @@
+{
+  "match": "Lech Poznań vs AGF",
+  "competition": "UEFA-Champions League",
+  "kickoff_utc": "2026-07-29T17:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.51,
+    "draw": 0.247,
+    "away_win": 0.242
+  },
+  "odds": {
+    "home_win": 1.68,
+    "draw": 3.75,
+    "away_win": 4.5
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 4.5,
+      "implied_prob": 0.2222222222222222,
+      "model_prob": 0.242,
+      "edge_pp": 1.9777777777777783,
+      "ev": 0.08899999999999997,
+      "stake_eur": 3.0,
+      "staking_method": "p=0.2420 odds=4.50 -> fullKelly=0.0254, halfKelly=0.0127 (8% cap does NOT bind) -> 0.0127 x EUR169.37 = EUR2.15 -> ceil -> EUR3.00",
+      "potential_profit_eur": 10.5,
+      "potential_return_eur": 13.5
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 3.0,
+  "logged_pre_kickoff": "2026-07-29T16:57:41.647135+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 13.5,
+  "confirmed_lineup_note": "Both XIs confirmed via ESPN summary endpoint (event 401877766). Lech Poznań: Mateusz Lis, Terry Yegbe, Wojciech Monka, Michal Gurgul, Robert Gumny, Pablo Rodriguez, Antoni Kozubal, Radoslaw Murawski, Mikael Ishak, Luis Palma, Patrick Walemark. AGF: Mads Hedenstad Christiansen, Jonas Jensen-Abbew, Eric Kahl, Frederik Tingager, Kristian Malt Arnstad, Frederik Emmery, Magnus Knudsen, Mikkel Anderson, Jens Jonsson, Tobias Bech, James Bogere. Player embeddings matched 19/22 (3 unmatched) — best coverage of the 2026-07-29 slate; both clubs have full domestic league history (Lech 306 Ekstraklasa, AGF 303 Superliga)."
+}
