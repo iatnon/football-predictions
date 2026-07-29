@@ -1,0 +1,43 @@
+{
+  "match": "Górnik Zabrze vs Fenerbahçe",
+  "competition": "UEFA-Champions League",
+  "kickoff_utc": "2026-07-29T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.11097458931865291,
+    "draw": 0.13804602299497992,
+    "away_win": 0.7509793876863672
+  },
+  "odds": {
+    "home_win": 6.5,
+    "draw": 4.3,
+    "away_win": 1.47
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 1.47,
+      "implied_prob": 0.6802721088435374,
+      "model_prob": 0.7509793876863672,
+      "edge_pp": 7.070727884282979,
+      "ev": 0.10393969989895968,
+      "stake_eur": 14.0,
+      "staking_method": "p=0.7510 odds=1.47 -> fullKelly=0.2211, halfKelly=0.1106 (cap 0.08 binds) -> 0.0800 x EUR169.37 = EUR13.55 -> EUR14.00",
+      "potential_profit_eur": 6.58,
+      "potential_return_eur": 20.58
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-07-29T17:48:03.513395+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 20.58,
+  "confirmed_lineup_note": "Both XIs confirmed via ESPN summary endpoint (event 401877766 slate, event 401877767). Gornik Zabrze: Philipp Schulze, Josema, Rafal Janicki, Erik Janza, Michal Sacek, Kacper Urbanski, Lukas Sadilek, Maximilian Dietz, Erik Prekop, Taofeek Ismaheel, Yvan Ikia Dimi. Fenerbahce: Mert Gunok, Jayden Oosterwolde, Nathan Ake, Milan Skriniar, Nelson Semedo, Matteo Guendouzi, Marco Asensio, Kerem Akturkoglu, Irfan Can Kahveci, Fred, Talisca. Player embeddings matched 17/22 (5 unmatched). Both clubs well covered domestically (Gornik 204 Ekstraklasa, Fenerbahce 324 Super Lig)."
+}
