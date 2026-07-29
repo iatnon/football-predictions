@@ -1,0 +1,43 @@
+{
+  "match": "FC Kairat vs AC Omonia",
+  "competition": "UEFA-Champions League",
+  "kickoff_utc": "2026-07-29T15:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.3286004504676294,
+    "draw": 0.25330711668653605,
+    "away_win": 0.4180924328458345
+  },
+  "odds": {
+    "home_win": 2.2,
+    "draw": 3.15,
+    "away_win": 3.4
+  },
+  "bookmaker": "manual_override",
+  "bets": [
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 3.4,
+      "implied_prob": 0.29411764705882354,
+      "model_prob": 0.4180924328458345,
+      "edge_pp": 12.397478578701099,
+      "ev": 0.4215142716758373,
+      "stake_eur": 14.0,
+      "staking_method": "p=0.4181 odds=3.40 -> fullKelly=0.1756, halfKelly=0.0878 (cap 0.08 binds) -> 0.0800 x EUR169.37 = EUR13.55 -> EUR14.00",
+      "potential_profit_eur": 33.6,
+      "potential_return_eur": 47.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-07-29T15:05:38.116784+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 47.6,
+  "confirmed_lineup_note": "FC Kairat: Temirlan Anarbekov, Lucas Áfrico, Alyaksandr Martynovich, Luis Mata, Aleksandr Mrynskiy, Damir Kasabulat, Gustavo Mendonça, Jaakko Oksanen, Marc Gual, Lev Kurgin, Oiva Jukkola. AC Omonia: Fabiano, Nikolas Panagiotou, Senou Coulibaly, Jure Balkovec, Stefan Simic, Mateo Maric, Muamer Tankovic, Panagiotis Andreou, Andronikos Kakoulis, Mihlali Mayambela, Ewandro."
+}

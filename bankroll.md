@@ -60,6 +60,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 41 | 2026-07-28 | Hearts vs SK Sturm Graz (UEFA-Champions League Qualification) | away_win | 3.90 | EUR12.00 | ✅ win (0-2) | +€34.80 | €166.17 |
 | 42 | 2026-07-28 | Shamrock Rovers vs FC Ararat-Armenia (UEFA-Champions League Qualification) | home_win | 1.72 | EUR10.00 | ✅ win (2-1) | +€7.20 | €173.37 |
 | 43 | 2026-07-28 | Dinamo Zagreb vs FC Thun (UEFA-Champions League Qualification) | away_win | 8.00 | EUR4.00 | ❌ loss (3-2 AET) | -€4.00 | €169.37 |
+| 44 | 2026-07-29 | FC Kairat vs AC Omonia (UEFA-Champions League) | Away win | 3.40 | EUR14.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €169.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00, #39 −€14.00, #40 −€14.00, #41 +€34.80, #42 +€7.20, #43 −€4.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
 
