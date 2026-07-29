@@ -33,9 +33,10 @@
   "excluded_legs_note": "",
   "total_stake_eur": 14.0,
   "logged_pre_kickoff": "2026-07-28T15:48:58.200197+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
-  "potential_return_eur": 22.82
+  "result": "loss",
+  "final_score": "0-0 (Lincoln Red Imps 0-0 Mjällby AIF)",
+  "profit_eur": -14.0,
+  "bankroll_after_eur": 135.37,
+  "potential_return_eur": 22.82,
+  "settlement_note": "Final score 0-0 (Lincoln Red Imps 0-0 Mjällby AIF). Away win (Mjällby) @ 1.63: LOST (-14.00)"
 }

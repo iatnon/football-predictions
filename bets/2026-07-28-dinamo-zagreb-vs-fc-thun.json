@@ -33,9 +33,10 @@
   "excluded_legs_note": "",
   "total_stake_eur": 4.0,
   "logged_pre_kickoff": "2026-07-28T18:39:30.462225+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
-  "potential_return_eur": 32.0
+  "result": "loss",
+  "final_score": "3-2 AET (Dinamo Zagreb 3-2 FC Thun; Dinamo advance 4-3 on aggregate)",
+  "profit_eur": -4.0,
+  "bankroll_after_eur": 131.37,
+  "potential_return_eur": 32.0,
+  "settlement_note": "Final score 3-2 AET (Dinamo Zagreb 3-2 FC Thun). Away win (Thun) @ 8.00: LOST (-4.00)"
 }

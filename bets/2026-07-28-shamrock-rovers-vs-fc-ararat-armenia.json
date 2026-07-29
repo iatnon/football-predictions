@@ -33,9 +33,10 @@
   "excluded_legs_note": "",
   "total_stake_eur": 10.0,
   "logged_pre_kickoff": "2026-07-28T18:35:44.907455+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
-  "potential_return_eur": 17.2
+  "result": "win",
+  "final_score": "2-1 (Shamrock Rovers 2-1 Ararat-Armenia; Ararat-Armenia advance 3-2 on aggregate)",
+  "profit_eur": 7.2,
+  "bankroll_after_eur": 173.37,
+  "potential_return_eur": 17.2,
+  "settlement_note": "Final score 2-1 (Shamrock Rovers 2-1 Ararat-Armenia). Home win (Shamrock Rovers) @ 1.72: WON (+7.20)"
 }

@@ -33,9 +33,10 @@
   "excluded_legs_note": "",
   "total_stake_eur": 12.0,
   "logged_pre_kickoff": "2026-07-28T18:07:09.138732+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
-  "potential_return_eur": 46.8
+  "result": "win",
+  "final_score": "0-2 (Hearts 0-2 Sturm Graz; Sturm Graz advance 6-0 on aggregate)",
+  "profit_eur": 34.8,
+  "bankroll_after_eur": 166.17,
+  "potential_return_eur": 46.8,
+  "settlement_note": "Final score 0-2 (Hearts 0-2 Sturm Graz). Away win (Sturm Graz) @ 3.90: WON (+34.80)"
 }

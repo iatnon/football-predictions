@@ -55,13 +55,15 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 36 | 2026-07-26 | San Diego FC vs FC Dallas (MLS) | Away win | 2.88 | €16.00 | ❌ loss (1-0) | -€16.00 | €176.37 |
 | 37 | 2026-07-26 | Portland Timbers vs Real Salt Lake (MLS) | Draw | 3.90 | €7.00 | ❌ loss (2-1) | -€7.00 | €169.37 |
 | 38 | 2026-07-26 | LAFC vs Sporting Kansas City (MLS) | Away win + Draw (2 legs) | 11.50 / 6.50 | €3.00 + €3.00 = €6.00 | ❌ loss both legs (4-0) | -€6.00 | €163.37 |
-| 39 | 2026-07-28 | KuPS vs Sabah FK (UEFA-Champions League Qualification) | home_win | 2.63 | EUR14.00 | pending | pending | pending |
-| 40 | 2026-07-28 | Lincoln Red Imps FC vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 1.63 | EUR14.00 | pending | pending | pending |
-| 41 | 2026-07-28 | Hearts vs SK Sturm Graz (UEFA-Champions League Qualification) | away_win | 3.90 | EUR12.00 | pending | pending | pending |
-| 42 | 2026-07-28 | Shamrock Rovers vs FC Ararat-Armenia (UEFA-Champions League Qualification) | home_win | 1.72 | EUR10.00 | pending | pending | pending |
-| 43 | 2026-07-28 | Dinamo Zagreb vs FC Thun (UEFA-Champions League Qualification) | away_win | 8.00 | EUR4.00 | pending | pending | pending |
+| 39 | 2026-07-28 | KuPS vs Sabah FK (UEFA-Champions League Qualification) | home_win | 2.63 | EUR14.00 | ❌ loss (0-2) | -€14.00 | €149.37 |
+| 40 | 2026-07-28 | Lincoln Red Imps FC vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 1.63 | EUR14.00 | ❌ loss (0-0) | -€14.00 | €135.37 |
+| 41 | 2026-07-28 | Hearts vs SK Sturm Graz (UEFA-Champions League Qualification) | away_win | 3.90 | EUR12.00 | ✅ win (0-2) | +€34.80 | €166.17 |
+| 42 | 2026-07-28 | Shamrock Rovers vs FC Ararat-Armenia (UEFA-Champions League Qualification) | home_win | 1.72 | EUR10.00 | ✅ win (2-1) | +€7.20 | €173.37 |
+| 43 | 2026-07-28 | Dinamo Zagreb vs FC Thun (UEFA-Champions League Qualification) | away_win | 8.00 | EUR4.00 | ❌ loss (3-2 AET) | -€4.00 | €169.37 |
 
-**Settled club-season bankroll: €163.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
+**Settled club-season bankroll: €169.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00, #39 −€14.00, #40 −€14.00, #41 +€34.80, #42 +€7.20, #43 −€4.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
+
+**Note on #39–#43 (2026-07-28 UEFA CL-Qual slate):** processed in kickoff order (#39 KuPS 15:00Z, #40 Lincoln 16:00Z, #41 Hearts 18:45Z, #42 Shamrock 19:00Z, #43 Dinamo/Thun 18:00Z, logged out of kickoff order relative to #41/#42 as the follow-up "4 euro bet" request). All 5 bet JSON files show `"placed": false` — settling on the assumption these were placed as discussed; flag if any weren't actually placed on Unibet so the ledger can be corrected. Net across the slate: 2W/5, €54 staked, +€9.80.
 
 **MLS slate #27-#38 settled 2026-07-26: 4 wins / 13 legs, €136.00 staked, net -€41.86.** This was a losing night overall -- the four large-edge 8%-cap bets flagged at placement as "unusually large for a same-day unvalidated checkpoint" (#28 Cincinnati, #30 Nashville, #31 Seattle, #36 Dallas) all lost, exactly the risk pattern called out before kickoff. The two full-Kelly wins (#29, #32) and one 8%-cap win (#35) were not enough to offset them. #33 (Inter Miami away, full Kelly-bound at the cap) was the single best result. #38's caution downsize (quarter-Kelly on both LAFC legs) limited the loss to €6 versus what half/full Kelly would have cost on the same wrong call.
 
