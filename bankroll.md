@@ -64,6 +64,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 45 | 2026-07-29 | Lech Poznań vs AGF (UEFA-Champions League) | Away win | 4.50 | EUR3.00 | pending | pending | pending |
 | 46 | 2026-07-29 | Górnik Zabrze vs Fenerbahçe (UEFA-Champions League) | Away win | 1.47 | EUR14.00 | pending | pending | pending |
 | 47 | 2026-08-04 | Mjällby AIF vs Slovan Bratislava (UEFA-Champions League Qualification) | home_win | 1.98 | EUR14.00 | pending | pending | pending |
+| 48 | 2026-08-04 | FK Auda vs Dinamo Tirana (UEFA-Conference League Qualification) | away_win | 3.00 | EUR11.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €169.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00, #39 −€14.00, #40 −€14.00, #41 +€34.80, #42 +€7.20, #43 −€4.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
 
