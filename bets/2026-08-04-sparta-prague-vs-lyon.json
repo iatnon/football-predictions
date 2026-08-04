@@ -1,0 +1,42 @@
+{
+  "match": "Sparta Prague vs Lyon",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-04T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.5942,
+    "draw": 0.2123,
+    "away_win": 0.1935
+  },
+  "odds": {
+    "home_win": 2.75,
+    "draw": 3.45,
+    "away_win": 2.38
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "home_win",
+      "odds": 2.75,
+      "implied_prob": 0.363636,
+      "model_prob": 0.5942,
+      "edge_pp": 23.06,
+      "ev": 0.634,
+      "stake_eur": 14.0,
+      "staking_method": "half-Kelly capped at 8% of bankroll (cap binds)",
+      "potential_profit_eur": 24.5,
+      "potential_return_eur": 38.5
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-08-04T18:07:00.570356+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 38.5,
+  "confirmed_lineup_note": "Confirmed XIs (ESPN), 21/22 embeddings matched. Model v20clean (0.5942 home); v20full lower at 0.5103 (+14.7pp) — 8pp model disagreement. Market moved toward this side pre-kickoff (home 3.45 -> 2.75, away 1.98 -> 2.38), the only independent corroboration among tonight's picks. Same qualifier-model caveat as bet #50: assistant recommended no bet; logged at user instruction."
+}
