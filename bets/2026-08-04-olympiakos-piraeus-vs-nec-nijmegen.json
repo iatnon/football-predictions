@@ -1,0 +1,42 @@
+{
+  "match": "Olympiakos Piraeus vs NEC Nijmegen",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-04T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.2022,
+    "draw": 0.224,
+    "away_win": 0.5738
+  },
+  "odds": {
+    "home_win": 1.56,
+    "draw": 4.1,
+    "away_win": 5.8
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 5.8,
+      "implied_prob": 0.172414,
+      "model_prob": 0.5738,
+      "edge_pp": 40.14,
+      "ev": 2.328,
+      "stake_eur": 14.0,
+      "staking_method": "half-Kelly capped at 8% of bankroll (cap binds)",
+      "potential_profit_eur": 67.2,
+      "potential_return_eur": 81.2
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-08-04T18:06:52.808227+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 81.2,
+  "confirmed_lineup_note": "Confirmed XIs (ESPN), 22/22 embeddings matched. Model v20clean (0.5738 away); v20full agrees (0.5618, +38.9pp). CAVEAT: +40pp edge vs a liquid market on a leg-1 tie with full lineup data is the largest of four 35-40pp edges the model produced tonight across UEFA qualifiers — assistant assessed this as likely systematic model error on qualifier fixtures (neither checkpoint validated on UEFA quals; v20full has no held-out validation number) and recommended NO BET. Logged at user instruction over that recommendation."
+}
