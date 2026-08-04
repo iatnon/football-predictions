@@ -1,0 +1,42 @@
+{
+  "match": "Ararat-Armenia vs NK Celje",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-04T16:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.3021,
+    "draw": 0.1879,
+    "away_win": 0.51
+  },
+  "odds": {
+    "home_win": 2.7,
+    "draw": 3.25,
+    "away_win": 2.48
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 2.48,
+      "implied_prob": 0.403226,
+      "model_prob": 0.51,
+      "edge_pp": 10.68,
+      "ev": 0.2648,
+      "stake_eur": 14.0,
+      "staking_method": "half-Kelly capped at 8% of bankroll (cap binds)",
+      "potential_profit_eur": 20.72,
+      "potential_return_eur": 34.72
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-08-04T15:53:33.761568+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 34.72,
+  "confirmed_lineup_note": "DATA CAVEAT — 0/22 player embeddings matched (home 0/11, away 0/11): no player-identity signal at all; prediction rests on Elo + league + context tokens only, NOT on lineup composition. Also no confirmed XI (ESPN rosters empty at t-45min; recent_roster fallback). Ararat-Armenia is a thin-data qualifier side prone to default-Elo edges. Model v20full (all-data retrain, no held-out validation number). Logged at user's explicit instruction after this caveat was raised."
+}
