@@ -1,0 +1,42 @@
+{
+  "match": "Union Saint-Gilloise vs Bodo/Glimt",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-04T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.2438,
+    "draw": 0.223,
+    "away_win": 0.5333
+  },
+  "odds": {
+    "home_win": 2.55,
+    "draw": 3.45,
+    "away_win": 2.55
+  },
+  "bookmaker": "Unibet",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 2.55,
+      "implied_prob": 0.392157,
+      "model_prob": 0.5333,
+      "edge_pp": 14.11,
+      "ev": 0.3599,
+      "stake_eur": 14.0,
+      "staking_method": "half-Kelly capped at 8% of bankroll (cap binds)",
+      "potential_profit_eur": 21.7,
+      "potential_return_eur": 35.7
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-08-04T18:07:06.984291+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 35.7,
+  "confirmed_lineup_note": "Confirmed XIs (ESPN), 21/22 embeddings matched. Model v20clean (0.5333 away); v20full agrees closely (0.5254, +13.3pp). Same qualifier-model caveat as bets #50/#51: assistant recommended no bet; logged at user instruction."
+}
