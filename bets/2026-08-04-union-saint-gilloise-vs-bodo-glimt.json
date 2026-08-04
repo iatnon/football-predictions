@@ -38,5 +38,6 @@
   "profit_eur": null,
   "bankroll_after_eur": null,
   "potential_return_eur": 35.7,
-  "confirmed_lineup_note": "Confirmed XIs (ESPN), 21/22 embeddings matched. Model v20clean (0.5333 away); v20full agrees closely (0.5254, +13.3pp). Same qualifier-model caveat as bets #50/#51: assistant recommended no bet; logged at user instruction."
+  "confirmed_lineup_note": "Confirmed XIs (ESPN), 21/22 embeddings matched. Model v20clean (0.5333 away); v20full agrees closely (0.5254, +13.3pp). Same qualifier-model caveat as bets #50/#51: assistant recommended no bet; logged at user instruction. | CORRECTION (pushed 2026-08-04T18:07Z): committed locally pre-kickoff but PUSHED ~7 min AFTER the 18:00Z kickoff. Public timestamp is NOT proof-of-time for this bet.",
+  "push_disclosure": "pushed_post_kickoff_by_7min"
 }

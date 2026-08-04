@@ -38,5 +38,6 @@
   "profit_eur": null,
   "bankroll_after_eur": null,
   "potential_return_eur": 81.2,
-  "confirmed_lineup_note": "Confirmed XIs (ESPN), 22/22 embeddings matched. Model v20clean (0.5738 away); v20full agrees (0.5618, +38.9pp). CAVEAT: +40pp edge vs a liquid market on a leg-1 tie with full lineup data is the largest of four 35-40pp edges the model produced tonight across UEFA qualifiers — assistant assessed this as likely systematic model error on qualifier fixtures (neither checkpoint validated on UEFA quals; v20full has no held-out validation number) and recommended NO BET. Logged at user instruction over that recommendation."
+  "confirmed_lineup_note": "Confirmed XIs (ESPN), 22/22 embeddings matched. Model v20clean (0.5738 away); v20full agrees (0.5618, +38.9pp). CAVEAT: +40pp edge vs a liquid market on a leg-1 tie with full lineup data is the largest of four 35-40pp edges the model produced tonight across UEFA qualifiers — assistant assessed this as likely systematic model error on qualifier fixtures (neither checkpoint validated on UEFA quals; v20full has no held-out validation number) and recommended NO BET. Logged at user instruction over that recommendation. | CORRECTION (pushed 2026-08-04T18:07Z): committed locally pre-kickoff but PUSHED ~7 min AFTER the 18:00Z kickoff. Public timestamp is NOT proof-of-time for this bet.",
+  "push_disclosure": "pushed_post_kickoff_by_7min"
 }
