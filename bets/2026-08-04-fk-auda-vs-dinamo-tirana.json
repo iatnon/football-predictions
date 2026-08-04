@@ -33,10 +33,10 @@
   "excluded_legs_note": "",
   "total_stake_eur": 11.0,
   "logged_pre_kickoff": "2026-08-04T15:11:08.023596+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
+  "result": "loss",
+  "final_score": "1-0 (FK Auda won; away bet Dinamo Tirana lost)",
+  "profit_eur": -11.0,
+  "bankroll_after_eur": 126.87,
   "potential_return_eur": 33.0,
   "confirmed_lineup_note": "NO confirmed XI: ESPN rosters empty at t-50min; prediction uses recent_roster fallback. Model v20full (all-data retrain, no held-out validation number). Unibet lists away side as 'Dinamo Tirana', ESPN as 'Dinamo City' — same club."
 }

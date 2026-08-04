@@ -34,10 +34,10 @@
   "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
   "total_stake_eur": 14.0,
   "logged_pre_kickoff": "2026-07-29T17:48:03.513395+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
+  "result": "loss",
+  "final_score": "1-1 (draw; away bet Fenerbahce)",
+  "profit_eur": -14.0,
+  "bankroll_after_eur": 151.87,
   "potential_return_eur": 20.58,
   "confirmed_lineup_note": "Both XIs confirmed via ESPN summary endpoint (event 401877766 slate, event 401877767). Gornik Zabrze: Philipp Schulze, Josema, Rafal Janicki, Erik Janza, Michal Sacek, Kacper Urbanski, Lukas Sadilek, Maximilian Dietz, Erik Prekop, Taofeek Ismaheel, Yvan Ikia Dimi. Fenerbahce: Mert Gunok, Jayden Oosterwolde, Nathan Ake, Milan Skriniar, Nelson Semedo, Matteo Guendouzi, Marco Asensio, Kerem Akturkoglu, Irfan Can Kahveci, Fred, Talisca. Player embeddings matched 17/22 (5 unmatched). Both clubs well covered domestically (Gornik 204 Ekstraklasa, Fenerbahce 324 Super Lig)."
 }

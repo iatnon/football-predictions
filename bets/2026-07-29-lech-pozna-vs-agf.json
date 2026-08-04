@@ -34,10 +34,10 @@
   "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
   "total_stake_eur": 3.0,
   "logged_pre_kickoff": "2026-07-29T16:57:41.647135+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
+  "result": "win",
+  "final_score": "1-4 (0-3 at 90ft; AET 1-4, aggregate went to pens)",
+  "profit_eur": 10.5,
+  "bankroll_after_eur": 165.87,
   "potential_return_eur": 13.5,
   "confirmed_lineup_note": "Both XIs confirmed via ESPN summary endpoint (event 401877766). Lech Poznań: Mateusz Lis, Terry Yegbe, Wojciech Monka, Michal Gurgul, Robert Gumny, Pablo Rodriguez, Antoni Kozubal, Radoslaw Murawski, Mikael Ishak, Luis Palma, Patrick Walemark. AGF: Mads Hedenstad Christiansen, Jonas Jensen-Abbew, Eric Kahl, Frederik Tingager, Kristian Malt Arnstad, Frederik Emmery, Magnus Knudsen, Mikkel Anderson, Jens Jonsson, Tobias Bech, James Bogere. Player embeddings matched 19/22 (3 unmatched) — best coverage of the 2026-07-29 slate; both clubs have full domestic league history (Lech 306 Ekstraklasa, AGF 303 Superliga)."
 }
