@@ -1,0 +1,41 @@
+{
+  "match": "PSV vs Fortuna Sittard",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-08T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.746,
+    "draw": 0.165,
+    "away_win": 0.089
+  },
+  "odds": {
+    "home_win": 1.19,
+    "draw": 8.5,
+    "away_win": 15.0
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "draw",
+      "odds": 8.5,
+      "implied_prob": 0.1176,
+      "model_prob": 0.165,
+      "edge_pp": 4.74,
+      "ev": 0.403,
+      "stake_eur": 4.0,
+      "staking_method": "half_kelly_8pct_cap",
+      "potential_profit_eur": 30.0,
+      "potential_return_eur": 34.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Scan-time prediction (lineup_source=recent_roster); XIs not yet published ~22h pre-kickoff. Logged now to establish pre-kickoff timestamp. Opening weekend: all XIs projected from last season's starts.",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-07T18:17:11.019267+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 34.0
+}
