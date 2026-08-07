@@ -1,0 +1,42 @@
+{
+  "match": "Cambuur vs Excelsior",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-07T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.143,
+    "draw": 0.21,
+    "away_win": 0.647
+  },
+  "odds": {
+    "home_win": 2.7,
+    "draw": 3.5,
+    "away_win": 2.65
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 2.65,
+      "implied_prob": 0.3774,
+      "model_prob": 0.647,
+      "edge_pp": 26.93,
+      "ev": 0.714,
+      "stake_eur": 10.0,
+      "staking_method": "half_kelly_8pct_cap_user_override_no_large_edge_halving",
+      "potential_profit_eur": 16.5,
+      "potential_return_eur": 26.5
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "User overrode the >=15pp large-edge sanity halving (which would have staked EUR5) and directed full cap-bound size. Model recommendation from the assistant was NO BET: market drifted toward Excelsior all day (2.75->2.65 away, 2.55->2.70 home) while the model stood still, and +26.93pp sits in the band where validated backtests show edges degrade. User's call, taken with eyes open.",
+  "total_stake_eur": 10.0,
+  "logged_pre_kickoff": "2026-08-07T17:57:14.277267+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 26.5,
+  "confirmed_lineup_note": "Cambuur: Thijs Jansen, Rik Mulders, Ismaël Baouf, Jamal Amofa, Lucas Jetten, Ryan van de Pavert, Rafik El Arguioui, Nicky Souren, Iwan Henstra, Skye Vink, Ilyès Hamache. Excelsior: Stijn van Gassel, Nolan Martens, Rick Meissen, Jan Plug, Simon Janssen, Daniël van Vianen, Noah Naujoks, Lennard Hartjes, Irakli Yegoian, David Garden, Gyan de Regt. Confirmed on ESPN + FotMob; 21/22 player embeddings matched (Ilyès Hamache team_mean)."
+}
