@@ -70,9 +70,6 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 51 | 2026-08-04 | Sparta Prague vs Lyon (UEFA-Champions League Qualification) | home_win | 2.75 | EUR14.00 | ✅ win (2-1) | +€24.50 | €127.37 |
 | 52 | 2026-08-04 | Union Saint-Gilloise vs Bodo/Glimt (UEFA-Champions League Qualification) | away_win | 2.55 | EUR14.00 | ❌ loss (3-3) | -€14.00 | €113.37 |
 | 53 | 2026-08-07 | Cambuur vs Excelsior (NED-Eredivisie) | away_win | 2.65 | EUR10.00 | pending | pending | pending |
-| 54 | 2026-08-08 | PSV vs Fortuna Sittard (NED-Eredivisie) | draw | 8.50 | EUR4.00 | pending | pending | pending |
-| 55 | 2026-08-08 | NEC Nijmegen vs Telstar (NED-Eredivisie) | draw | 5.00 | EUR4.00 | pending | pending | pending |
-| 56 | 2026-08-08 | Go Ahead Eagles vs Willem II (NED-Eredivisie) | away_win | 5.40 | EUR3.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €113.37** (started €196.04; 40 bets #13–#52 all settled). Corrected 2026-08-07: bet #41's running balance was mistyped as €166.17 when #40's €135.37 + #41's (correct) +€34.80 = €170.17. The €4.00 shortfall was carried through every later row, so #44–#52 and the headline figure were each €4.00 low (€109.37 stated vs €113.37 actual). Individual stakes, odds, results and P/L were all correct — only the running balance column was wrong, so no bet outcome changes.
 
