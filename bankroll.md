@@ -57,20 +57,20 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 38 | 2026-07-26 | LAFC vs Sporting Kansas City (MLS) | Away win + Draw (2 legs) | 11.50 / 6.50 | €3.00 + €3.00 = €6.00 | ❌ loss both legs (4-0) | -€6.00 | €163.37 |
 | 39 | 2026-07-28 | KuPS vs Sabah FK (UEFA-Champions League Qualification) | home_win | 2.63 | EUR14.00 | ❌ loss (0-2) | -€14.00 | €149.37 |
 | 40 | 2026-07-28 | Lincoln Red Imps FC vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 1.63 | EUR14.00 | ❌ loss (0-0) | -€14.00 | €135.37 |
-| 41 | 2026-07-28 | Hearts vs SK Sturm Graz (UEFA-Champions League Qualification) | away_win | 3.90 | EUR12.00 | ✅ win (0-2) | +€34.80 | €166.17 |
-| 42 | 2026-07-28 | Shamrock Rovers vs FC Ararat-Armenia (UEFA-Champions League Qualification) | home_win | 1.72 | EUR10.00 | ✅ win (2-1) | +€7.20 | €173.37 |
-| 43 | 2026-07-28 | Dinamo Zagreb vs FC Thun (UEFA-Champions League Qualification) | away_win | 8.00 | EUR4.00 | ❌ loss (3-2 AET) | -€4.00 | €169.37 |
-| 44 | 2026-07-29 | FC Kairat vs AC Omonia (UEFA-Champions League) | Away win | 3.40 | EUR14.00 | ❌ loss (1-0) | -€14.00 | €155.37 |
-| 45 | 2026-07-29 | Lech Poznań vs AGF (UEFA-Champions League) | Away win | 4.50 | EUR3.00 | ✅ win (1-4) | +€10.50 | €165.87 |
-| 46 | 2026-07-29 | Górnik Zabrze vs Fenerbahçe (UEFA-Champions League) | Away win | 1.47 | EUR14.00 | ❌ loss (1-1) | -€14.00 | €151.87 |
-| 47 | 2026-08-04 | Mjällby AIF vs Slovan Bratislava (UEFA-Champions League Qualification) | home_win | 1.98 | EUR14.00 | ❌ loss (1-2) | -€14.00 | €137.87 |
-| 48 | 2026-08-04 | FK Auda vs Dinamo Tirana (UEFA-Conference League Qualification) | away_win | 3.00 | EUR11.00 | ❌ loss (1-0) | -€11.00 | €126.87 |
-| 49 | 2026-08-04 | Ararat-Armenia vs NK Celje (UEFA-Champions League Qualification) | away_win | 2.48 | EUR14.00 | ❌ loss (2-1) | -€14.00 | €112.87 |
-| 50 | 2026-08-04 | Olympiakos Piraeus vs NEC Nijmegen (UEFA-Champions League Qualification) | away_win | 5.80 | EUR14.00 | ❌ loss (0-0) | -€14.00 | €98.87 |
-| 51 | 2026-08-04 | Sparta Prague vs Lyon (UEFA-Champions League Qualification) | home_win | 2.75 | EUR14.00 | ✅ win (2-1) | +€24.50 | €123.37 |
-| 52 | 2026-08-04 | Union Saint-Gilloise vs Bodo/Glimt (UEFA-Champions League Qualification) | away_win | 2.55 | EUR14.00 | ❌ loss (3-3) | -€14.00 | €109.37 |
+| 41 | 2026-07-28 | Hearts vs SK Sturm Graz (UEFA-Champions League Qualification) | away_win | 3.90 | EUR12.00 | ✅ win (0-2) | +€34.80 | €170.17 |
+| 42 | 2026-07-28 | Shamrock Rovers vs FC Ararat-Armenia (UEFA-Champions League Qualification) | home_win | 1.72 | EUR10.00 | ✅ win (2-1) | +€7.20 | €177.37 |
+| 43 | 2026-07-28 | Dinamo Zagreb vs FC Thun (UEFA-Champions League Qualification) | away_win | 8.00 | EUR4.00 | ❌ loss (3-2 AET) | -€4.00 | €173.37 |
+| 44 | 2026-07-29 | FC Kairat vs AC Omonia (UEFA-Champions League) | Away win | 3.40 | EUR14.00 | ❌ loss (1-0) | -€14.00 | €159.37 |
+| 45 | 2026-07-29 | Lech Poznań vs AGF (UEFA-Champions League) | Away win | 4.50 | EUR3.00 | ✅ win (1-4) | +€10.50 | €169.87 |
+| 46 | 2026-07-29 | Górnik Zabrze vs Fenerbahçe (UEFA-Champions League) | Away win | 1.47 | EUR14.00 | ❌ loss (1-1) | -€14.00 | €155.87 |
+| 47 | 2026-08-04 | Mjällby AIF vs Slovan Bratislava (UEFA-Champions League Qualification) | home_win | 1.98 | EUR14.00 | ❌ loss (1-2) | -€14.00 | €141.87 |
+| 48 | 2026-08-04 | FK Auda vs Dinamo Tirana (UEFA-Conference League Qualification) | away_win | 3.00 | EUR11.00 | ❌ loss (1-0) | -€11.00 | €130.87 |
+| 49 | 2026-08-04 | Ararat-Armenia vs NK Celje (UEFA-Champions League Qualification) | away_win | 2.48 | EUR14.00 | ❌ loss (2-1) | -€14.00 | €116.87 |
+| 50 | 2026-08-04 | Olympiakos Piraeus vs NEC Nijmegen (UEFA-Champions League Qualification) | away_win | 5.80 | EUR14.00 | ❌ loss (0-0) | -€14.00 | €102.87 |
+| 51 | 2026-08-04 | Sparta Prague vs Lyon (UEFA-Champions League Qualification) | home_win | 2.75 | EUR14.00 | ✅ win (2-1) | +€24.50 | €127.37 |
+| 52 | 2026-08-04 | Union Saint-Gilloise vs Bodo/Glimt (UEFA-Champions League Qualification) | away_win | 2.55 | EUR14.00 | ❌ loss (3-3) | -€14.00 | €113.37 |
 
-**Settled club-season bankroll: €169.37** (started €196.04; #13 −€16.00, #14–#15 net +€13.39, #16 −€5.00, #17 −€4.00, #18 net +€1.80, #19 +€18.00, #20 −€16.00, #21 −€13.00, #22 net +€69.00, #23 −€8.00, #24 −€12.00, #25 −€9.00, #26 −€10.00, #27 −€6.00, #28 −€16.00, #29 +€9.30, #30 −€16.00, #31 −€16.00, #32 +€6.60, #33 +€17.92, #34 −€9.00, #35 +€16.32, #36 −€16.00, #37 −€7.00, #38 −€6.00, #39 −€14.00, #40 −€14.00, #41 +€34.80, #42 +€7.20, #43 −€4.00). D.C. United vs Toronto FC and San Jose Earthquakes vs LA Galaxy both checked -- no bet (all legs negative EV).
+**Settled club-season bankroll: €113.37** (started €196.04; 40 bets #13–#52 all settled). Corrected 2026-08-07: bet #41's running balance was mistyped as €166.17 when #40's €135.37 + #41's (correct) +€34.80 = €170.17. The €4.00 shortfall was carried through every later row, so #44–#52 and the headline figure were each €4.00 low (€109.37 stated vs €113.37 actual). Individual stakes, odds, results and P/L were all correct — only the running balance column was wrong, so no bet outcome changes.
 
 **Note on #39–#43 (2026-07-28 UEFA CL-Qual slate):** processed in kickoff order (#39 KuPS 15:00Z, #40 Lincoln 16:00Z, #41 Hearts 18:45Z, #42 Shamrock 19:00Z, #43 Dinamo/Thun 18:00Z, logged out of kickoff order relative to #41/#42 as the follow-up "4 euro bet" request). All 5 bet JSON files show `"placed": false` — settling on the assumption these were placed as discussed; flag if any weren't actually placed on Unibet so the ledger can be corrected. Net across the slate: 2W/5, €54 staked, +€9.80.
 
