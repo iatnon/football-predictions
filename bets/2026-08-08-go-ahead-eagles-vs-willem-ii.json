@@ -1,0 +1,41 @@
+{
+  "match": "Go Ahead Eagles vs Willem II",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-08T16:45:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.515,
+    "draw": 0.261,
+    "away_win": 0.224
+  },
+  "odds": {
+    "home_win": 1.67,
+    "draw": 4.1,
+    "away_win": 5.4
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 5.4,
+      "implied_prob": 0.1852,
+      "model_prob": 0.224,
+      "edge_pp": 3.88,
+      "ev": 0.21,
+      "stake_eur": 3.0,
+      "staking_method": "half_kelly_8pct_cap",
+      "potential_profit_eur": 13.2,
+      "potential_return_eur": 16.2
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Scan-time prediction (lineup_source=recent_roster); XIs not yet published ~22h pre-kickoff. Logged now to establish pre-kickoff timestamp. Opening weekend: all XIs projected from last season's starts.",
+  "total_stake_eur": 3.0,
+  "logged_pre_kickoff": "2026-08-07T18:17:30.403265+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 16.2
+}
