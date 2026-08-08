@@ -34,10 +34,11 @@
   "excluded_legs_note": "Draw +2.37pp fell below the 3pp threshold once XIs were confirmed (was the pick at +4.09pp off recent-roster). Confirmed lineups moved NEC 0.561->0.553 and Telstar 0.194->0.232 while the market moved the OTHER way (NEC 1.50->1.47, Telstar 6.25->6.40). Edge +7.62pp sits below the >=8pp degradation zone and well below the 15pp sanity flag. Longshot on a promoted side; note Cambuur (other promoted club) were 3-0 down at HT last night, so promoted clubs may be over-rated right now -- reason for the EUR6 size rather than more.",
   "total_stake_eur": 6.0,
   "logged_pre_kickoff": "2026-08-08T13:52:05.333300+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
-  "bankroll_after_eur": null,
+  "result": "win",
+  "final_score": "1-2",
+  "profit_eur": 33.0,
+  "bankroll_after_eur": 162.87,
   "potential_return_eur": 39.0,
-  "confirmed_lineup_note": "NEC Nijmegen: Gonzalo Crettaz, Darko Nejasmic, Deveron Fonville, Brayann Pereira, Isak Hansen-Aarøen, Jamiro Monteiro, Clement Bischoff, Sami Ouaissa, Dusan Tadic, Noé Lebreton, Tjaronn Chery. Telstar: Ronald Koeman, Marvin Peersman, Abdelnour Soualhia, Jeff Hardeveld, Gerald Alders, Patrick Brouwer, Nils Rossen, Tyrone Owusu, Jelani Seedorf, Soufiane Hetli, Rui Mendes. Confirmed on ESPN ~50min pre-kickoff; 21/22 player embeddings matched (Abdelnour Soualhia team_mean)."
+  "confirmed_lineup_note": "NEC Nijmegen: Gonzalo Crettaz, Darko Nejasmic, Deveron Fonville, Brayann Pereira, Isak Hansen-Aarøen, Jamiro Monteiro, Clement Bischoff, Sami Ouaissa, Dusan Tadic, Noé Lebreton, Tjaronn Chery. Telstar: Ronald Koeman, Marvin Peersman, Abdelnour Soualhia, Jeff Hardeveld, Gerald Alders, Patrick Brouwer, Nils Rossen, Tyrone Owusu, Jelani Seedorf, Soufiane Hetli, Rui Mendes. Confirmed on ESPN ~50min pre-kickoff; 21/22 player embeddings matched (Abdelnour Soualhia team_mean).",
+  "settled_iso": "2026-08-08T16:27:00Z"
 }
