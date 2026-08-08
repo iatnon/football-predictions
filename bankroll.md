@@ -71,6 +71,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 52 | 2026-08-04 | Union Saint-Gilloise vs Bodo/Glimt (UEFA-Champions League Qualification) | away_win | 2.55 | EUR14.00 | ❌ loss (3-3) | -€14.00 | €113.37 |
 | 53 | 2026-08-07 | Cambuur vs Excelsior (NED-Eredivisie) | away_win | 2.65 | EUR10.00 | ✅ win (0-4) | +€16.50 | €129.87 |
 | 54 | 2026-08-08 | NEC Nijmegen vs Telstar (NED-Eredivisie) | away_win | 6.50 | EUR6.00 | pending | pending | pending |
+| 55 | 2026-08-08 | Go Ahead Eagles vs Willem II (NED-Eredivisie) | away_win | 6.25 | EUR5.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €129.87** (started €196.04; 41 bets #13–#53 settled, #54 open). Bet #53 — Excelsior away @ 2.65, won 0-4 — is the first Eredivisie 2026-27 bet and the first settled bet of the season. Earlier correction (2026-08-07): bet #41's running balance was mistyped as €166.17 when #40's €135.37 + #41's +€34.80 = €170.17; the €4.00 shortfall was carried through every later row and is now fixed. Stakes, odds, results and P/L were correct throughout — only the running balance column was wrong.
 
