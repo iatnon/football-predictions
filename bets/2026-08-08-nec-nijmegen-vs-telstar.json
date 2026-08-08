@@ -12,21 +12,22 @@
   "odds": {
     "home_win": 1.47,
     "draw": 5.25,
-    "away_win": 6.4
+    "away_win": 6.5
   },
   "bookmaker": "unibet_kambi",
   "bets": [
     {
       "leg": "away_win",
-      "odds": 6.4,
-      "implied_prob": 0.1563,
+      "odds": 6.5,
+      "implied_prob": 0.1538,
       "model_prob": 0.232,
-      "edge_pp": 7.62,
-      "ev": 0.488,
+      "edge_pp": 7.82,
+      "ev": 0.508,
       "stake_eur": 6.0,
       "staking_method": "half_kelly_8pct_cap",
-      "potential_profit_eur": 32.4,
-      "potential_return_eur": 38.4
+      "potential_profit_eur": 33.0,
+      "potential_return_eur": 39.0,
+      "price_note": "Placed at 6.50; Kambi/Unibet scrape quoted 6.40 at decision time. Ledger records the price actually taken."
     }
   ],
   "placed": false,
@@ -37,6 +38,6 @@
   "final_score": null,
   "profit_eur": null,
   "bankroll_after_eur": null,
-  "potential_return_eur": 38.4,
+  "potential_return_eur": 39.0,
   "confirmed_lineup_note": "NEC Nijmegen: Gonzalo Crettaz, Darko Nejasmic, Deveron Fonville, Brayann Pereira, Isak Hansen-Aarøen, Jamiro Monteiro, Clement Bischoff, Sami Ouaissa, Dusan Tadic, Noé Lebreton, Tjaronn Chery. Telstar: Ronald Koeman, Marvin Peersman, Abdelnour Soualhia, Jeff Hardeveld, Gerald Alders, Patrick Brouwer, Nils Rossen, Tyrone Owusu, Jelani Seedorf, Soufiane Hetli, Rui Mendes. Confirmed on ESPN ~50min pre-kickoff; 21/22 player embeddings matched (Abdelnour Soualhia team_mean)."
 }
