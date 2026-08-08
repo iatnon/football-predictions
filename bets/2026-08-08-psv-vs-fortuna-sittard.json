@@ -1,0 +1,43 @@
+{
+  "match": "PSV vs Fortuna Sittard",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-08T18:00:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.746,
+    "draw": 0.165,
+    "away_win": 0.089
+  },
+  "odds": {
+    "home_win": 1.19,
+    "draw": 9.0,
+    "away_win": 15.0
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "draw",
+      "odds": 9.0,
+      "implied_prob": 0.1111,
+      "model_prob": 0.165,
+      "edge_pp": 5.39,
+      "ev": 0.486,
+      "stake_eur": 5.0,
+      "staking_method": "user_directed",
+      "potential_profit_eur": 40.0,
+      "potential_return_eur": 45.0
+    }
+  ],
+  "placed": true,
+  "excluded_legs_note": "Scan-time prediction (lineup_source=recent_roster); XIs not yet published ~22h pre-kickoff. Logged now to establish pre-kickoff timestamp. Opening weekend: all XIs projected from last season's starts.",
+  "provenance_note": "Logged pre-kickoff 2026-08-07T18:17:11Z as bet #54 (commit 6711998, draw @ 8.50, EUR4.00), then WITHDRAWN from this repo 2026-08-07T20:24Z (commit 7896733) as a staking decision, still ~22h before kickoff. The bet was nevertheless PLACED at Unibet at EUR5.00 @ 9.00 -- better stake and price than the withdrawn log. Restored and settled 2026-08-09 on user confirmation of placement, after the result was known. Renumbered #54 -> #56 because #54/#55 were reused by the re-logged NEC/Telstar and Go Ahead/Willem II bets. The pre-kickoff prediction is provable via commit 6711998; the placement at EUR5.00/9.00 is NOT independently verified in-repo and rests on user report. Counted in the bankroll; EXCLUDED from the verifiable pre-kickoff pick record because the row as settled (stake, price, live status) was reconstructed post-result.",
+  "total_stake_eur": 5.0,
+  "logged_pre_kickoff": "2026-08-07T18:17:11.019267+00:00",
+  "settled_at": "2026-08-09T00:00:00+00:00",
+  "result": "won",
+  "final_score": "2-2",
+  "profit_eur": 40.0,
+  "bankroll_after_eur": 197.87,
+  "potential_return_eur": 45.0
+}
