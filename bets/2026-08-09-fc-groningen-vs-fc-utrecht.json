@@ -1,0 +1,41 @@
+{
+  "match": "FC Groningen vs FC Utrecht",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-09T12:30:00Z",
+  "model": "v20clean 3-seed club ensemble (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.3430505535026697,
+    "draw": 0.2883779466430033,
+    "away_win": 0.36857149985432697
+  },
+  "odds": {
+    "home_win": 2.35,
+    "draw": 3.4,
+    "away_win": 3.2
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 3.2,
+      "implied_prob": 0.3125,
+      "model_prob": 0.36857149985432697,
+      "edge_pp": 5.607149985432697,
+      "ev": 0.17942879953384638,
+      "stake_eur": 9.0,
+      "staking_method": "p=0.3686 odds=3.20 -> fullKelly=0.0816, halfKelly=0.0408 (under 0.08 cap) -> 0.0408 x EUR197.87 = EUR8.07 -> EUR9.00",
+      "potential_profit_eur": 19.8,
+      "potential_return_eur": 28.8
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 9.0,
+  "logged_pre_kickoff": "2026-08-09T10:56:59.434476+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 28.8
+}
