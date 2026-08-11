@@ -76,6 +76,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 57 | 2026-08-09 | FC Groningen vs FC Utrecht (NED-Eredivisie) | Away win | 3.20 | EUR9.00 | pending | pending | pending |
 | 58 | 2026-08-09 | SC Heerenveen vs FC Twente (NED-Eredivisie) | Away win | 2.30 | EUR16.00 | pending | pending | pending |
 | 59 | 2026-08-11 | NEC Nijmegen vs Olympiakos Piraeus (UEFA-Champions League Qualification) | home_win | 2.25 | EUR16.00 | pending | pending | pending |
+| 60 | 2026-08-11 | Slovan Bratislava vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 4.35 | EUR8.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €197.87** (started €196.04; 44 bets #13–#56 settled, none open). Eredivisie 2026-27 opening weekend finished 3-1: #53 Excelsior away @ 2.65 won 0-4 (+€16.50), #54 Telstar away @ 6.50 won 1-2 (+€33.00) — both longshot away legs off confirmed lineups; #55 Willem II away @ 6.25 lost 4-1 (-€5.00); #56 PSV vs Fortuna draw @ 9.00 won 2-2 (+€40.00), the weekend's best result. AZ vs ADO was scanned and NOT bet (scanned on confirmed XIs after kickoff, so unbettable regardless).
 

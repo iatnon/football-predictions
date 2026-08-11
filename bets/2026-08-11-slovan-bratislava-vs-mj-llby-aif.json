@@ -1,0 +1,41 @@
+{
+  "match": "Slovan Bratislava vs Mjällby AIF",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-11T18:15:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.3359,
+    "draw": 0.2376,
+    "away": 0.4265
+  },
+  "odds": {
+    "home": 1.77,
+    "draw": 3.45,
+    "away": 4.35
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 4.35,
+      "implied_prob": 0.2299,
+      "model_prob": 0.4265,
+      "edge_pp": 19.66,
+      "ev": 0.8553,
+      "stake_eur": 8.0,
+      "staking_method": "half_kelly_8pct_cap_then_large_edge_halved",
+      "potential_profit_eur": 26.8,
+      "potential_return_eur": 34.8
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Clean fixture: no staleness or no-data gate fired. Stake HALVED by >=15pp large-edge sanity rule (Kelly wanted 8pct cap = EUR16). lineup_source=recent_roster (no confirmed XI at scan time).",
+  "total_stake_eur": 8.0,
+  "logged_pre_kickoff": "2026-08-11T17:42:52.274016+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 34.8
+}
