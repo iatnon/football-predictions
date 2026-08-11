@@ -1,0 +1,41 @@
+{
+  "match": "NK Celje vs Ararat-Armenia FC",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-11T18:15:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.6646,
+    "draw": 0.1597,
+    "away": 0.1757
+  },
+  "odds": {
+    "home": 1.38,
+    "draw": 4.6,
+    "away": 7.0
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "away_win",
+      "odds": 7.0,
+      "implied_prob": 0.1429,
+      "model_prob": 0.1757,
+      "edge_pp": 3.28,
+      "ev": 0.2299,
+      "stake_eur": 4.0,
+      "staking_method": "half_kelly_under_cap",
+      "potential_profit_eur": 24.0,
+      "potential_return_eur": 28.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Clean fixture: no staleness or no-data gate fired. Longshot away leg clearing the +3pp threshold on its own merits (half-Kelly under the 8pct cap). lineup_source=recent_roster.",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-11T17:43:13.604647+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 28.0
+}
