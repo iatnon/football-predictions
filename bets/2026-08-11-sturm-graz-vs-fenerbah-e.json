@@ -1,0 +1,41 @@
+{
+  "match": "Sturm Graz vs Fenerbahçe",
+  "competition": "UEFA-Champions League Qualification",
+  "kickoff_utc": "2026-08-11T18:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.4301,
+    "draw": 0.2304,
+    "away": 0.3395
+  },
+  "odds": {
+    "home": 4.2,
+    "draw": 3.8,
+    "away": 1.72
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "home_win",
+      "odds": 4.2,
+      "implied_prob": 0.2381,
+      "model_prob": 0.4301,
+      "edge_pp": 19.2,
+      "ev": 0.8064,
+      "stake_eur": 8.0,
+      "staking_method": "half_kelly_8pct_cap_then_large_edge_halved",
+      "potential_profit_eur": 25.6,
+      "potential_return_eur": 33.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Clean fixture: no staleness or no-data gate fired. Stake HALVED by >=15pp large-edge sanity rule (Kelly wanted 8pct cap = EUR16). Price drifted 4.25->4.20 since scan; edge recomputed at 4.20. lineup_source=recent_roster.",
+  "total_stake_eur": 8.0,
+  "logged_pre_kickoff": "2026-08-11T17:43:03.107421+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 33.6
+}
