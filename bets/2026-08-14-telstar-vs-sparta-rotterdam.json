@@ -1,0 +1,43 @@
+{
+  "match": "Telstar vs Sparta Rotterdam",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-14T18:00:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home": 0.5106,
+    "draw": 0.253,
+    "away": 0.2364
+  },
+  "odds": {
+    "home": 2.25,
+    "draw": 3.7,
+    "away": 3.1
+  },
+  "bookmaker": "bet365",
+  "bets": [
+    {
+      "leg": "home_win",
+      "odds": 2.25,
+      "implied_prob": 0.4444,
+      "model_prob": 0.5106,
+      "edge_pp": 6.61,
+      "ev": 0.1488,
+      "stake_eur": 12.0,
+      "staking_method": "half-Kelly capped 8%, ceil to whole EUR",
+      "potential_profit_eur": 15.0,
+      "potential_return_eur": 27.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "",
+  "total_stake_eur": 12.0,
+  "logged_pre_kickoff": "2026-08-14T17:55:07.192379+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 27.0,
+  "venue": "BUKO Stadion",
+  "confirmed_lineup_note": "Lineups from sportsgambler preview (not FotMob confirmed feed); 21/22 players matched to embeddings"
+}
