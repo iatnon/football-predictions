@@ -1,0 +1,43 @@
+{
+  "match": "Sevilla vs Rayo Vallecano",
+  "competition": "ESP-La Liga",
+  "kickoff_utc": "2026-08-15T19:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.3278864745237293,
+    "draw": 0.3110692725239702,
+    "away_win": 0.3610442529523004
+  },
+  "odds": {
+    "home_win": 2.5,
+    "draw": 3.05,
+    "away_win": 3.3
+  },
+  "bookmaker": "manual_override",
+  "bets": [
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 3.3,
+      "implied_prob": 0.30303030303030304,
+      "model_prob": 0.3610442529523004,
+      "edge_pp": 5.801394992199738,
+      "ev": 0.19144603474259125,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.3610 odds=3.30 -> fullKelly=0.0832, halfKelly=0.0416 (under 0.08 cap) -> 0.0416 x EUR124.87 = EUR5.20 -> EUR6.00",
+      "potential_profit_eur": 13.8,
+      "potential_return_eur": 19.8
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 6.0,
+  "logged_pre_kickoff": "2026-08-15T18:59:31.842131+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 19.8,
+  "confirmed_lineup_note": "Sevilla: Odisseas Vlachodimos, Enrique Salas, Arouna Sangante, Gabriel Suazo, Juan Iglesias, Jon Guridi, Nico Guillen, Lucien Agoume, Isaac Romero, Oso, Miguel Sierra. Rayo Vallecano: Augusto Batalla, Pathe Ciss, Florian Lejeune, Ivan Balliu, Andrei Ratiu, Jorge de Frutos, Unai Lopez, Oscar Valentin, Randy Nteka, Alvaro Garcia, Isi Palazon."
+}
