@@ -26,16 +26,17 @@
       "stake_eur": 4.0,
       "staking_method": "half_kelly_under_cap",
       "potential_profit_eur": 24.0,
-      "potential_return_eur": 28.0
+      "potential_return_eur": 28.0,
+      "result": "loss"
     }
   ],
   "placed": false,
   "excluded_legs_note": "Clean fixture: no staleness or no-data gate fired. Longshot away leg clearing the +3pp threshold on its own merits (half-Kelly under the 8pct cap). lineup_source=recent_roster.",
   "total_stake_eur": 4.0,
   "logged_pre_kickoff": "2026-08-11T17:43:13.604647+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
+  "result": "loss",
+  "final_score": "2-0",
+  "profit_eur": -4.0,
   "bankroll_after_eur": null,
   "potential_return_eur": 28.0
 }

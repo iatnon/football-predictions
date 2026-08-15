@@ -73,13 +73,13 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 54 | 2026-08-08 | NEC Nijmegen vs Telstar (NED-Eredivisie) | away_win | 6.50 | EUR6.00 | ✅ win (1-2) | +€33.00 | €162.87 |
 | 55 | 2026-08-08 | Go Ahead Eagles vs Willem II (NED-Eredivisie) | away_win | 6.25 | EUR5.00 | ❌ loss (4-1) | -€5.00 | €157.87 |
 | 56 | 2026-08-08 | PSV vs Fortuna Sittard (NED-Eredivisie) | Draw | 9.00 | EUR5.00 | ✅ win (2-2) | +€40.00 | €197.87 |
-| 57 | 2026-08-09 | FC Groningen vs FC Utrecht (NED-Eredivisie) | Away win | 3.20 | EUR9.00 | pending | pending | pending |
-| 58 | 2026-08-09 | SC Heerenveen vs FC Twente (NED-Eredivisie) | Away win | 2.30 | EUR16.00 | pending | pending | pending |
-| 59 | 2026-08-11 | NEC Nijmegen vs Olympiakos Piraeus (UEFA-Champions League Qualification) | home_win | 2.25 | EUR16.00 | pending | pending | pending |
-| 60 | 2026-08-11 | Slovan Bratislava vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 4.35 | EUR8.00 | pending | pending | pending |
-| 61 | 2026-08-11 | Sturm Graz vs Fenerbahçe (UEFA-Champions League Qualification) | home_win | 4.20 | EUR8.00 | pending | pending | pending |
-| 62 | 2026-08-11 | NK Celje vs Ararat-Armenia FC (UEFA-Champions League Qualification) | away_win | 7.00 | EUR4.00 | pending | pending | pending |
-| 63 | 2026-08-14 | Telstar vs Sparta Rotterdam (NED-Eredivisie) | home_win | 2.25 | EUR12.00 | pending | pending | pending |
+| 57 | 2026-08-09 | FC Groningen vs FC Utrecht (NED-Eredivisie) | Away win | 3.20 | EUR9.00 | ❌ loss (2-1) | -€9.00 | €188.87 |
+| 58 | 2026-08-09 | SC Heerenveen vs FC Twente (NED-Eredivisie) | Away win | 2.30 | EUR16.00 | ❌ loss (1-0) | -€16.00 | €172.87 |
+| 59 | 2026-08-11 | NEC Nijmegen vs Olympiakos Piraeus (UEFA-Champions League Qualification) | home_win | 2.25 | EUR16.00 | ❌ loss (1-1 AET 2-1) | -€16.00 | €156.87 |
+| 60 | 2026-08-11 | Slovan Bratislava vs Mjällby AIF (UEFA-Champions League Qualification) | away_win | 4.35 | EUR8.00 | ❌ loss (2-0) | -€8.00 | €148.87 |
+| 61 | 2026-08-11 | Sturm Graz vs Fenerbahçe (UEFA-Champions League Qualification) | home_win | 4.20 | EUR8.00 | ❌ loss (0-1) | -€8.00 | €140.87 |
+| 62 | 2026-08-11 | NK Celje vs Ararat-Armenia FC (UEFA-Champions League Qualification) | away_win | 7.00 | EUR4.00 | ❌ loss (2-0) | -€4.00 | €136.87 |
+| 63 | 2026-08-14 | Telstar vs Sparta Rotterdam (NED-Eredivisie) | home_win | 2.25 | EUR12.00 | ❌ loss (1-3) | -€12.00 | €124.87 |
 | 64 | 2026-08-15 | Alavés vs Getafe (ESP-La Liga) | Home win | 2.50 | EUR16.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €197.87** (started €196.04; 44 bets #13–#56 settled, none open). Eredivisie 2026-27 opening weekend finished 3-1: #53 Excelsior away @ 2.65 won 0-4 (+€16.50), #54 Telstar away @ 6.50 won 1-2 (+€33.00) — both longshot away legs off confirmed lineups; #55 Willem II away @ 6.25 lost 4-1 (-€5.00); #56 PSV vs Fortuna draw @ 9.00 won 2-2 (+€40.00), the weekend's best result. AZ vs ADO was scanned and NOT bet (scanned on confirmed XIs after kickoff, so unbettable regardless).

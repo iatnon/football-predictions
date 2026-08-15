@@ -26,16 +26,17 @@
       "stake_eur": 8.0,
       "staking_method": "half_kelly_8pct_cap_then_large_edge_halved",
       "potential_profit_eur": 25.6,
-      "potential_return_eur": 33.6
+      "potential_return_eur": 33.6,
+      "result": "loss"
     }
   ],
   "placed": false,
   "excluded_legs_note": "Clean fixture: no staleness or no-data gate fired. Stake HALVED by >=15pp large-edge sanity rule (Kelly wanted 8pct cap = EUR16). Price drifted 4.25->4.20 since scan; edge recomputed at 4.20. lineup_source=recent_roster.",
   "total_stake_eur": 8.0,
   "logged_pre_kickoff": "2026-08-11T17:43:03.107421+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
+  "result": "loss",
+  "final_score": "0-1",
+  "profit_eur": -8.0,
   "bankroll_after_eur": null,
   "potential_return_eur": 33.6
 }

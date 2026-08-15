@@ -26,16 +26,17 @@
       "stake_eur": 16.0,
       "staking_method": "p=0.5546 odds=2.30 -> fullKelly=0.2120, halfKelly=0.1060 (cap 0.08 binds) -> 0.0800 x EUR197.87 = EUR15.83 -> EUR16.00",
       "potential_profit_eur": 20.8,
-      "potential_return_eur": 36.8
+      "potential_return_eur": 36.8,
+      "result": "loss"
     }
   ],
   "placed": false,
   "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
   "total_stake_eur": 16.0,
   "logged_pre_kickoff": "2026-08-09T10:57:05.244841+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
+  "result": "loss",
+  "final_score": "1-0",
+  "profit_eur": -16.0,
   "bankroll_after_eur": null,
   "potential_return_eur": 36.8
 }

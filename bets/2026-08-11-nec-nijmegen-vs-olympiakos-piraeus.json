@@ -26,16 +26,17 @@
       "stake_eur": 16.0,
       "staking_method": "half_kelly_8pct_cap_binds",
       "potential_profit_eur": 20.0,
-      "potential_return_eur": 36.0
+      "potential_return_eur": 36.0,
+      "result": "loss"
     }
   ],
   "placed": false,
   "excluded_legs_note": "GATES OVERRIDDEN AT USER DIRECTION: pipeline forced stake 0 (no_elo_history:Olympiakos Piraeus + stale_data:86d NEC). Edge computed against defaulted opponent rating. lineup_source=recent_roster (no confirmed XI).",
   "total_stake_eur": 16.0,
   "logged_pre_kickoff": "2026-08-11T17:30:10.685008+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
+  "result": "loss",
+  "final_score": "1-1 (2-1 AET)",
+  "profit_eur": -16.0,
   "bankroll_after_eur": null,
   "potential_return_eur": 36.0
 }

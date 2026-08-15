@@ -26,16 +26,17 @@
       "stake_eur": 5.0,
       "staking_method": "half_kelly_8pct_cap",
       "potential_profit_eur": 26.25,
-      "potential_return_eur": 31.25
+      "potential_return_eur": 31.25,
+      "result": "loss"
     }
   ],
   "placed": false,
   "excluded_legs_note": "Placed at 6.25 (Unibet); the Kambi scrape quoted 6.10 at decision time -- ledger records the price taken. Edge +6.80pp at 6.25 (was +6.43pp at 6.10), in the healthy band: below the >=8pp degradation zone and well below the 15pp sanity flag. Best data quality of the weekend at 22/22 embeddings. Price drifted our way overnight (Willem II 5.40 -> 6.25), so the edge grew on a better price rather than a model swing. Warning away_transfer_in_kept:Jaden Slory is the transfer guard working as intended, not a defect.",
   "total_stake_eur": 5.0,
   "logged_pre_kickoff": "2026-08-08T16:26:06.702472+00:00",
-  "result": "pending",
-  "final_score": null,
-  "profit_eur": null,
+  "result": "loss",
+  "final_score": "4-1",
+  "profit_eur": -5.0,
   "bankroll_after_eur": null,
   "potential_return_eur": 31.25,
   "confirmed_lineup_note": "Go Ahead Eagles: Kjetil Haug, Joris Kramer, Julius Dirksen, Dean James, Alfons Sampsted, Victor Edvardsen, Melle Meulensteen, Evert Linthorst, Stefan Ingi Sigurdarson, Mathis Suray, Sören Tengstedt. Willem II: Thomas Didillon, Justin Hoogma, Finn Stam, Nathan Tjoe-A-On, Per Van Loon, Uriel Van Aalst, Kasper Boogaard, Alessandro Ciranni, Devin Haen, Jaden Slory, Eser Gürbüz. Confirmed on ESPN ~25min pre-kickoff; 22/22 player embeddings matched (no team_mean placeholders on either side)."
