@@ -1,0 +1,56 @@
+{
+  "match": "Fortuna Sittard vs Cambuur Leeuwarden",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-15T19:00:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.4683394275418733,
+    "draw": 0.24784015214621852,
+    "away_win": 0.2838204203119082
+  },
+  "odds": {
+    "home_win": 1.6,
+    "draw": 4.7,
+    "away_win": 5.25
+  },
+  "bookmaker": "manual_override",
+  "bets": [
+    {
+      "leg": "Draw",
+      "leg_key": "draw",
+      "odds": 4.7,
+      "implied_prob": 0.2127659574468085,
+      "model_prob": 0.24784015214621852,
+      "edge_pp": 3.5074194699410004,
+      "ev": 0.1648487150872271,
+      "stake_eur": 3.0,
+      "staking_method": "p=0.2478 odds=4.70 -> fullKelly=0.0446, halfKelly=0.0223 (under 0.08 cap) -> 0.0223 x EUR124.87 = EUR2.78 -> EUR3.00",
+      "potential_profit_eur": 11.1,
+      "potential_return_eur": 14.1
+    },
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 5.25,
+      "implied_prob": 0.19047619047619047,
+      "model_prob": 0.2838204203119082,
+      "edge_pp": 9.334422983571772,
+      "ev": 0.49005720663751795,
+      "stake_eur": 8.0,
+      "staking_method": "p=0.2838 odds=5.25 -> fullKelly=0.1153, halfKelly=0.0577 (under 0.08 cap) -> 0.0577 x EUR124.87 = EUR7.20 -> EUR8.00",
+      "potential_profit_eur": 34.0,
+      "potential_return_eur": 42.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold)",
+  "total_stake_eur": 11.0,
+  "logged_pre_kickoff": "2026-08-15T18:57:46.092663+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 56.1,
+  "confirmed_lineup_note": "Fortuna Sittard: Mattijs Branderhorst, Jasper Dahlhaus, Justin Hubner, Syb van Ottele, Siebe Wylin, Yassin Oukili, Philip Brittijn, Ivo Pinto, Ole Romeny, Mohamed Ihattaren, Lequincio Zeefuik. Cambuur Leeuwarden: Thijs Jansen, Lucas Jetten, Jamal Amofa, Ismael Baouf, Morgan Costarelli, Ilyes Hamache, Nicky Souren, Rafik El Arguioui, Skye Vink, Sami Bouhoudane, Iwan Henstra."
+}
