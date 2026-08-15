@@ -1,0 +1,43 @@
+{
+  "match": "Alavés vs Getafe",
+  "competition": "ESP-La Liga",
+  "kickoff_utc": "2026-08-15T17:30Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.5180191606047536,
+    "draw": 0.26882908280903695,
+    "away_win": 0.21315175658620947
+  },
+  "odds": {
+    "home_win": 2.5,
+    "draw": 2.75,
+    "away_win": 3.75
+  },
+  "bookmaker": "manual_override",
+  "bets": [
+    {
+      "leg": "Home win",
+      "leg_key": "home_win",
+      "odds": 2.5,
+      "implied_prob": 0.4,
+      "model_prob": 0.5180191606047536,
+      "edge_pp": 11.80191606047536,
+      "ev": 0.2950479015118841,
+      "stake_eur": 16.0,
+      "staking_method": "p=0.5180 odds=2.50 -> fullKelly=0.1967, halfKelly=0.0983 (cap 0.08 binds) -> 0.0800 x EUR197.87 = EUR15.83 -> EUR16.00",
+      "potential_profit_eur": 24.0,
+      "potential_return_eur": 40.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 16.0,
+  "logged_pre_kickoff": "2026-08-15T17:15:02.804052+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 40.0,
+  "confirmed_lineup_note": "Alavés: Antonio Sivera, Jonny Otto, Nahuel Tenaglia, Ville Koski, Abderrahman Rebbach, Ángel Pérez, Pablo Ibáñez, Antonio Blanco, Denis Suárez, Aitor Mañas, Toni Martínez. Getafe: David Soria, Djené, Abdelkabir Abqar, Zaid Abner Romero, Kiko, Ramón Terrats, Orel Mangala, Mario Martín, Davinchi, Andrés García, Martín Satriano."
+}
