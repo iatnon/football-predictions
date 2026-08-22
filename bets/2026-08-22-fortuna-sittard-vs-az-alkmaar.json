@@ -1,0 +1,56 @@
+{
+  "match": "Fortuna Sittard vs AZ Alkmaar",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-22T14:30Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.23442931572317444,
+    "draw": 0.2650661849653624,
+    "away_win": 0.5005044993114631
+  },
+  "odds": {
+    "home_win": 5.4,
+    "draw": 4.5,
+    "away_win": 1.6
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Home win",
+      "leg_key": "home_win",
+      "odds": 5.4,
+      "implied_prob": 0.18518518518518517,
+      "model_prob": 0.23442931572317444,
+      "edge_pp": 4.924413053798926,
+      "ev": 0.2659183049051421,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.2344 odds=5.40 -> fullKelly=0.0604, halfKelly=0.0302 (under 0.08 cap) -> 0.0302 x EUR131.87 = EUR3.98 -> EUR4.00",
+      "potential_profit_eur": 17.6,
+      "potential_return_eur": 21.6
+    },
+    {
+      "leg": "Draw",
+      "leg_key": "draw",
+      "odds": 4.5,
+      "implied_prob": 0.2222222222222222,
+      "model_prob": 0.2650661849653624,
+      "edge_pp": 4.284396274314018,
+      "ev": 0.19279783234413062,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.2651 odds=4.50 -> fullKelly=0.0551, halfKelly=0.0275 (under 0.08 cap) -> 0.0275 x EUR131.87 = EUR3.63 -> EUR4.00",
+      "potential_profit_eur": 14.0,
+      "potential_return_eur": 18.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 8.0,
+  "logged_pre_kickoff": "2026-08-22T14:07:26.067958+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 39.6,
+  "confirmed_lineup_note": "Fortuna Sittard: Mattijs Branderhorst, Syb van Ottele, Justin Hubner, Philip Brittijn, Edouard Michut, Shiloh ’t Zand, Nick De Groot, Siebe Wylin, Lequincio Zeefuik, Ole Romeny, Anthony Descotte. AZ Alkmaar: Jari De Busser, Lewis Schouten, Wouter Goes, Mateo Chávez, Elijah Dijkstra, Kees Smit, Peer Koopmeiners, Dave Kwakman, Mexx Meerdink, Ro-Zangelo Daal, Weslley Patati."
+}
