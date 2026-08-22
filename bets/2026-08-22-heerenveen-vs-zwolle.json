@@ -1,0 +1,43 @@
+{
+  "match": "Heerenveen vs Zwolle",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-22T19:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.5940979568968076,
+    "draw": 0.24290456198131152,
+    "away_win": 0.16299748112188103
+  },
+  "odds": {
+    "home_win": 1.57,
+    "draw": 4.9,
+    "away_win": 5.3
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Draw",
+      "leg_key": "draw",
+      "odds": 4.9,
+      "implied_prob": 0.2040816326530612,
+      "model_prob": 0.24290456198131152,
+      "edge_pp": 3.882292932825032,
+      "ev": 0.1902323537084265,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.2429 odds=4.90 -> fullKelly=0.0488, halfKelly=0.0244 (under 0.08 cap) -> 0.0244 x EUR131.87 = EUR3.22 -> EUR4.00",
+      "potential_profit_eur": 15.6,
+      "potential_return_eur": 19.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-22T18:11:16.142509+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 19.6,
+  "confirmed_lineup_note": "Heerenveen: Bernt Klaverboer, Maas Willemsen, Sam Kersten, Vasilios Zagaritis, Oliver Braude, Ringo Meerveld, Dirk Proper, Marcus Linday, Dylan Vente, Maxence Rivera, Jacob Trenskow. Zwolle: Jasper Schendelaar, Olivier Aertssen, Nick Viergever, Damian Van Der Haar, Simon Graves, Elias Sörensen, Tobias Sommer, Ryan Thomas, Thijs Oosting, Dylan Mbayo, Koen Kostons."
+}
