@@ -1,0 +1,43 @@
+{
+  "match": "Sparta Rotterdam vs Utrecht",
+  "competition": "NED-Eredivisie",
+  "kickoff_utc": "2026-08-22T16:45Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": true,
+  "probabilities": {
+    "home_win": 0.30949565594424366,
+    "draw": 0.2952776982382776,
+    "away_win": 0.3952266458174787
+  },
+  "odds": {
+    "home_win": 2.7,
+    "draw": 3.5,
+    "away_win": 2.75
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Away win",
+      "leg_key": "away_win",
+      "odds": 2.75,
+      "implied_prob": 0.36363636363636365,
+      "model_prob": 0.3952266458174787,
+      "edge_pp": 3.1590282181115037,
+      "ev": 0.08687327599806638,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.3952 odds=2.75 -> fullKelly=0.0496, halfKelly=0.0248 (under 0.08 cap) -> 0.0248 x EUR131.87 = EUR3.27 -> EUR4.00",
+      "potential_profit_eur": 7.0,
+      "potential_return_eur": 11.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-22T15:49:55.935849+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 11.0,
+  "confirmed_lineup_note": "Sparta Rotterdam: Filip Bednarek, Bruno Martins Indi, Nick Verschuren, Marvin Young, Robin Van Cruijsen, Julian Baas, Bas Kuipers, Lushendry Martes, Ayoni Santos, Shunsuke Mito, Nökkvi Thórisson. Utrecht: Vasilios Barkas, Neville Nwankwo, Siebe Horemans, Matisse Didden, Dani de Wit, Davy van den Berg, Arthur Zagre, Niklas Vesterlund, Yoann Cathline, Artem Stepanov, Ángel Alarcón."
+}
