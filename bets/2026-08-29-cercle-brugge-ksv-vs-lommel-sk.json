@@ -1,0 +1,41 @@
+{
+  "match": "Cercle Brugge KSV vs Lommel SK",
+  "competition": "BEL-Pro League",
+  "kickoff_utc": "2026-08-29T18:45:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5169343987702226,
+    "draw": 0.24872150999800893,
+    "away_win": 0.23434409123176844
+  },
+  "odds": {
+    "home_win": 1.55,
+    "draw": 4.25,
+    "away_win": 5.25
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 5.25,
+      "implied_prob": 0.19047619047619047,
+      "model_prob": 0.23434409123176844,
+      "edge_pp": 4.386790075557798,
+      "ev": 0.23030647896678436,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.2343 odds=5.25 -> fullKelly=0.0542, halfKelly=0.0271 (under 0.08 cap) -> 0.0271 x EUR131.87 = EUR3.57 -> EUR4.00",
+      "potential_profit_eur": 17.0,
+      "potential_return_eur": 21.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:24.615869+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 21.0
+}
