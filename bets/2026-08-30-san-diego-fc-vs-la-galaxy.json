@@ -1,0 +1,41 @@
+{
+  "match": "San Diego FC vs LA Galaxy",
+  "competition": "USA-Major League Soccer",
+  "kickoff_utc": "2026-08-30T02:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.41968631654042954,
+    "draw": 0.27115252230025894,
+    "away_win": 0.3091611611593116
+  },
+  "odds": {
+    "home_win": 1.76,
+    "draw": 4.0,
+    "away_win": 3.9
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 3.9,
+      "implied_prob": 0.25641025641025644,
+      "model_prob": 0.3091611611593116,
+      "edge_pp": 5.275090474905514,
+      "ev": 0.20572852852131507,
+      "stake_eur": 5.0,
+      "staking_method": "p=0.3092 odds=3.90 -> fullKelly=0.0709, halfKelly=0.0355 (under 0.08 cap) -> 0.0355 x EUR131.87 = EUR4.68 -> EUR5.00",
+      "potential_profit_eur": 14.5,
+      "potential_return_eur": 19.5
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 5.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:51.663121+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 19.5
+}
