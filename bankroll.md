@@ -89,6 +89,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 70 | 2026-08-29 | Sevilla vs Atlético Madrid (ESP-La Liga) | Home win | 4.60 | EUR11.00 | pending | pending | pending |
 | 71 | 2026-08-29 | PEC Zwolle vs NEC Nijmegen (NED-Eredivisie) | Draw | 4.40 | EUR3.00 | pending | pending | pending |
 | 72 | 2026-08-29 | Lyon vs Le Havre (FRA-Ligue 1) | Draw + Away win (multi-leg) | 4.60 / 7.00 | EUR5.00 + EUR3.00 = EUR8.00 | pending | pending | pending |
+| 73 | 2026-08-29 | Juventus vs Parma (ITA-Serie A) | Draw + Away win (multi-leg) | 6.40 / 14.00 | EUR10.00 + EUR8.00 = EUR18.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 

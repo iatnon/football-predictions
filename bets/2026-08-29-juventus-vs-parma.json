@@ -1,0 +1,53 @@
+{
+  "match": "Juventus vs Parma",
+  "competition": "ITA-Serie A",
+  "kickoff_utc": "2026-08-29T18:45:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5553274401295504,
+    "draw": 0.27281017181782913,
+    "away_win": 0.17186238805262058
+  },
+  "odds": {
+    "home_win": 1.24,
+    "draw": 6.4,
+    "away_win": 14.0
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 6.4,
+      "implied_prob": 0.15625,
+      "model_prob": 0.27281017181782913,
+      "edge_pp": 11.656017181782913,
+      "ev": 0.7459850996341064,
+      "stake_eur": 10.0,
+      "staking_method": "p=0.2728 odds=6.40 -> fullKelly=0.1381, halfKelly=0.0691 (under 0.08 cap) -> 0.0691 x EUR131.87 = EUR9.11 -> EUR10.00",
+      "potential_profit_eur": 54.0,
+      "potential_return_eur": 64.0
+    },
+    {
+      "leg": "Away win",
+      "odds": 14.0,
+      "implied_prob": 0.07142857142857142,
+      "model_prob": 0.17186238805262058,
+      "edge_pp": 10.043381662404915,
+      "ev": 1.406073432736688,
+      "stake_eur": 8.0,
+      "staking_method": "p=0.1719 odds=14.00 -> fullKelly=0.1082, halfKelly=0.0541 (under 0.08 cap) -> 0.0541 x EUR131.87 = EUR7.13 -> EUR8.00",
+      "potential_profit_eur": 104.0,
+      "potential_return_eur": 112.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold)",
+  "total_stake_eur": 18.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:21.232118+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 176.0
+}
