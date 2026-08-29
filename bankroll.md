@@ -87,6 +87,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 68 | 2026-08-22 | Sparta Rotterdam vs Utrecht (NED-Eredivisie) | Away win | 2.75 | EUR4.00 | pending | pending | pending |
 | 69 | 2026-08-22 | Heerenveen vs Zwolle (NED-Eredivisie) | Draw | 4.90 | EUR4.00 | pending | pending | pending |
 | 70 | 2026-08-29 | Sevilla vs Atlético Madrid (ESP-La Liga) | Home win | 4.60 | EUR11.00 | pending | pending | pending |
+| 71 | 2026-08-29 | PEC Zwolle vs NEC Nijmegen (NED-Eredivisie) | Draw | 4.40 | EUR3.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 
