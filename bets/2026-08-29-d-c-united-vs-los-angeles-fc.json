@@ -1,0 +1,41 @@
+{
+  "match": "D.C. United vs Los Angeles FC",
+  "competition": "USA-Major League Soccer",
+  "kickoff_utc": "2026-08-29T23:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.33834431136680576,
+    "draw": 0.2674932142345075,
+    "away_win": 0.39416247439868674
+  },
+  "odds": {
+    "home_win": 3.65,
+    "draw": 3.6,
+    "away_win": 1.92
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 3.65,
+      "implied_prob": 0.273972602739726,
+      "model_prob": 0.33834431136680576,
+      "edge_pp": 6.4371708627079745,
+      "ev": 0.23495673648884097,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.3383 odds=3.65 -> fullKelly=0.0887, halfKelly=0.0443 (under 0.08 cap) -> 0.0443 x EUR131.87 = EUR5.85 -> EUR6.00",
+      "potential_profit_eur": 15.9,
+      "potential_return_eur": 21.9
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 6.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:39.206479+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 21.9
+}
