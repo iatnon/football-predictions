@@ -1,0 +1,41 @@
+{
+  "match": "Sevilla vs Atlético Madrid",
+  "competition": "ESP-La Liga",
+  "kickoff_utc": "2026-08-29T19:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.3434859807267228,
+    "draw": 0.2987200515601609,
+    "away_win": 0.35779396771311617
+  },
+  "odds": {
+    "home_win": 4.6,
+    "draw": 3.55,
+    "away_win": 1.9
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 4.6,
+      "implied_prob": 0.2173913043478261,
+      "model_prob": 0.3434859807267228,
+      "edge_pp": 12.60946763788967,
+      "ev": 0.5800355113429247,
+      "stake_eur": 11.0,
+      "staking_method": "p=0.3435 odds=4.60 -> fullKelly=0.1611, halfKelly=0.0806 (cap 0.08 binds) -> 0.0800 x EUR131.87 = EUR10.55 -> EUR11.00",
+      "potential_profit_eur": 39.6,
+      "potential_return_eur": 50.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 11.0,
+  "logged_pre_kickoff": "2026-08-29T17:50:56.131237+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 50.6
+}
