@@ -92,6 +92,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 73 | 2026-08-29 | Juventus vs Parma (ITA-Serie A) | Draw + Away win (multi-leg) | 6.40 / 14.00 | EUR10.00 + EUR8.00 = EUR18.00 | pending | pending | pending |
 | 74 | 2026-08-29 | Cercle Brugge KSV vs Lommel SK (BEL-Pro League) | Away win | 5.25 | EUR4.00 | pending | pending | pending |
 | 75 | 2026-08-29 | Leuven vs Standard Liege (BEL-Pro League) | Away win | 2.48 | EUR6.00 | pending | pending | pending |
+| 76 | 2026-08-30 | Atlético Tucuman vs Belgrano de Cordoba (ARG-Liga Profesional) | Away win | 3.10 | EUR6.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 

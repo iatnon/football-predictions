@@ -1,0 +1,41 @@
+{
+  "match": "Atlético Tucuman vs Belgrano de Cordoba",
+  "competition": "ARG-Liga Profesional",
+  "kickoff_utc": "2026-08-30T00:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.1930070153451881,
+    "draw": 0.2957428699335668,
+    "away_win": 0.5112501147212452
+  },
+  "odds": {
+    "home_win": 2.55,
+    "draw": 2.88,
+    "away_win": 3.1
+  },
+  "bookmaker": "unibet_uk",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 3.1,
+      "implied_prob": 0.3225806451612903,
+      "model_prob": 0.5112501147212452,
+      "edge_pp": 18.866946955995484,
+      "ev": 0.5848753556358601,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.5113 odds=3.10 -> fullKelly=0.2785, halfKelly=0.1393 (cap 0.08 binds) -> HALVED (edge 18.87pp >= 15.0pp sanity) -> 0.0400 x EUR131.87 = EUR5.27 -> EUR6.00",
+      "potential_profit_eur": 12.6,
+      "potential_return_eur": 18.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 6.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:29.379679+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 18.6
+}
