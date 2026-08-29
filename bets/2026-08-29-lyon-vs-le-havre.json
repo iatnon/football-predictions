@@ -1,0 +1,53 @@
+{
+  "match": "Lyon vs Le Havre",
+  "competition": "FRA-Ligue 1",
+  "kickoff_utc": "2026-08-29T18:45:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5495724355575949,
+    "draw": 0.2721333529665066,
+    "away_win": 0.17829421147589855
+  },
+  "odds": {
+    "home_win": 1.43,
+    "draw": 4.6,
+    "away_win": 7.0
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 4.6,
+      "implied_prob": 0.2173913043478261,
+      "model_prob": 0.2721333529665066,
+      "edge_pp": 5.474204861868048,
+      "ev": 0.2518134236459302,
+      "stake_eur": 5.0,
+      "staking_method": "p=0.2721 odds=4.60 -> fullKelly=0.0699, halfKelly=0.0350 (under 0.08 cap) -> 0.0350 x EUR131.87 = EUR4.61 -> EUR5.00",
+      "potential_profit_eur": 18.0,
+      "potential_return_eur": 23.0
+    },
+    {
+      "leg": "Away win",
+      "odds": 7.0,
+      "implied_prob": 0.14285714285714285,
+      "model_prob": 0.17829421147589855,
+      "edge_pp": 3.5437068618755703,
+      "ev": 0.24805948033128988,
+      "stake_eur": 3.0,
+      "staking_method": "p=0.1783 odds=7.00 -> fullKelly=0.0413, halfKelly=0.0207 (under 0.08 cap) -> 0.0207 x EUR131.87 = EUR2.73 -> EUR3.00",
+      "potential_profit_eur": 18.0,
+      "potential_return_eur": 21.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold)",
+  "total_stake_eur": 8.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:18.588045+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 44.0
+}
