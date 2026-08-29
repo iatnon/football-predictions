@@ -1,0 +1,41 @@
+{
+  "match": "Leuven vs Standard Liege",
+  "competition": "BEL-Pro League",
+  "kickoff_utc": "2026-08-29T18:45:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.165317002167061,
+    "draw": 0.26543002449616826,
+    "away_win": 0.5692529733367707
+  },
+  "odds": {
+    "home_win": 2.65,
+    "draw": 3.4,
+    "away_win": 2.48
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 2.48,
+      "implied_prob": 0.40322580645161293,
+      "model_prob": 0.5692529733367707,
+      "edge_pp": 16.602716688515777,
+      "ev": 0.41174737387519134,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.5693 odds=2.48 -> fullKelly=0.2782, halfKelly=0.1391 (cap 0.08 binds) -> HALVED (edge 16.60pp >= 15.0pp sanity) -> 0.0400 x EUR131.87 = EUR5.27 -> EUR6.00",
+      "potential_profit_eur": 8.88,
+      "potential_return_eur": 14.88
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 6.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:26.984072+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 14.88
+}
