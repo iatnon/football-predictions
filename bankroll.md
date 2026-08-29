@@ -98,6 +98,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 79 | 2026-08-30 | América vs Puebla (MEX-Liga MX) | Home win | 1.40 | EUR9.00 | pending | pending | pending |
 | 80 | 2026-08-29 | D.C. United vs Los Angeles FC (USA-Major League Soccer) | Home win | 3.65 | EUR6.00 | pending | pending | pending |
 | 81 | 2026-08-29 | New York Red Bulls vs Philadelphia Union (USA-Major League Soccer) | Home win | 2.90 | EUR6.00 | pending | pending | pending |
+| 82 | 2026-08-30 | Minnesota United FC vs Orlando City SC (USA-Major League Soccer) | Draw + Away win (multi-leg) | 4.10 / 3.75 | EUR3.00 + EUR5.00 = EUR8.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 

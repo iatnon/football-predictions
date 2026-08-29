@@ -1,0 +1,53 @@
+{
+  "match": "Minnesota United FC vs Orlando City SC",
+  "competition": "USA-Major League Soccer",
+  "kickoff_utc": "2026-08-30T00:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.40266383983286164,
+    "draw": 0.276526247343419,
+    "away_win": 0.32080991282371923
+  },
+  "odds": {
+    "home_win": 1.79,
+    "draw": 4.1,
+    "away_win": 3.75
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 4.1,
+      "implied_prob": 0.24390243902439027,
+      "model_prob": 0.276526247343419,
+      "edge_pp": 3.2623808319028753,
+      "ev": 0.1337576141080179,
+      "stake_eur": 3.0,
+      "staking_method": "p=0.2765 odds=4.10 -> fullKelly=0.0431, halfKelly=0.0216 (under 0.08 cap) -> 0.0216 x EUR131.87 = EUR2.84 -> EUR3.00",
+      "potential_profit_eur": 9.3,
+      "potential_return_eur": 12.3
+    },
+    {
+      "leg": "Away win",
+      "odds": 3.75,
+      "implied_prob": 0.26666666666666666,
+      "model_prob": 0.32080991282371923,
+      "edge_pp": 5.414324615705257,
+      "ev": 0.2030371730889471,
+      "stake_eur": 5.0,
+      "staking_method": "p=0.3208 odds=3.75 -> fullKelly=0.0738, halfKelly=0.0369 (under 0.08 cap) -> 0.0369 x EUR131.87 = EUR4.87 -> EUR5.00",
+      "potential_profit_eur": 13.75,
+      "potential_return_eur": 18.75
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold)",
+  "total_stake_eur": 8.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:44.036209+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 31.05
+}
