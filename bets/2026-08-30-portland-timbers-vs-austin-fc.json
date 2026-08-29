@@ -1,0 +1,41 @@
+{
+  "match": "Portland Timbers vs Austin FC",
+  "competition": "USA-Major League Soccer",
+  "kickoff_utc": "2026-08-30T02:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5166831428673095,
+    "draw": 0.26271166603823876,
+    "away_win": 0.22060519109445173
+  },
+  "odds": {
+    "home_win": 1.55,
+    "draw": 4.4,
+    "away_win": 5.0
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 4.4,
+      "implied_prob": 0.22727272727272727,
+      "model_prob": 0.26271166603823876,
+      "edge_pp": 3.543893876551149,
+      "ev": 0.1559313305682506,
+      "stake_eur": 4.0,
+      "staking_method": "p=0.2627 odds=4.40 -> fullKelly=0.0459, halfKelly=0.0229 (under 0.08 cap) -> 0.0229 x EUR131.87 = EUR3.02 -> EUR4.00",
+      "potential_profit_eur": 13.6,
+      "potential_return_eur": 17.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 4.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:49.181013+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 17.6
+}
