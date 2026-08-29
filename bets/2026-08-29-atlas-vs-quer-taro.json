@@ -1,0 +1,41 @@
+{
+  "match": "Atlas vs Querétaro",
+  "competition": "MEX-Liga MX",
+  "kickoff_utc": "2026-08-29T23:00:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.3103830661246133,
+    "draw": 0.278766565539239,
+    "away_win": 0.4108503683361477
+  },
+  "odds": {
+    "home_win": 2.05,
+    "draw": 3.3,
+    "away_win": 3.35
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 3.35,
+      "implied_prob": 0.29850746268656714,
+      "model_prob": 0.4108503683361477,
+      "edge_pp": 11.234290564958055,
+      "ev": 0.3763487339260947,
+      "stake_eur": 11.0,
+      "staking_method": "p=0.4109 odds=3.35 -> fullKelly=0.1601, halfKelly=0.0801 (cap 0.08 binds) -> 0.0800 x EUR131.87 = EUR10.55 -> EUR11.00",
+      "potential_profit_eur": 25.85,
+      "potential_return_eur": 36.85
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 11.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:31.680190+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 36.85
+}
