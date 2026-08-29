@@ -1,0 +1,41 @@
+{
+  "match": "Colorado Rapids vs Real Salt Lake",
+  "competition": "USA-Major League Soccer",
+  "kickoff_utc": "2026-08-30T01:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.3316969578001532,
+    "draw": 0.27376164525966534,
+    "away_win": 0.3945413969401815
+  },
+  "odds": {
+    "home_win": 1.87,
+    "draw": 3.8,
+    "away_win": 3.6
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Away win",
+      "odds": 3.6,
+      "implied_prob": 0.2777777777777778,
+      "model_prob": 0.3945413969401815,
+      "edge_pp": 11.676361916240369,
+      "ev": 0.42034902898465343,
+      "stake_eur": 11.0,
+      "staking_method": "p=0.3945 odds=3.60 -> fullKelly=0.1617, halfKelly=0.0808 (cap 0.08 binds) -> 0.0800 x EUR131.87 = EUR10.55 -> EUR11.00",
+      "potential_profit_eur": 28.6,
+      "potential_return_eur": 39.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold); Draw excluded (below_edge_threshold)",
+  "total_stake_eur": 11.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:46.389487+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 39.6
+}
