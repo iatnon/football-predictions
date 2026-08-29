@@ -1,0 +1,41 @@
+{
+  "match": "Pachuca vs Guadalajara",
+  "competition": "MEX-Liga MX",
+  "kickoff_utc": "2026-08-29T23:00:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5402189848498594,
+    "draw": 0.23632844564707575,
+    "away_win": 0.22345256950306475
+  },
+  "odds": {
+    "home_win": 3.0,
+    "draw": 3.4,
+    "away_win": 2.18
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 3.0,
+      "implied_prob": 0.3333333333333333,
+      "model_prob": 0.5402189848498594,
+      "edge_pp": 20.68856515165261,
+      "ev": 0.6206569545495784,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.5402 odds=3.00 -> fullKelly=0.3103, halfKelly=0.1552 (cap 0.08 binds) -> HALVED (edge 20.69pp >= 15.0pp sanity) -> 0.0400 x EUR131.87 = EUR5.27 -> EUR6.00",
+      "potential_profit_eur": 12.0,
+      "potential_return_eur": 18.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 6.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:34.162755+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 18.0
+}
