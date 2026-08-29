@@ -1,0 +1,41 @@
+{
+  "match": "América vs Puebla",
+  "competition": "MEX-Liga MX",
+  "kickoff_utc": "2026-08-30T01:05:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.7516155426721479,
+    "draw": 0.15372121239254874,
+    "away_win": 0.09466324493530336
+  },
+  "odds": {
+    "home_win": 1.4,
+    "draw": 4.5,
+    "away_win": 6.75
+  },
+  "bookmaker": "unibet_nl",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 1.4,
+      "implied_prob": 0.7142857142857143,
+      "model_prob": 0.7516155426721479,
+      "edge_pp": 3.7329828386433617,
+      "ev": 0.05226175974100711,
+      "stake_eur": 9.0,
+      "staking_method": "p=0.7516 odds=1.40 -> fullKelly=0.1307, halfKelly=0.0653 (under 0.08 cap) -> 0.0653 x EUR131.87 = EUR8.61 -> EUR9.00",
+      "potential_profit_eur": 3.6,
+      "potential_return_eur": 12.6
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 9.0,
+  "logged_pre_kickoff": "2026-08-29T17:51:36.758755+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 12.6
+}
