@@ -107,6 +107,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 88 | 2026-08-30 | Lazio vs Genoa (ITA-Serie A) | Home win | 2.38 | EUR5.00 | pending | pending | pending |
 | 89 | 2026-08-30 | Celta Vigo vs Athletic Bilbao (ESP-La Liga) | Home win | 2.80 | EUR11.00 | pending | pending | pending |
 | 90 | 2026-08-31 | Osasuna vs Getafe (ESP-La Liga) | Home win | 2.20 | EUR10.00 | pending | pending | pending |
+| 91 | 2026-08-31 | FC Barcelona vs Rayo Vallecano (ESP-La Liga) | Draw + Away win (multi-leg) | 9.00 / 18.00 | EUR8.00 + EUR6.00 = EUR14.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 

@@ -1,0 +1,53 @@
+{
+  "match": "FC Barcelona vs Rayo Vallecano",
+  "competition": "ESP-La Liga",
+  "kickoff_utc": "2026-08-31T19:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.5821572102572523,
+    "draw": 0.21126243758605176,
+    "away_win": 0.20658035215669604
+  },
+  "odds": {
+    "home_win": 1.15,
+    "draw": 9.0,
+    "away_win": 18.0
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Draw",
+      "odds": 9.0,
+      "implied_prob": 0.1111111111111111,
+      "model_prob": 0.21126243758605176,
+      "edge_pp": 10.015132647494065,
+      "ev": 0.9013619382744658,
+      "stake_eur": 8.0,
+      "staking_method": "p=0.2113 odds=9.00 -> fullKelly=0.1127, halfKelly=0.0563 (under 0.08 cap) -> 0.0563 x EUR131.87 = EUR7.43 -> EUR8.00",
+      "potential_profit_eur": 64.0,
+      "potential_return_eur": 72.0
+    },
+    {
+      "leg": "Away win",
+      "odds": 18.0,
+      "implied_prob": 0.05555555555555555,
+      "model_prob": 0.20658035215669604,
+      "edge_pp": 15.10247966011405,
+      "ev": 2.7184463388205287,
+      "stake_eur": 6.0,
+      "staking_method": "p=0.2066 odds=18.00 -> fullKelly=0.1599, halfKelly=0.0800 (under 0.08 cap) -> HALVED (edge 15.10pp >= 15.0pp sanity) -> 0.0400 x EUR131.87 = EUR5.27 -> EUR6.00",
+      "potential_profit_eur": 102.0,
+      "potential_return_eur": 108.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Home win excluded (below_edge_threshold)",
+  "total_stake_eur": 14.0,
+  "logged_pre_kickoff": "2026-08-30T17:39:40.625841+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 180.0
+}
