@@ -1,0 +1,41 @@
+{
+  "match": "Lazio vs Genoa",
+  "competition": "ITA-Serie A",
+  "kickoff_utc": "2026-08-30T18:45:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.4588240716299594,
+    "draw": 0.31182256662236346,
+    "away_win": 0.22935336174767715
+  },
+  "odds": {
+    "home_win": 2.38,
+    "draw": 2.9,
+    "away_win": 3.7
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 2.38,
+      "implied_prob": 0.42016806722689076,
+      "model_prob": 0.4588240716299594,
+      "edge_pp": 3.8656004403068653,
+      "ev": 0.09200129047930328,
+      "stake_eur": 5.0,
+      "staking_method": "p=0.4588 odds=2.38 -> fullKelly=0.0667, halfKelly=0.0333 (under 0.08 cap) -> 0.0333 x EUR131.87 = EUR4.40 -> EUR5.00",
+      "potential_profit_eur": 6.9,
+      "potential_return_eur": 11.9
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 5.0,
+  "logged_pre_kickoff": "2026-08-30T17:28:47.558048+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 11.9
+}
