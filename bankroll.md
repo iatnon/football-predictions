@@ -105,6 +105,7 @@ Record: 12 bets, 9 wins (bet #11 counted as a win — split double, net +€38.8
 | 86 | 2026-08-29 | Galatasaray vs Goztepe (TUR-Super Lig) | Draw + Away win (multi-leg) | 5.30 / 9.00 | EUR5.00 + EUR5.00 = EUR10.00 | pending | pending | pending |
 | 87 | 2026-08-31 | Aston Villa vs Arsenal (ENG-Premier League) | Home win + Draw (multi-leg) | 7.00 / 4.40 | EUR11.00 + EUR5.00 = EUR16.00 | pending | pending | pending |
 | 88 | 2026-08-30 | Lazio vs Genoa (ITA-Serie A) | Home win | 2.38 | EUR5.00 | pending | pending | pending |
+| 89 | 2026-08-30 | Celta Vigo vs Athletic Bilbao (ESP-La Liga) | Home win | 2.80 | EUR11.00 | pending | pending | pending |
 
 **Settled club-season bankroll: €131.87** (started €196.04; 54 bets #13–#66 settled, none open). Bets #64–#66 settled 2026-08-19 via ESPN final scores: Alavés 3-0 Getafe (won +€24.00), Fortuna 3-1 Cambuur (both legs lost -€11.00), Sevilla 2-1 Rayo (lost -€6.00).
 

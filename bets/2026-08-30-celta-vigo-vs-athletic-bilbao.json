@@ -1,0 +1,41 @@
+{
+  "match": "Celta Vigo vs Athletic Bilbao",
+  "competition": "ESP-La Liga",
+  "kickoff_utc": "2026-08-30T19:30:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.4721237137471893,
+    "draw": 0.26718142044014787,
+    "away_win": 0.2606948658126629
+  },
+  "odds": {
+    "home_win": 2.8,
+    "draw": 3.25,
+    "away_win": 2.8
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 2.8,
+      "implied_prob": 0.35714285714285715,
+      "model_prob": 0.4721237137471893,
+      "edge_pp": 11.498085660433215,
+      "ev": 0.32194639849213,
+      "stake_eur": 11.0,
+      "staking_method": "p=0.4721 odds=2.80 -> fullKelly=0.1789, halfKelly=0.0894 (cap 0.08 binds) -> 0.0800 x EUR131.87 = EUR10.55 -> EUR11.00",
+      "potential_profit_eur": 19.8,
+      "potential_return_eur": 30.8
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Draw excluded (below_edge_threshold); Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 11.0,
+  "logged_pre_kickoff": "2026-08-30T17:39:27.514542+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 30.8
+}
