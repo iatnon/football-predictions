@@ -1,0 +1,53 @@
+{
+  "match": "Aston Villa vs Arsenal",
+  "competition": "ENG-Premier League",
+  "kickoff_utc": "2026-08-31T19:00:00Z",
+  "model": "v20full 3-seed club ensemble, all-data (lineup-aware)",
+  "lineups_confirmed": false,
+  "probabilities": {
+    "home_win": 0.2751552885011856,
+    "draw": 0.2755323161882253,
+    "away_win": 0.44931239531058914
+  },
+  "odds": {
+    "home_win": 7.0,
+    "draw": 4.4,
+    "away_win": 1.52
+  },
+  "bookmaker": "unibet_kambi",
+  "bets": [
+    {
+      "leg": "Home win",
+      "odds": 7.0,
+      "implied_prob": 0.14285714285714285,
+      "model_prob": 0.2751552885011856,
+      "edge_pp": 13.229814564404274,
+      "ev": 0.9260870195082991,
+      "stake_eur": 11.0,
+      "staking_method": "p=0.2752 odds=7.00 -> fullKelly=0.1543, halfKelly=0.0772 (under 0.08 cap) -> 0.0772 x EUR131.87 = EUR10.18 -> EUR11.00",
+      "potential_profit_eur": 66.0,
+      "potential_return_eur": 77.0
+    },
+    {
+      "leg": "Draw",
+      "odds": 4.4,
+      "implied_prob": 0.22727272727272727,
+      "model_prob": 0.2755323161882253,
+      "edge_pp": 4.8259588915498055,
+      "ev": 0.21234219122819153,
+      "stake_eur": 5.0,
+      "staking_method": "p=0.2755 odds=4.40 -> fullKelly=0.0625, halfKelly=0.0312 (under 0.08 cap) -> 0.0312 x EUR131.87 = EUR4.12 -> EUR5.00",
+      "potential_profit_eur": 17.0,
+      "potential_return_eur": 22.0
+    }
+  ],
+  "placed": false,
+  "excluded_legs_note": "Away win excluded (below_edge_threshold)",
+  "total_stake_eur": 16.0,
+  "logged_pre_kickoff": "2026-08-30T14:58:34.477219+00:00",
+  "result": "pending",
+  "final_score": null,
+  "profit_eur": null,
+  "bankroll_after_eur": null,
+  "potential_return_eur": 99.0
+}
